@@ -4551,50 +4551,6 @@
 			)
 		)
 	)
-	(global_label "row6-mcu"
-		(shape input)
-		(at 151.13 41.91 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "0a19cdf4-e836-4b7a-8836-ac8680a2e2f3")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 138.1663 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "row4-mcu"
-		(shape input)
-		(at 45.72 53.34 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "0a4d905c-73fe-40d0-8db9-1810ff032135")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 32.7563 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "RST"
 		(shape input)
 		(at 73.66 38.1 0)
@@ -4683,6 +4639,28 @@
 			)
 		)
 	)
+	(global_label "row4-mcu"
+		(shape input)
+		(at 45.72 60.96 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "12d04f15-1e1e-44ad-8e30-675bfc65e9c0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 32.7563 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "encA"
 		(shape input)
 		(at 45.72 48.26 180)
@@ -4705,9 +4683,9 @@
 			)
 		)
 	)
-	(global_label "row4-mcu"
+	(global_label "row6-mcu"
 		(shape input)
-		(at 151.13 36.83 180)
+		(at 45.72 55.88 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4715,9 +4693,9 @@
 			)
 			(justify right)
 		)
-		(uuid "137c024d-0104-4944-ba03-1666f3bd872f")
+		(uuid "1591b249-827e-4ded-871e-84bfbc4d5257")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 138.1663 36.83 0)
+			(at 32.7563 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4881,6 +4859,28 @@
 			)
 		)
 	)
+	(global_label "row5-mcu"
+		(shape input)
+		(at 151.13 41.91 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "24b5c95f-a62d-45f5-b062-080d9f43a9b4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 138.1663 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "BAT-conn1"
 		(shape input)
 		(at 287.02 33.02 180)
@@ -4938,28 +4938,6 @@
 		(uuid "2aa19ac7-7c8e-4401-a01e-ec97c209ee73")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 97.9496 243.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "row7-mcu"
-		(shape input)
-		(at 45.72 60.96 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "2b3da7ae-eeb9-43d9-a71f-e23669d287f5")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 32.7563 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5167,6 +5145,28 @@
 			)
 		)
 	)
+	(global_label "row7-mcu"
+		(shape input)
+		(at 45.72 53.34 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "35da9209-b70d-450e-8a9b-b070978b2a3f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 32.7563 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "col1-conn1"
 		(shape input)
 		(at 332.74 43.18 180)
@@ -5246,6 +5246,28 @@
 		(uuid "3dec588e-0bf5-44b1-b02c-305ce2f6c299")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 29.9417 182.8006 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "row5-mcu"
+		(shape input)
+		(at 45.72 58.42 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "3f0d998c-dec8-432e-9a68-be2a9cf8cb2b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 32.7563 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5356,28 +5378,6 @@
 		(uuid "4a459df4-5b10-4fbb-9154-37c42155d0bb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 39.8925 246.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "row7-mcu"
-		(shape input)
-		(at 151.13 44.45 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "4b1afb51-0fcb-4b6b-ba00-4545bd79f0b0")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 138.1663 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5783,6 +5783,28 @@
 			)
 		)
 	)
+	(global_label "row6-mcu"
+		(shape input)
+		(at 151.13 39.37 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "71b1fa04-9df5-4933-8c59-3074dabf06f6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 138.1663 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "MOSI"
 		(shape input)
 		(at 45.72 43.18 180)
@@ -5884,28 +5906,6 @@
 		(uuid "821f899a-b980-40e6-ab3f-8602a36a2f0a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 98.7963 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "row6-mcu"
-		(shape input)
-		(at 45.72 58.42 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "861b65a5-5bbe-4e8b-afc5-551a5fa1ace9")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 32.7563 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6201,28 +6201,6 @@
 			)
 		)
 	)
-	(global_label "row5-mcu"
-		(shape input)
-		(at 45.72 55.88 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "9aacaec1-bca2-463f-96ab-2fcf893e3634")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 32.7563 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "col2-mcu"
 		(shape input)
 		(at 73.66 45.72 0)
@@ -6329,28 +6307,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "row5-mcu"
-		(shape input)
-		(at 151.13 39.37 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "a7823f8a-e5bd-43c6-9f01-609765a0d85e")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 138.1663 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 				(hide yes)
 			)
 		)
@@ -6839,6 +6795,28 @@
 			)
 		)
 	)
+	(global_label "row7-mcu"
+		(shape input)
+		(at 151.13 36.83 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c80e4d73-98a8-4a31-9a23-d25e23fe32f7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 138.1663 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "row0-conn1"
 		(shape input)
 		(at 287.02 58.42 180)
@@ -6874,6 +6852,28 @@
 		(uuid "ca371e8a-53af-4cb1-b07d-57edb85ee321")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 318.325 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "row4-mcu"
+		(shape input)
+		(at 151.13 44.45 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "cedb2822-190b-46eb-8431-6e2a44f4d4ea")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 138.1663 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)

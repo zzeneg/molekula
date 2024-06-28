@@ -265,6 +265,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -277,6 +278,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -289,9 +291,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
+		(property ki_fp_filters "RotaryEncoder*Switch*")
+		(path "/ab80281d-ba59-4383-873a-f4caf0beddba")
+		(sheetname "Root")
+		(sheetfile "pcb.kicad_sch")
 		(attr through_hole)
 		(fp_circle
 			(center 0 0)
@@ -499,6 +506,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -511,6 +519,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -523,6 +532,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -992,6 +1002,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1004,6 +1015,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1016,9 +1028,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
+		(path "/1eecb40e-0658-44f6-b962-a18a109d8030")
+		(sheetname "Root")
+		(sheetfile "pcb.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -5.4 4.909)
@@ -1323,6 +1340,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1335,6 +1353,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1347,6 +1366,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1818,6 +1838,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1830,6 +1851,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1842,6 +1864,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2313,6 +2336,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2325,6 +2349,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2337,9 +2362,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
+		(path "/9d472802-a482-4dc7-8e9a-ff6b4506afbe")
+		(sheetname "Root")
+		(sheetfile "pcb.kicad_sch")
 		(attr through_hole)
 		(fp_rect
 			(start 7 17.78)
@@ -2547,6 +2576,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2559,6 +2589,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2571,6 +2602,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3042,6 +3074,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3054,6 +3087,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3066,6 +3100,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3536,6 +3571,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3548,6 +3584,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3560,9 +3597,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
+		(property ki_fp_filters "MountingHole*")
+		(path "/0e55be12-e97c-4af9-a0a8-b9d27c152c54")
+		(sheetname "Root")
+		(sheetfile "pcb.kicad_sch")
 		(attr through_hole)
 		(pad "" thru_hole circle
 			(at 0 0)
@@ -3623,6 +3665,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3635,6 +3678,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3647,6 +3691,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4117,6 +4162,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4129,6 +4175,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4141,9 +4188,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
+		(path "/d0a7c49f-03a1-4ba8-abd3-7181a0a9f208")
+		(sheetname "Root")
+		(sheetfile "pcb.kicad_sch")
 		(attr smd)
 		(fp_circle
 			(center -3 -2.8)
@@ -4608,6 +4660,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4620,6 +4673,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4632,9 +4686,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
+		(path "/d94c25a0-a4f9-49bc-9d90-30faa733d0d6")
+		(sheetname "Root")
+		(sheetfile "pcb.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 5.4 -1.5)
@@ -4782,7 +4841,7 @@
 			(at -2.25 -1.55 90)
 			(size 0.28 1.5)
 			(layers "F.Cu" "F.Paste" "F.Mask")
-			(net 59 "row4-mcu")
+			(net 62 "row7-mcu")
 			(pinfunction "Pin_2")
 			(pintype "passive")
 			(uuid "d3c8cffc-fbd7-4508-8b6a-4756279df25e")
@@ -4791,7 +4850,7 @@
 			(at -1.75 -1.55 90)
 			(size 0.28 1.5)
 			(layers "F.Cu" "F.Paste" "F.Mask")
-			(net 58 "row5-mcu")
+			(net 64 "row6-mcu")
 			(pinfunction "Pin_3")
 			(pintype "passive")
 			(uuid "a15f0375-2775-42ab-8959-24ef01574135")
@@ -4800,7 +4859,7 @@
 			(at -1.25 -1.55 90)
 			(size 0.28 1.5)
 			(layers "F.Cu" "F.Paste" "F.Mask")
-			(net 64 "row6-mcu")
+			(net 58 "row5-mcu")
 			(pinfunction "Pin_4")
 			(pintype "passive")
 			(uuid "a30b34c0-3f88-45c4-aa55-ce3aceee48ec")
@@ -4809,7 +4868,7 @@
 			(at -0.75 -1.55 90)
 			(size 0.28 1.5)
 			(layers "F.Cu" "F.Paste" "F.Mask")
-			(net 62 "row7-mcu")
+			(net 59 "row4-mcu")
 			(pinfunction "Pin_5")
 			(pintype "passive")
 			(uuid "f5869ed1-21f8-461d-91ad-577ecdfc870e")
@@ -4938,6 +4997,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4950,6 +5010,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4962,9 +5023,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
+		(property ki_fp_filters "MountingHole*")
+		(path "/775b1a5d-957f-45ff-be97-059bf2781d04")
+		(sheetname "Root")
+		(sheetfile "pcb.kicad_sch")
 		(attr through_hole)
 		(pad "" thru_hole circle
 			(at 0 0)
@@ -5025,6 +5091,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5037,6 +5104,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5049,6 +5117,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5520,6 +5589,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5532,6 +5602,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5544,6 +5615,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6014,6 +6086,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6026,6 +6099,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6038,9 +6112,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
+		(property ki_fp_filters "MountingHole*")
+		(path "/c8d604cf-3aae-4fcd-b84c-8edb4f4802dd")
+		(sheetname "Root")
+		(sheetfile "pcb.kicad_sch")
 		(attr through_hole)
 		(pad "" thru_hole circle
 			(at 0 0)
@@ -6101,6 +6180,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6113,6 +6193,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6125,6 +6206,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6596,6 +6678,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6608,6 +6691,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6620,6 +6704,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7091,6 +7176,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7103,6 +7189,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7115,6 +7202,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7586,6 +7674,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7598,6 +7687,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7610,6 +7700,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8094,6 +8185,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8106,6 +8198,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8118,6 +8211,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8589,6 +8683,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8601,6 +8696,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8613,6 +8709,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9084,6 +9181,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9096,6 +9194,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9108,6 +9207,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9578,6 +9678,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9590,6 +9691,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9602,9 +9704,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
+		(property ki_fp_filters "MountingHole*")
+		(path "/f0fa5989-9d2a-4e40-b0e5-915276924776")
+		(sheetname "Root")
+		(sheetfile "pcb.kicad_sch")
 		(attr through_hole)
 		(pad "" thru_hole circle
 			(at 0 0)
@@ -9665,6 +9772,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9677,6 +9785,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9689,6 +9798,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -10160,6 +10270,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -10172,6 +10283,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -10184,6 +10296,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -10655,6 +10768,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -10667,6 +10781,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -10679,6 +10794,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -11150,6 +11266,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -11162,6 +11279,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -11174,6 +11292,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -11645,6 +11764,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -11657,6 +11777,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -11669,6 +11790,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -12140,6 +12262,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -12152,6 +12275,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -12164,6 +12288,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -12635,6 +12760,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -12647,6 +12773,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -12659,6 +12786,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -13129,6 +13257,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -13141,6 +13270,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -13153,9 +13283,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
+		(property ki_fp_filters "MountingHole*")
+		(path "/4eca4889-b8ac-4204-99d7-71282cc1005a")
+		(sheetname "Root")
+		(sheetfile "pcb.kicad_sch")
 		(attr through_hole)
 		(pad "" thru_hole circle
 			(at 0 0)
@@ -13217,6 +13352,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -13229,6 +13365,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -13241,6 +13378,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -13566,6 +13704,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -13578,6 +13717,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -13590,9 +13730,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
+		(path "/19632ab9-36d0-407b-b1ad-68ee6ff397af")
+		(sheetname "Root")
+		(sheetfile "pcb.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 8.4 7.4)
@@ -13851,6 +13995,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -13863,6 +14008,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -13875,6 +14021,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -14346,6 +14493,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -14358,6 +14506,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -14370,6 +14519,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -14840,6 +14990,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -14852,6 +15003,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -14864,9 +15016,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
+		(path "/44f2dcb3-2ef7-473f-9208-9ddf171afd28")
+		(sheetname "Root")
+		(sheetfile "pcb.kicad_sch")
 		(attr through_hole)
 		(fp_circle
 			(center -2.5 6.5)
@@ -15085,6 +15242,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -15097,6 +15255,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -15109,6 +15268,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -15435,6 +15595,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -15447,6 +15608,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -15459,6 +15621,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -15930,6 +16093,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -15942,6 +16106,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -15954,6 +16119,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -16425,6 +16591,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -16437,6 +16604,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -16449,6 +16617,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -16919,6 +17088,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -16931,6 +17101,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -16943,9 +17114,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
+		(property ki_fp_filters "MountingHole*")
+		(path "/f5ed33ab-5aba-49ec-a2aa-3d7865012d71")
+		(sheetname "Root")
+		(sheetfile "pcb.kicad_sch")
 		(attr through_hole)
 		(pad "" thru_hole circle
 			(at 0 0)
@@ -17005,6 +17181,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -17017,6 +17194,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -17029,9 +17207,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
+		(path "/570df6c8-d99b-4201-84e0-4a5047dc08ad")
+		(sheetname "Root")
+		(sheetfile "pcb.kicad_sch")
 		(attr smd)
 		(fp_circle
 			(center -3 -2.8)
@@ -17498,6 +17681,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -17510,6 +17694,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -17522,6 +17707,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -17993,6 +18179,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -18005,6 +18192,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -18017,6 +18205,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -18488,6 +18677,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -18500,6 +18690,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -18512,6 +18703,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -18983,6 +19175,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -18995,6 +19188,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -19007,6 +19201,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -19477,6 +19672,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -19489,6 +19685,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -19501,9 +19698,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
+		(property ki_fp_filters "MountingHole*")
+		(path "/d1a4d548-a918-4bc9-b3b7-c39c2fec7bd3")
+		(sheetname "Root")
+		(sheetfile "pcb.kicad_sch")
 		(attr through_hole)
 		(pad "" thru_hole circle
 			(at 0 0)
@@ -19563,6 +19765,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -19575,6 +19778,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -19587,6 +19791,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -20058,6 +20263,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -20070,6 +20276,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -20082,6 +20289,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -20553,6 +20761,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -20565,6 +20774,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -20577,6 +20787,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -21048,6 +21259,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -21060,6 +21272,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -21072,6 +21285,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -21543,6 +21757,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -21555,6 +21770,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -21567,6 +21783,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -22041,6 +22258,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -22054,6 +22272,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -22067,6 +22286,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -22315,6 +22535,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -22328,6 +22549,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -22341,6 +22563,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -22589,6 +22812,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -22602,6 +22826,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -22615,6 +22840,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -22863,6 +23089,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -22876,6 +23103,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -22889,6 +23117,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -23137,6 +23366,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -23150,6 +23380,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -23163,6 +23394,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -23411,6 +23643,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -23424,6 +23657,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -23437,6 +23671,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -23685,6 +23920,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -23698,6 +23934,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -23711,6 +23948,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -23959,6 +24197,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -23972,6 +24211,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -23985,6 +24225,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -24231,6 +24472,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -24244,6 +24486,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -24257,6 +24500,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -24573,6 +24817,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -24586,6 +24831,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -24599,6 +24845,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -24847,6 +25094,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -24860,6 +25108,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -24873,6 +25122,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -25121,6 +25371,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -25134,6 +25385,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -25147,6 +25399,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -25395,6 +25648,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -25408,6 +25662,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -25421,6 +25676,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -25669,6 +25925,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -25682,6 +25939,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -25695,6 +25953,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -25943,6 +26202,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -25956,6 +26216,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -25969,6 +26230,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -26217,6 +26479,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -26230,6 +26493,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -26243,6 +26507,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -26491,6 +26756,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -26504,6 +26770,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -26517,6 +26784,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -26765,6 +27033,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -26778,6 +27047,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -26791,6 +27061,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -27038,6 +27309,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -27051,6 +27323,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -27064,10 +27337,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(path "/73c3838f-d101-431a-a5d1-1fb3c0958254")
+		(sheetname "Root")
+		(sheetfile "pcb.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 2.72 1.04)
@@ -27481,6 +27758,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -27494,6 +27772,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -27507,6 +27786,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -27753,6 +28033,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -27766,6 +28047,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -27779,10 +28061,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(path "/c68f65eb-846f-4c2e-ac71-aa2b7b2c81f0")
+		(sheetname "Root")
+		(sheetfile "pcb.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 8.89 16.51)
@@ -28130,7 +28416,7 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 59 "row4-mcu")
+			(net 62 "row7-mcu")
 			(pinfunction "100")
 			(pintype "bidirectional")
 			(uuid "be0bf98e-bc3f-4e2b-bbaf-db68af6028af")
@@ -28141,7 +28427,7 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 58 "row5-mcu")
+			(net 64 "row6-mcu")
 			(pinfunction "011")
 			(pintype "bidirectional")
 			(uuid "bc2398b4-7041-4f81-864b-dd5ed6400f05")
@@ -28152,7 +28438,7 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 64 "row6-mcu")
+			(net 58 "row5-mcu")
 			(pinfunction "104")
 			(pintype "bidirectional")
 			(uuid "f48252d6-6d52-46f4-9b37-8f74fe12aee6")
@@ -28163,7 +28449,7 @@
 			(drill 1.0922)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 62 "row7-mcu")
+			(net 59 "row4-mcu")
 			(pinfunction "106")
 			(pintype "bidirectional")
 			(uuid "eebb9217-b45a-4970-bb2c-2cda7fff48e5")
@@ -28431,6 +28717,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -28444,6 +28731,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -28457,6 +28745,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -28705,6 +28994,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -28718,6 +29008,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -28731,6 +29022,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -28979,6 +29271,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -28992,6 +29285,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -29005,6 +29299,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -29253,6 +29548,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -29266,6 +29562,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -29279,6 +29576,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -29527,6 +29825,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -29540,6 +29839,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -29553,6 +29853,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -29801,6 +30102,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -29814,6 +30116,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -29827,6 +30130,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -30075,6 +30379,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -30088,6 +30393,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -30101,6 +30407,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -30349,6 +30656,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -30362,6 +30670,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -30375,6 +30684,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -30623,6 +30933,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -30636,6 +30947,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -30649,6 +30961,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -30897,6 +31210,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -30910,6 +31224,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -30923,6 +31238,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -31171,6 +31487,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -31184,6 +31501,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -31197,6 +31515,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -31442,6 +31761,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -31455,6 +31775,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -31468,6 +31789,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -31784,6 +32106,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -31797,6 +32120,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -31810,6 +32134,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -32058,6 +32383,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -32071,6 +32397,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -32084,6 +32411,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -32332,6 +32660,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -32345,6 +32674,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -32358,6 +32688,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -32606,6 +32937,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -32619,6 +32951,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -32632,6 +32965,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -32880,6 +33214,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -32893,6 +33228,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -32906,6 +33242,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -33154,6 +33491,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -33167,6 +33505,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -33180,6 +33519,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -33428,6 +33768,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -33441,6 +33782,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -33454,6 +33796,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -33699,6 +34042,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -33712,6 +34056,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -33725,10 +34070,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
+		(path "/65e423bd-9030-43a7-af08-56393ae7936c")
+		(sheetname "Root")
+		(sheetfile "pcb.kicad_sch")
 		(attr through_hole)
 		(fp_circle
 			(center -2.5 -6.5)
@@ -38899,68 +39249,68 @@
 		(uuid "ef9ca5d1-b19b-4ade-9c3e-fe3f0fc5197e")
 	)
 	(segment
-		(start 202.37 7.24)
-		(end 206.902157 7.24)
+		(start 208.92 -5.43)
+		(end 207.54 -6.81)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 58)
-		(uuid "0d9f6c45-d091-437a-9ee7-d00b5dee0364")
+		(uuid "7e7e6e53-ea71-4033-9ac8-39e28dbb52aa")
 	)
 	(segment
-		(start 209.32 4.822157)
-		(end 209.32 -7.57)
+		(start 208.92 4.622157)
+		(end 208.92 -5.43)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 58)
-		(uuid "361f3186-ac96-4e5e-9902-3dbb4497854c")
+		(uuid "c0ec3d11-1a99-4b5a-a8ff-ab81085cda77")
 	)
 	(segment
-		(start 206.902157 7.24)
-		(end 209.32 4.822157)
+		(start 206.802157 6.74)
+		(end 208.92 4.622157)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 58)
-		(uuid "aefc3e79-69c9-4050-94f9-9fc14149b36d")
+		(uuid "d0d79000-64f4-4eaf-8c64-92f7499364d4")
 	)
 	(segment
-		(start 209.32 -7.57)
-		(end 207.54 -9.35)
+		(start 202.37 6.74)
+		(end 206.802157 6.74)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 58)
-		(uuid "b822c81c-ec00-4b85-b009-932b0e458e74")
+		(uuid "dfaea868-d7cf-4470-9111-150746bd1c16")
 	)
 	(segment
-		(start 209.72 5.022157)
-		(end 209.72 -9.71)
+		(start 206.702157 6.24)
+		(end 208.52 4.422157)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 59)
-		(uuid "0defe48f-5d65-4c3e-8997-d93c5036319a")
+		(uuid "252242aa-63e1-4af7-ac2c-cae9dd848710")
 	)
 	(segment
-		(start 202.37 7.74)
-		(end 207.002157 7.74)
+		(start 208.52 4.422157)
+		(end 208.52 -3.29)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 59)
-		(uuid "8dcb180b-df43-45fe-9314-3bc8af135fe5")
+		(uuid "4fcbfc02-479a-4a0b-8aa1-19a6e020fefa")
 	)
 	(segment
-		(start 209.72 -9.71)
-		(end 207.54 -11.89)
+		(start 208.52 -3.29)
+		(end 207.54 -4.27)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 59)
-		(uuid "af110ff8-aeba-4ed9-ac29-e02a80bdcce9")
+		(uuid "933141eb-b0cf-4590-8d22-b5c6bbe5b9c0")
 	)
 	(segment
-		(start 207.002157 7.74)
-		(end 209.72 5.022157)
+		(start 202.37 6.24)
+		(end 206.702157 6.24)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 59)
-		(uuid "dfda4710-9e2c-4925-a601-48b0842e2dc1")
+		(uuid "f7269be9-916d-41c4-95c4-a8afa347e4c1")
 	)
 	(segment
 		(start 197.47 3.74)
@@ -39075,36 +39425,36 @@
 		(uuid "d9a3ee3c-8f4f-4b45-9c87-d4b936836b39")
 	)
 	(segment
-		(start 206.702157 6.24)
-		(end 208.52 4.422157)
+		(start 209.72 5.022157)
+		(end 209.72 -9.71)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 62)
-		(uuid "252242aa-63e1-4af7-ac2c-cae9dd848710")
+		(uuid "0defe48f-5d65-4c3e-8997-d93c5036319a")
 	)
 	(segment
-		(start 208.52 4.422157)
-		(end 208.52 -3.29)
+		(start 202.37 7.74)
+		(end 207.002157 7.74)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 62)
-		(uuid "4fcbfc02-479a-4a0b-8aa1-19a6e020fefa")
+		(uuid "8dcb180b-df43-45fe-9314-3bc8af135fe5")
 	)
 	(segment
-		(start 208.52 -3.29)
-		(end 207.54 -4.27)
+		(start 209.72 -9.71)
+		(end 207.54 -11.89)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 62)
-		(uuid "933141eb-b0cf-4590-8d22-b5c6bbe5b9c0")
+		(uuid "af110ff8-aeba-4ed9-ac29-e02a80bdcce9")
 	)
 	(segment
-		(start 202.37 6.24)
-		(end 206.702157 6.24)
+		(start 207.002157 7.74)
+		(end 209.72 5.022157)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 62)
-		(uuid "f7269be9-916d-41c4-95c4-a8afa347e4c1")
+		(uuid "dfda4710-9e2c-4925-a601-48b0842e2dc1")
 	)
 	(segment
 		(start 208.12 -1.71)
@@ -39163,36 +39513,36 @@
 		(uuid "ccf44d66-a0d7-45ef-9b99-5a04f755f30d")
 	)
 	(segment
-		(start 208.92 -5.43)
-		(end 207.54 -6.81)
+		(start 202.37 7.24)
+		(end 206.902157 7.24)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 64)
-		(uuid "7e7e6e53-ea71-4033-9ac8-39e28dbb52aa")
+		(uuid "0d9f6c45-d091-437a-9ee7-d00b5dee0364")
 	)
 	(segment
-		(start 208.92 4.622157)
-		(end 208.92 -5.43)
+		(start 209.32 4.822157)
+		(end 209.32 -7.57)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 64)
-		(uuid "c0ec3d11-1a99-4b5a-a8ff-ab81085cda77")
+		(uuid "361f3186-ac96-4e5e-9902-3dbb4497854c")
 	)
 	(segment
-		(start 206.802157 6.74)
-		(end 208.92 4.622157)
+		(start 206.902157 7.24)
+		(end 209.32 4.822157)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 64)
-		(uuid "d0d79000-64f4-4eaf-8c64-92f7499364d4")
+		(uuid "aefc3e79-69c9-4050-94f9-9fc14149b36d")
 	)
 	(segment
-		(start 202.37 6.74)
-		(end 206.802157 6.74)
+		(start 209.32 -7.57)
+		(end 207.54 -9.35)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 64)
-		(uuid "dfaea868-d7cf-4470-9111-150746bd1c16")
+		(uuid "b822c81c-ec00-4b85-b009-932b0e458e74")
 	)
 	(segment
 		(start 192.3 -32.21)
