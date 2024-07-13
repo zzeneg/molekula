@@ -2467,261 +2467,6 @@
 				)
 			)
 		)
-		(symbol "zzkeeb:RollerEncoder_EVQWGD001"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "U"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "RollerEncoder_EVQWGD001"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 -8.89 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "RollerEncoder_EVQWGD001_0_1"
-				(rectangle
-					(start -5.08 6.35)
-					(end 7.62 -3.81)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.81 -2.54) (xy 6.35 -2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.81 -1.27) (xy 6.35 -1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.81 0) (xy 6.35 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.81 1.27) (xy 6.35 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.81 2.54) (xy 6.35 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.81 3.81) (xy 6.35 3.81)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.81 5.08) (xy 6.35 5.08)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "RollerEncoder_EVQWGD001_1_1"
-				(pin output line
-					(at -7.62 5.08 0)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at -7.62 2.54 0)
-					(length 2.54)
-					(name "B"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "B"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 0 0)
-					(length 2.54)
-					(name "C"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "C"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at -7.62 -2.54 0)
-					(length 2.54)
-					(name "NC"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "NC"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at -1.27 8.89 270)
-					(length 2.54)
-					(name "S1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "S1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at 1.27 8.89 270)
-					(length 2.54)
-					(name "S2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "S2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "zzkeeb:Switch"
 			(pin_numbers hide)
 			(pin_names
@@ -3168,10 +2913,6 @@
 		(uuid "4366e04d-4340-410e-98b1-6c2811b9d305")
 	)
 	(no_connect
-		(at 220.98 33.02)
-		(uuid "e2947096-0add-4d3d-bd19-95c47ee15bef")
-	)
-	(no_connect
 		(at 46.99 266.7)
 		(uuid "f41c5f53-75ed-44ad-a1c3-35f762f0630d")
 	)
@@ -3267,7 +3008,7 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 49.53) (xy 212.09 49.53)
+			(xy 196.85 59.69) (xy 209.55 59.69)
 		)
 		(stroke
 			(width 0)
@@ -3397,7 +3138,7 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 46.99) (xy 212.09 46.99)
+			(xy 196.85 57.15) (xy 209.55 57.15)
 		)
 		(stroke
 			(width 0)
@@ -3667,16 +3408,6 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 17.78) (xy 227.33 21.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7907b16e-436b-4ff8-a51a-061bd85572f8")
-	)
-	(wire
-		(pts
 			(xy 74.93 181.61) (xy 74.93 182.88)
 		)
 		(stroke
@@ -3724,16 +3455,6 @@
 			(type default)
 		)
 		(uuid "7dac44d5-876b-4655-8a7e-85e0e35177f7")
-	)
-	(wire
-		(pts
-			(xy 215.9 30.48) (xy 220.98 30.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7f093673-cef7-40ed-a941-a51c9a93c3ca")
 	)
 	(wire
 		(pts
@@ -3917,16 +3638,6 @@
 	)
 	(wire
 		(pts
-			(xy 223.52 17.78) (xy 227.33 17.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9e4fb662-3dde-4e7e-a9f5-5148a972fb6c")
-	)
-	(wire
-		(pts
 			(xy 92.71 120.65) (xy 92.71 121.92)
 		)
 		(stroke
@@ -4067,7 +3778,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 29.21) (xy 187.96 29.21)
+			(xy 193.04 35.56) (xy 203.2 35.56)
 		)
 		(stroke
 			(width 0)
@@ -5411,7 +5122,7 @@
 	)
 	(global_label "encB"
 		(shape input)
-		(at 187.96 31.75 180)
+		(at 203.2 38.1 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5421,7 +5132,7 @@
 		)
 		(uuid "52181b4b-572a-442b-8190-755e21b28742")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 180.3786 31.75 0)
+			(at 195.6186 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5675,7 +5386,7 @@
 	)
 	(global_label "SCK"
 		(shape input)
-		(at 212.09 44.45 180)
+		(at 209.55 54.61 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5685,7 +5396,7 @@
 		)
 		(uuid "652c32c8-ab54-4786-9986-d63ee6dae9db")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 205.3553 44.45 0)
+			(at 202.8153 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5719,7 +5430,7 @@
 	)
 	(global_label "CS"
 		(shape input)
-		(at 212.09 52.07 180)
+		(at 209.55 62.23 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5729,7 +5440,7 @@
 		)
 		(uuid "6b305bc3-e4ed-410d-9cb6-0cd7695d72da")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 206.6253 52.07 0)
+			(at 204.0853 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5829,7 +5540,7 @@
 	)
 	(global_label "OFF"
 		(shape input)
-		(at 203.2 26.67 0)
+		(at 218.44 33.02 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5839,7 +5550,7 @@
 		)
 		(uuid "741d52b3-0046-4776-a54b-4c88d354e259")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 209.6929 26.67 0)
+			(at 224.9329 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6049,7 +5760,7 @@
 	)
 	(global_label "MOSI"
 		(shape input)
-		(at 212.09 41.91 180)
+		(at 209.55 52.07 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6059,7 +5770,7 @@
 		)
 		(uuid "8d27aee6-67b8-43b7-9bb5-970d70b82223")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 204.5086 41.91 0)
+			(at 201.9686 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6245,28 +5956,6 @@
 			)
 		)
 	)
-	(global_label "encB"
-		(shape input)
-		(at 220.98 27.94 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "a2189827-3cfe-4dc8-a9e0-1041f275dcb2")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 213.3986 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "col2-conn1"
 		(shape input)
 		(at 287.02 40.64 180)
@@ -6285,28 +5974,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "OFF"
-		(shape input)
-		(at 229.87 21.59 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "a76eb9c9-c6c3-48cd-8ed7-109d3dbb83eb")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 229.87 15.0971 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 				(hide yes)
 			)
 		)
@@ -6511,7 +6178,7 @@
 	)
 	(global_label "encA"
 		(shape input)
-		(at 187.96 26.67 180)
+		(at 203.2 33.02 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6521,7 +6188,7 @@
 		)
 		(uuid "b3aa779c-5879-4c53-9baf-4585f9bd43b4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 180.56 26.67 0)
+			(at 195.8 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6709,7 +6376,7 @@
 	)
 	(global_label "RST"
 		(shape input)
-		(at 207.01 68.58 180)
+		(at 204.47 78.74 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6719,7 +6386,7 @@
 		)
 		(uuid "c1820fd7-e2f5-4877-ac4d-c699812e0823")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 200.5777 68.58 0)
+			(at 198.0377 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7380,28 +7047,6 @@
 		(uuid "fbc58459-0494-49ea-89db-2c04bb8f45da")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 97.9496 246.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "encA"
-		(shape input)
-		(at 220.98 25.4 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "fda83d32-9fe5-4852-aeb5-f7c5ef30cfc1")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 213.58 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8208,7 +7853,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 199.39 46.99 0)
+		(at 196.85 57.15 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8216,7 +7861,7 @@
 		(dnp no)
 		(uuid "12f647e1-660f-477d-af05-5234366299ac")
 		(property "Reference" "#PWR07"
-			(at 199.39 50.8 0)
+			(at 196.85 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8225,7 +7870,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 199.39 43.18 0)
+			(at 196.85 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8233,7 +7878,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 199.39 46.99 0)
+			(at 196.85 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8242,7 +7887,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 199.39 46.99 0)
+			(at 196.85 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8251,7 +7896,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 199.39 46.99 0)
+			(at 196.85 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8533,88 +8178,6 @@
 			(project "pcb"
 				(path "/2f68eba7-4e8a-4af0-a221-669d7c557d47"
 					(reference "#PWR04")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "zzkeeb:RollerEncoder_EVQWGD001")
-		(at 228.6 30.48 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "19632ab9-36d0-407b-b1ad-68ee6ff397af")
-		(property "Reference" "U1"
-			(at 237.49 27.9399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "RollerEncoder_EVQWGD001"
-			(at 237.49 30.4799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "zzkeeb:RotaryEncoder_EVQWGD001"
-			(at 228.6 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 228.6 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 228.6 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "S1"
-			(uuid "1e6ab837-c2ea-4f82-8d38-815553dc9de7")
-		)
-		(pin "S2"
-			(uuid "8a7fa614-58d8-4110-a845-f059e09b3810")
-		)
-		(pin "C"
-			(uuid "5486375f-2ccc-434c-bb95-d9c14e53d35b")
-		)
-		(pin "A"
-			(uuid "7c3b5bae-f122-442c-bf1a-52a3da15a8c9")
-		)
-		(pin "B"
-			(uuid "f4292827-4213-4ae8-97d1-c0d15e384441")
-		)
-		(pin "NC"
-			(uuid "706bd558-cc68-44cd-91d5-ab109a73a03c")
-		)
-		(instances
-			(project "pcb"
-				(path "/2f68eba7-4e8a-4af0-a221-669d7c557d47"
-					(reference "U1")
 					(unit 1)
 				)
 			)
@@ -9960,7 +9523,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 203.2 31.75 0)
+		(at 218.44 38.1 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9968,7 +9531,7 @@
 		(dnp no)
 		(uuid "481ac3e7-e1c7-415c-b994-666a16ed3ed7")
 		(property "Reference" "#PWR017"
-			(at 203.2 38.1 0)
+			(at 218.44 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9977,7 +9540,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 203.2 35.56 0)
+			(at 218.44 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9985,7 +9548,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 203.2 31.75 0)
+			(at 218.44 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9994,7 +9557,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 203.2 31.75 0)
+			(at 218.44 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10003,7 +9566,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 203.2 31.75 0)
+			(at 218.44 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10512,7 +10075,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 217.17 68.58 0)
+		(at 214.63 78.74 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10520,7 +10083,7 @@
 		(dnp no)
 		(uuid "56b5dbc7-557e-4229-ae42-c025d75911b0")
 		(property "Reference" "#PWR06"
-			(at 217.17 74.93 0)
+			(at 214.63 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10529,7 +10092,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 217.17 72.39 0)
+			(at 214.63 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10537,7 +10100,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 217.17 68.58 0)
+			(at 214.63 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10546,7 +10109,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 217.17 68.58 0)
+			(at 214.63 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10555,7 +10118,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 217.17 68.58 0)
+			(at 214.63 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11840,7 +11403,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 212.09 68.58 0)
+		(at 209.55 78.74 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11849,7 +11412,7 @@
 		(fields_autoplaced yes)
 		(uuid "73c3838f-d101-431a-a5d1-1fb3c0958254")
 		(property "Reference" "SW37"
-			(at 212.09 60.96 0)
+			(at 209.55 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11857,7 +11420,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 212.09 63.5 0)
+			(at 209.55 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11865,7 +11428,7 @@
 			)
 		)
 		(property "Footprint" "zzkeeb:Button_SW_SPST_SKQG_WithoutStem"
-			(at 212.09 63.5 0)
+			(at 209.55 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11874,7 +11437,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 212.09 63.5 0)
+			(at 209.55 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11883,7 +11446,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 212.09 68.58 0)
+			(at 209.55 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12953,71 +12516,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 215.9 30.48 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "8b2a71c9-e73f-41bb-a5bb-efc4d8afe6d2")
-		(property "Reference" "#PWR020"
-			(at 215.9 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 215.9 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 215.9 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 215.9 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 215.9 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c3f6ea3e-f122-4933-8e75-4cf00d7eb67b")
-		)
-		(instances
-			(project "pcb"
-				(path "/2f68eba7-4e8a-4af0-a221-669d7c557d47"
-					(reference "#PWR020")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "zzkeeb:Diode")
 		(at 153.67 116.84 0)
 		(unit 1)
@@ -13759,7 +13257,7 @@
 	)
 	(symbol
 		(lib_id "zzkeeb:Display_nice-view")
-		(at 218.44 46.99 0)
+		(at 215.9 57.15 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13768,7 +13266,7 @@
 		(fields_autoplaced yes)
 		(uuid "9d472802-a482-4dc7-8e9a-ff6b4506afbe")
 		(property "Reference" "J6"
-			(at 223.52 45.72 0)
+			(at 220.98 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13777,7 +13275,7 @@
 			)
 		)
 		(property "Value" "Display_nice-view"
-			(at 223.52 48.26 0)
+			(at 220.98 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13786,7 +13284,7 @@
 			)
 		)
 		(property "Footprint" "zzkeeb:Display_nice-view"
-			(at 195.58 49.53 0)
+			(at 193.04 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13795,7 +13293,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 195.58 49.53 0)
+			(at 193.04 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13804,7 +13302,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 218.44 46.99 0)
+			(at 215.9 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14131,7 +13629,7 @@
 	)
 	(symbol
 		(lib_id "Device:RotaryEncoder_Switch")
-		(at 195.58 29.21 0)
+		(at 210.82 35.56 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14140,7 +13638,7 @@
 		(fields_autoplaced yes)
 		(uuid "ab80281d-ba59-4383-873a-f4caf0beddba")
 		(property "Reference" "SW38"
-			(at 195.58 19.05 0)
+			(at 210.82 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14148,7 +13646,7 @@
 			)
 		)
 		(property "Value" "RotaryEncoder_Switch"
-			(at 195.58 21.59 0)
+			(at 210.82 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14156,7 +13654,7 @@
 			)
 		)
 		(property "Footprint" "zzkeeb:RotaryEncoder_EC11"
-			(at 191.77 25.146 0)
+			(at 207.01 31.496 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14165,7 +13663,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 195.58 22.606 0)
+			(at 210.82 28.956 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14174,7 +13672,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 195.58 29.21 0)
+			(at 210.82 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14954,7 +14452,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 199.39 49.53 0)
+		(at 196.85 59.69 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14962,7 +14460,7 @@
 		(dnp no)
 		(uuid "c16abf67-270b-45c8-9ed9-73928ba35184")
 		(property "Reference" "#PWR08"
-			(at 199.39 55.88 0)
+			(at 196.85 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14971,7 +14469,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 199.39 53.34 0)
+			(at 196.85 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14979,7 +14477,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 199.39 49.53 0)
+			(at 196.85 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14988,7 +14486,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 199.39 49.53 0)
+			(at 196.85 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14997,7 +14495,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 199.39 49.53 0)
+			(at 196.85 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17161,7 +16659,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 177.8 29.21 0)
+		(at 193.04 35.56 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17169,7 +16667,7 @@
 		(dnp no)
 		(uuid "f357df7b-8979-4b72-8f29-0c8243f170b9")
 		(property "Reference" "#PWR012"
-			(at 177.8 35.56 0)
+			(at 193.04 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17178,7 +16676,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 177.8 33.02 0)
+			(at 193.04 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17186,7 +16684,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 177.8 29.21 0)
+			(at 193.04 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17195,7 +16693,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 177.8 29.21 0)
+			(at 193.04 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17204,7 +16702,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 177.8 29.21 0)
+			(at 193.04 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17505,71 +17003,6 @@
 			(project "pcb"
 				(path "/2f68eba7-4e8a-4af0-a221-669d7c557d47"
 					(reference "H1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 223.52 17.78 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f883f3f0-06a9-4b96-a426-0a794d0e4a82")
-		(property "Reference" "#PWR011"
-			(at 223.52 24.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 223.52 21.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 223.52 17.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 223.52 17.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 223.52 17.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9d3b8564-c940-4552-b2b1-c803bc716c62")
-		)
-		(instances
-			(project "pcb"
-				(path "/2f68eba7-4e8a-4af0-a221-669d7c557d47"
-					(reference "#PWR011")
 					(unit 1)
 				)
 			)
