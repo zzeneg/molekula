@@ -1,4 +1,4 @@
-4369806251040580
+4499668059765037
 Button_Switch_SMD
 Nidec_Copal_CAS-120A
 Slide Switch, SMD, Nidec CAS series, https://www.nidec-components.com/e/catalog/switch/cas.pdf
@@ -973,6 +973,27 @@ SPST Button Switch
 4
 2
 Button_Switch_SMD
+SW_SPST_PTS647_Sx38
+C&K Components SPST SMD PTS647 Series 4.5mm Tact Switch, 3.8mm Height, see https://www.ckswitches.com/media/2567/pts647.pdf
+SPST Button Switch
+0
+4
+2
+Button_Switch_SMD
+SW_SPST_PTS647_Sx50
+C&K Components SPST SMD PTS647 Series 4.5mm Tact Switch, 5.0mm Height, see https://www.ckswitches.com/media/2567/pts647.pdf
+SPST Button Switch
+0
+4
+2
+Button_Switch_SMD
+SW_SPST_PTS647_Sx70
+C&K Components SPST SMD PTS647 Series 4.5mm Tact Switch, 7.0mm Height, see https://www.ckswitches.com/media/2567/pts647.pdf
+SPST Button Switch
+0
+4
+2
+Button_Switch_SMD
 SW_SPST_PTS810
 C&K Components, PTS 810 Series, Microminiature SMT Top Actuated, http://www.ckswitches.com/media/1476/pts810.pdf
 SPST Button Switch
@@ -1724,7 +1745,7 @@ tactile switch Omron B3F right angle through hole
 Button_Switch_THT
 SW_Slide-03_Wuerth-WS-SLTV_10x2.5x6.4_P2.54mm
 Wuerth, WS-SLTV, 450301014042, https://www.we-online.com/components/products/datasheet/450301014042.pdf
-switch single-pole double-throw SPDT würth wurth
+switch single-pole opposite-side-connection double-throw SPDT würth wurth
 0
 3
 3
@@ -1798,6 +1819,27 @@ SW PUSH SMALL Tactile C&K
 0
 4
 2
+Button_Switch_THT
+SW_XKB_DM1-16UC-1
+1A 30V SPDT Micro Switch rated for one million cycles, W12.7xD5.7xH6.6, https://www.helloxkb.com/public/images/pdf/DMX-XXXC-X.pdf
+SPDT endstop limit switch clockwise hook lever XKB DM1-16UC-1
+0
+3
+3
+Button_Switch_THT
+SW_XKB_DM1-16UD-1
+1A 30V SPDT Micro Switch rated for one million cycles, W12.7xD5.7xH6.6, https://www.helloxkb.com/public/images/pdf/DMX-XXXD-X.pdf
+SPDT endstop limit switch anti-clockwise hook lever XKB DM1-16UD-1
+0
+3
+3
+Button_Switch_THT
+SW_XKB_DM1-16UP-1
+1A 30V SPDT Micro Switch rated for one million cycles, W12.7xD5.7xH6.6, https://www.helloxkb.com/public/images/pdf/DMX-XXXP-X.pdf
+SPDT endstop limit switch vertical hook lever XKB DM1-16UP-1
+0
+3
+3
 Capacitor_SMD
 CP_Elec_3x5.3
 SMT capacitor, aluminium electrolytic, 3x5.3, Cornell Dubilier Electronics 
@@ -6271,6 +6313,251 @@ connector JST ZE horizontal
 0
 18
 17
+Connector_JST
+JST_ZH_B2B-ZR-SM4-TF_1x02-1MP_P1.50mm_Vertical
+JST ZH series connector, B2B-ZR-SM4-TF (http://www.jst-mfg.com/product/pdf/eng/eZH.pdf), generated with kicad-footprint-generator
+connector JST ZH vertical
+0
+4
+3
+Connector_JST
+JST_ZH_B2B-ZR_1x02_P1.50mm_Vertical
+JST ZH series connector, B2B-ZR (http://www.jst-mfg.com/product/pdf/eng/eZH.pdf), generated with kicad-footprint-generator
+connector JST ZH vertical
+0
+2
+2
+Connector_JST
+JST_ZH_B3B-ZR-SM4-TF_1x03-1MP_P1.50mm_Vertical
+JST ZH series connector, B3B-ZR-SM4-TF (http://www.jst-mfg.com/product/pdf/eng/eZH.pdf), generated with kicad-footprint-generator
+connector JST ZH vertical
+0
+5
+4
+Connector_JST
+JST_ZH_B3B-ZR_1x03_P1.50mm_Vertical
+JST ZH series connector, B3B-ZR (http://www.jst-mfg.com/product/pdf/eng/eZH.pdf), generated with kicad-footprint-generator
+connector JST ZH vertical
+0
+3
+3
+Connector_JST
+JST_ZH_B4B-ZR-SM4-TF_1x04-1MP_P1.50mm_Vertical
+JST ZH series connector, B4B-ZR-SM4-TF (http://www.jst-mfg.com/product/pdf/eng/eZH.pdf), generated with kicad-footprint-generator
+connector JST ZH vertical
+0
+6
+5
+Connector_JST
+JST_ZH_B4B-ZR_1x04_P1.50mm_Vertical
+JST ZH series connector, B4B-ZR (http://www.jst-mfg.com/product/pdf/eng/eZH.pdf), generated with kicad-footprint-generator
+connector JST ZH vertical
+0
+4
+4
+Connector_JST
+JST_ZH_B5B-ZR-SM4-TF_1x05-1MP_P1.50mm_Vertical
+JST ZH series connector, B5B-ZR-SM4-TF (http://www.jst-mfg.com/product/pdf/eng/eZH.pdf), generated with kicad-footprint-generator
+connector JST ZH vertical
+0
+7
+6
+Connector_JST
+JST_ZH_B5B-ZR_1x05_P1.50mm_Vertical
+JST ZH series connector, B5B-ZR (http://www.jst-mfg.com/product/pdf/eng/eZH.pdf), generated with kicad-footprint-generator
+connector JST ZH vertical
+0
+5
+5
+Connector_JST
+JST_ZH_B6B-ZR-SM4-TF_1x06-1MP_P1.50mm_Vertical
+JST ZH series connector, B6B-ZR-SM4-TF (http://www.jst-mfg.com/product/pdf/eng/eZH.pdf), generated with kicad-footprint-generator
+connector JST ZH vertical
+0
+8
+7
+Connector_JST
+JST_ZH_B6B-ZR_1x06_P1.50mm_Vertical
+JST ZH series connector, B6B-ZR (http://www.jst-mfg.com/product/pdf/eng/eZH.pdf), generated with kicad-footprint-generator
+connector JST ZH vertical
+0
+6
+6
+Connector_JST
+JST_ZH_B7B-ZR-SM4-TF_1x07-1MP_P1.50mm_Vertical
+JST ZH series connector, B7B-ZR-SM4-TF (http://www.jst-mfg.com/product/pdf/eng/eZH.pdf), generated with kicad-footprint-generator
+connector JST ZH vertical
+0
+9
+8
+Connector_JST
+JST_ZH_B7B-ZR_1x07_P1.50mm_Vertical
+JST ZH series connector, B7B-ZR (http://www.jst-mfg.com/product/pdf/eng/eZH.pdf), generated with kicad-footprint-generator
+connector JST ZH vertical
+0
+7
+7
+Connector_JST
+JST_ZH_B8B-ZR-SM4-TF_1x08-1MP_P1.50mm_Vertical
+JST ZH series connector, B8B-ZR-SM4-TF (http://www.jst-mfg.com/product/pdf/eng/eZH.pdf), generated with kicad-footprint-generator
+connector JST ZH vertical
+0
+10
+9
+Connector_JST
+JST_ZH_B8B-ZR_1x08_P1.50mm_Vertical
+JST ZH series connector, B8B-ZR (http://www.jst-mfg.com/product/pdf/eng/eZH.pdf), generated with kicad-footprint-generator
+connector JST ZH vertical
+0
+8
+8
+Connector_JST
+JST_ZH_B9B-ZR-SM4-TF_1x09-1MP_P1.50mm_Vertical
+JST ZH series connector, B9B-ZR-SM4-TF (http://www.jst-mfg.com/product/pdf/eng/eZH.pdf), generated with kicad-footprint-generator
+connector JST ZH vertical
+0
+11
+10
+Connector_JST
+JST_ZH_B9B-ZR_1x09_P1.50mm_Vertical
+JST ZH series connector, B9B-ZR (http://www.jst-mfg.com/product/pdf/eng/eZH.pdf), generated with kicad-footprint-generator
+connector JST ZH vertical
+0
+9
+9
+Connector_JST
+JST_ZH_B10B-ZR-SM4-TF_1x10-1MP_P1.50mm_Vertical
+JST ZH series connector, B10B-ZR-SM4-TF (http://www.jst-mfg.com/product/pdf/eng/eZH.pdf), generated with kicad-footprint-generator
+connector JST ZH vertical
+0
+12
+11
+Connector_JST
+JST_ZH_B10B-ZR_1x10_P1.50mm_Vertical
+JST ZH series connector, B10B-ZR (http://www.jst-mfg.com/product/pdf/eng/eZH.pdf), generated with kicad-footprint-generator
+connector JST ZH vertical
+0
+10
+10
+Connector_JST
+JST_ZH_B11B-ZR-SM4-TF_1x11-1MP_P1.50mm_Vertical
+JST ZH series connector, B11B-ZR-SM4-TF (http://www.jst-mfg.com/product/pdf/eng/eZH.pdf), generated with kicad-footprint-generator
+connector JST ZH vertical
+0
+13
+12
+Connector_JST
+JST_ZH_B11B-ZR_1x11_P1.50mm_Vertical
+JST ZH series connector, B11B-ZR (http://www.jst-mfg.com/product/pdf/eng/eZH.pdf), generated with kicad-footprint-generator
+connector JST ZH vertical
+0
+11
+11
+Connector_JST
+JST_ZH_B12B-ZR-SM4-TF_1x12-1MP_P1.50mm_Vertical
+JST ZH series connector, B12B-ZR-SM4-TF (http://www.jst-mfg.com/product/pdf/eng/eZH.pdf), generated with kicad-footprint-generator
+connector JST ZH vertical
+0
+14
+13
+Connector_JST
+JST_ZH_B12B-ZR_1x12_P1.50mm_Vertical
+JST ZH series connector, B12B-ZR (http://www.jst-mfg.com/product/pdf/eng/eZH.pdf), generated with kicad-footprint-generator
+connector JST ZH vertical
+0
+12
+12
+Connector_JST
+JST_ZH_B13B-ZR-SM4-TF_1x13-1MP_P1.50mm_Vertical
+JST ZH series connector, B13B-ZR-SM4-TF (http://www.jst-mfg.com/product/pdf/eng/eZH.pdf), generated with kicad-footprint-generator
+connector JST ZH vertical
+0
+15
+14
+Connector_JST
+JST_ZH_S2B-ZR-SM4A-TF_1x02-1MP_P1.50mm_Horizontal
+JST ZH series connector, S2B-ZR-SM4A-TF (http://www.jst-mfg.com/product/pdf/eng/eZH.pdf), generated with kicad-footprint-generator
+connector JST ZH horizontal
+0
+4
+3
+Connector_JST
+JST_ZH_S3B-ZR-SM4A-TF_1x03-1MP_P1.50mm_Horizontal
+JST ZH series connector, S3B-ZR-SM4A-TF (http://www.jst-mfg.com/product/pdf/eng/eZH.pdf), generated with kicad-footprint-generator
+connector JST ZH horizontal
+0
+5
+4
+Connector_JST
+JST_ZH_S4B-ZR-SM4A-TF_1x04-1MP_P1.50mm_Horizontal
+JST ZH series connector, S4B-ZR-SM4A-TF (http://www.jst-mfg.com/product/pdf/eng/eZH.pdf), generated with kicad-footprint-generator
+connector JST ZH horizontal
+0
+6
+5
+Connector_JST
+JST_ZH_S5B-ZR-SM4A-TF_1x05-1MP_P1.50mm_Horizontal
+JST ZH series connector, S5B-ZR-SM4A-TF (http://www.jst-mfg.com/product/pdf/eng/eZH.pdf), generated with kicad-footprint-generator
+connector JST ZH horizontal
+0
+7
+6
+Connector_JST
+JST_ZH_S6B-ZR-SM4A-TF_1x06-1MP_P1.50mm_Horizontal
+JST ZH series connector, S6B-ZR-SM4A-TF (http://www.jst-mfg.com/product/pdf/eng/eZH.pdf), generated with kicad-footprint-generator
+connector JST ZH horizontal
+0
+8
+7
+Connector_JST
+JST_ZH_S7B-ZR-SM4A-TF_1x07-1MP_P1.50mm_Horizontal
+JST ZH series connector, S7B-ZR-SM4A-TF (http://www.jst-mfg.com/product/pdf/eng/eZH.pdf), generated with kicad-footprint-generator
+connector JST ZH horizontal
+0
+9
+8
+Connector_JST
+JST_ZH_S8B-ZR-SM4A-TF_1x08-1MP_P1.50mm_Horizontal
+JST ZH series connector, S8B-ZR-SM4A-TF (http://www.jst-mfg.com/product/pdf/eng/eZH.pdf), generated with kicad-footprint-generator
+connector JST ZH horizontal
+0
+10
+9
+Connector_JST
+JST_ZH_S9B-ZR-SM4A-TF_1x09-1MP_P1.50mm_Horizontal
+JST ZH series connector, S9B-ZR-SM4A-TF (http://www.jst-mfg.com/product/pdf/eng/eZH.pdf), generated with kicad-footprint-generator
+connector JST ZH horizontal
+0
+11
+10
+Connector_JST
+JST_ZH_S10B-ZR-SM4A-TF_1x10-1MP_P1.50mm_Horizontal
+JST ZH series connector, S10B-ZR-SM4A-TF (http://www.jst-mfg.com/product/pdf/eng/eZH.pdf), generated with kicad-footprint-generator
+connector JST ZH horizontal
+0
+12
+11
+Connector_JST
+JST_ZH_S11B-ZR-SM4A-TF_1x11-1MP_P1.50mm_Horizontal
+JST ZH series connector, S11B-ZR-SM4A-TF (http://www.jst-mfg.com/product/pdf/eng/eZH.pdf), generated with kicad-footprint-generator
+connector JST ZH horizontal
+0
+13
+12
+Connector_JST
+JST_ZH_S12B-ZR-SM4A-TF_1x12-1MP_P1.50mm_Horizontal
+JST ZH series connector, S12B-ZR-SM4A-TF (http://www.jst-mfg.com/product/pdf/eng/eZH.pdf), generated with kicad-footprint-generator
+connector JST ZH horizontal
+0
+14
+13
+Connector_JST
+JST_ZH_S13B-ZR-SM4A-TF_1x13-1MP_P1.50mm_Horizontal
+JST ZH series connector, S13B-ZR-SM4A-TF (http://www.jst-mfg.com/product/pdf/eng/eZH.pdf), generated with kicad-footprint-generator
+connector JST ZH horizontal
+0
+15
+14
 Connector_Pin
 Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork
 solder Pin_ with flat fork, hole diameter 0.7mm, length 6.5mm, width 1.8mm
@@ -11284,6 +11571,20 @@ LQFP QFP
 128
 128
 Package_QFP
+LQFP-144-1EP_20x20mm_P0.5mm_EP6.5x6.5mm
+LQFP, 144 Pin (https://www.infineon.com/cms/en/product/packages/PG-LQFP/PG-LQFP-144-22), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP Infineon-PG-LQFP-144-24 Infineon-PG-LQFP-144-26
+0
+154
+145
+Package_QFP
+LQFP-144-1EP_20x20mm_P0.5mm_EP6.5x6.5mm_ThermalVias
+LQFP, 144 Pin (https://www.infineon.com/cms/en/product/packages/PG-LQFP/PG-LQFP-144-22), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP Infineon-PG-LQFP-144-24 Infineon-PG-LQFP-144-26
+0
+171
+145
+Package_QFP
 LQFP-144_20x20mm_P0.5mm
 LQFP, 144 Pin (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=425), generated with kicad-footprint-generator ipc_gullwing_generator.py
 LQFP QFP
@@ -12068,6 +12369,13 @@ HVSSOP SO
 20
 11
 Package_SO
+Infineon_PG-DSO-8-24_4x5mm
+Infineon  PG-DSO, 8 Pin (https://www.infineon.com/dgdl/Infineon-BSP752R-DS-v01_02-EN.pdf?fileId=db3a304316f112290116f233cbd271e9#page=17), generated with kicad-footprint-generator ipc_gullwing_generator.py
+Infineon PG-DSO SO
+0
+8
+8
+Package_SO
 Infineon_PG-DSO-8-27_3.9x4.9mm_EP2.65x3mm
 Infineon  PG-DSO, 8 Pin (https://www.infineon.com/cms/en/product/packages/PG-DSO/PG-DSO-8-27), generated with kicad-footprint-generator ipc_gullwing_generator.py
 Infineon PG-DSO SO
@@ -12088,6 +12396,13 @@ DSO DSO-8 SOIC SOIC-8
 0
 12
 9
+Package_SO
+Infineon_PG-DSO-8-59_7.5x6.3mm
+Infineon  PG-DSO, 8 Pin (https://www.infineon.com/dgdl/Infineon-1EDCxxI12AH-DS-v02_00-EN.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+Infineon PG-DSO SO
+0
+8
+8
 Package_SO
 Infineon_PG-DSO-12-9
 Infineon PG-DSO 12 pin, exposed pad: 4.5x8.1mm, (https://www.infineon.com/cms/en/product/packages/PG-DSO/PG-DSO-12-9/)
@@ -12495,6 +12810,20 @@ PowerPAK SO-8 Single
 9
 5
 Package_SO
+PowerSSO-16-1EP_3.9x4.9mm_P0.5mm_EP2.5x3.61mm
+PowerSSO, 16 Pin (https://www.st.com/resource/en/datasheet/vnd7020aj.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+PowerSSO SO
+0
+18
+17
+Package_SO
+PowerSSO-16-1EP_3.9x4.9mm_P0.5mm_EP2.5x3.61mm_ThermalVias
+PowerSSO, 16 Pin (https://www.st.com/resource/en/datasheet/vnd7020aj.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+PowerSSO SO
+0
+27
+17
+Package_SO
 QSOP-16_3.9x4.9mm_P0.635mm
 QSOP, 16 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0055.PDF), generated with kicad-footprint-generator ipc_gullwing_generator.py
 QSOP SO
@@ -12839,8 +13168,8 @@ SOIC 1.27 16 12 Wide
 12
 Package_SO
 SOIC-16W_5.3x10.2mm_P1.27mm
-16-Lead Plastic Small Outline (SO) - Wide, 5.3 mm Body (http://www.ti.com/lit/ml/msop002a/msop002a.pdf)
-SOIC 1.27
+SOIC, 16 Pin (http://www.ti.com/lit/ml/msop002a/msop002a.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
 0
 16
 16
@@ -13076,6 +13405,13 @@ SSO SO
 7
 7
 Package_SO
+SSO-8-7_6.4x9.7mm_P2.54mm
+SSO, 7 Pin (https://gitlab.com/Sirdel/public/-/blob/3a5b5234461aee14649dc0eb10cbdef84d37b29e/Datasheets/BC2213A-EN.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SSO SO
+0
+7
+7
+Package_SO
 SSO-8_6.7x9.8mm_P2.54mm_Clearance8mm
 8-Lead Plastic Stretched Small Outline (SSO/Stretched SO), see https://www.vishay.com/docs/83831/lh1533ab.pdf
 SSO Stretched SO SOIC Pitch 2.54
@@ -13111,6 +13447,13 @@ SSO Stretched SO SOIC Pitch 1.27
 8
 8
 Package_SO
+SSOP-4_4.4x2.6mm_P1.27mm
+SSOP, 4 Pin (https://www.vishay.com/docs/83465/vos618a.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SSOP SO
+0
+4
+4
+Package_SO
 SSOP-8_2.95x2.8mm_P0.65mm
 SSOP-8 2.9 x2.8mm Pitch 0.65mm
 SSOP-8 2.95x2.8mm Pitch 0.65mm
@@ -13138,6 +13481,20 @@ SSOP SO
 0
 8
 8
+Package_SO
+SSOP-10-1EP_3.9x4.9mm_P1mm_EP2.1x3.3mm
+SSOP, 10 Pin (http://download.py32.org/%E6%95%B0%E6%8D%AE%E6%89%8B%E5%86%8C/zh-CN/PY32F002A%20%E7%B3%BB%E5%88%97%E6%95%B0%E6%8D%AE%E6%89%8B%E5%86%8C_Rev1.0.pdf#page=44), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SSOP SO ESSOP-10
+0
+12
+11
+Package_SO
+SSOP-10-1EP_3.9x4.9mm_P1mm_EP2.1x3.3mm_ThermalVias
+SSOP, 10 Pin (http://download.py32.org/%E6%95%B0%E6%8D%AE%E6%89%8B%E5%86%8C/zh-CN/PY32F002A%20%E7%B3%BB%E5%88%97%E6%95%B0%E6%8D%AE%E6%89%8B%E5%86%8C_Rev1.0.pdf#page=44), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SSOP SO ESSOP-10
+0
+15
+11
 Package_SO
 SSOP-10_3.9x4.9mm_P1.00mm
 10-Lead SSOP, 3.9 x 4.9mm body, 1.00mm pitch (http://www.st.com/resource/en/datasheet/viper01.pdf)
@@ -13189,8 +13546,8 @@ SSOP 0.635
 20
 Package_SO
 SSOP-20_4.4x6.5mm_P0.65mm
-SSOP20: plastic shrink small outline package; 20 leads; body width 4.4 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot266-1_po.pdf)
-SSOP 0.65
+SSOP, 20 Pin (https://www.jedec.org/system/files/docs/Mo-152c.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SSOP SO JEDEC-MO-152-AC SOT266-1 Nisshinbo-PI-SSOP20-E-A Rohm-SSOP-B20
 0
 20
 20
@@ -14014,6 +14371,48 @@ TSSOP SO
 100
 100
 Package_SO
+Texas_DGN0008B_VSSOP-8-1EP_3x3mm_P0.65mm_EP2x3mm_Mask1.88x1.98mm
+Texas DGN0008B VSSOP, 8 Pin (https://www.ti.com/lit/ds/symlink/tps7a4101.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+Texas VSSOP SO
+0
+11
+9
+Package_SO
+Texas_DGN0008B_VSSOP-8-1EP_3x3mm_P0.65mm_EP2x3mm_Mask1.88x1.98mm_ThermalVias
+Texas DGN0008B VSSOP, 8 Pin (https://www.ti.com/lit/ds/symlink/tps7a4101.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+Texas VSSOP SO
+0
+23
+9
+Package_SO
+Texas_DGN0008D_VSSOP-8-1EP_3x3mm_P0.65mm_EP2x2.94mm_Mask1.57x1.89mm
+Texas DGN0008D VSSOP, 8 Pin (https://www.ti.com/lit/ds/symlink/tpa711.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+Texas VSSOP SO
+0
+11
+9
+Package_SO
+Texas_DGN0008D_VSSOP-8-1EP_3x3mm_P0.65mm_EP2x2.94mm_Mask1.57x1.89mm_ThermalVias
+Texas DGN0008D VSSOP, 8 Pin (https://www.ti.com/lit/ds/symlink/tpa711.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+Texas VSSOP SO
+0
+19
+9
+Package_SO
+Texas_DGN0008G_VSSOP-8-1EP_3x3mm_P0.65mm_EP2x2.94mm_Mask1.846x2.15mm
+Texas DGN0008G VSSOP, 8 Pin (https://www.ti.com/lit/ds/symlink/tpa711.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+Texas VSSOP SO
+0
+11
+9
+Package_SO
+Texas_DGN0008G_VSSOP-8-1EP_3x3mm_P0.65mm_EP2x2.94mm_Mask1.846x2.15mm_ThermalVias
+Texas DGN0008G VSSOP, 8 Pin (https://www.ti.com/lit/ds/symlink/tpa711.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+Texas VSSOP SO
+0
+23
+9
+Package_SO
 Texas_DYY0016A_TSOT-23-16_4.2x2.0mm_P0.5mm
 TSSOP, 16 Pin (https://www.ti.com/lit/ds/symlink/tmux1574.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
 TSSOP SO
@@ -14085,8 +14484,8 @@ SSOP 0.75
 56
 Package_SO
 VSSOP-8_2.3x2mm_P0.5mm
-VSSOP-8 2.3x2mm Pitch 0.5mm
-VSSOP-8 2.3x2mm Pitch 0.5mm
+VSSOP, 8 Pin (https://www.jedec.org/standards-documents/docs/mo-187-f), generated with kicad-footprint-generator ipc_gullwing_generator.py
+VSSOP SO JEDEC-MO-187-CA TI-DCU0008A
 0
 8
 8
@@ -14101,6 +14500,13 @@ Package_SO
 VSSOP-8_3.0x3.0mm_P0.65mm
 VSSOP-8 3.0 x 3.0, http://www.ti.com/lit/ds/symlink/lm75b.pdf
 VSSOP-8 3.0 x 3.0
+0
+8
+8
+Package_SO
+VSSOP-8_3x3mm_P0.65mm
+VSSOP, 8 Pin (https://www.jedec.org/standards-documents/docs/mo-187-f), generated with kicad-footprint-generator ipc_gullwing_generator.py
+VSSOP SO JEDEC-MO-187-AA TI-DGK0008A
 0
 8
 8
@@ -16257,6 +16663,13 @@ Symbol
 RoHS-Logo_40mm_SilkScreen
 Restriction of Hazardous Substances Directive Logo
 Logo RoHS
+0
+0
+0
+Symbol
+Smolhaj_Scale_0.1
+BLÅHAJ , smol 50cm nominal, 1:10 scale (56mm Snoot-Flosse), MPN 205.406.63 (https://www.ikea.com/gb/en/p/blahaj-soft-toy-baby-shark-20540663/)
+Ikea Smol Haj
 0
 0
 0
