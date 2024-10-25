@@ -1,4 +1,4 @@
-4499668059765037
+4525423896829760
 Button_Switch_SMD
 Nidec_Copal_CAS-120A
 Slide Switch, SMD, Nidec CAS series, https://www.nidec-components.com/e/catalog/switch/cas.pdf
@@ -11572,14 +11572,14 @@ LQFP QFP
 128
 Package_QFP
 LQFP-144-1EP_20x20mm_P0.5mm_EP6.5x6.5mm
-LQFP, 144 Pin (https://www.infineon.com/cms/en/product/packages/PG-LQFP/PG-LQFP-144-22), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP, 144 Pin (https://www.infineon.com/dgdl/Infineon-XMC4500-DS-v01_05-EN.pdf?fileId=5546d46254e133b40154e1b56cbe0123), generated with kicad-footprint-generator ipc_gullwing_generator.py
 LQFP QFP Infineon-PG-LQFP-144-24 Infineon-PG-LQFP-144-26
 0
 154
 145
 Package_QFP
 LQFP-144-1EP_20x20mm_P0.5mm_EP6.5x6.5mm_ThermalVias
-LQFP, 144 Pin (https://www.infineon.com/cms/en/product/packages/PG-LQFP/PG-LQFP-144-22), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP, 144 Pin (https://www.infineon.com/dgdl/Infineon-XMC4500-DS-v01_05-EN.pdf?fileId=5546d46254e133b40154e1b56cbe0123), generated with kicad-footprint-generator ipc_gullwing_generator.py
 LQFP QFP Infineon-PG-LQFP-144-24 Infineon-PG-LQFP-144-26
 0
 171
@@ -12881,8 +12881,8 @@ SO SOIC 2.54
 4
 Package_SO
 SO-4_7.6x3.6mm_P2.54mm
-4-Lead Plastic Small Outline (SO) (http://www.everlight.com/file/ProductFile/201407061745083848.pdf)
-SO SOIC 2.54
+SO, 4 Pin (https://everlightamericas.com/index.php?controller=attachment&id_attachment=3535), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SO SO Everlight_EL101X-G
 0
 4
 4
@@ -13169,7 +13169,7 @@ SOIC 1.27 16 12 Wide
 Package_SO
 SOIC-16W_5.3x10.2mm_P1.27mm
 SOIC, 16 Pin (http://www.ti.com/lit/ml/msop002a/msop002a.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
-SOIC SO
+SOIC SO TI-NS TI-NS0016A
 0
 16
 16
@@ -13261,6 +13261,13 @@ Package_SO
 SOP-4_4.4x2.6mm_P1.27mm
 SOP, 4 Pin (http://www.vishay.com/docs/83510/tcmt1100.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
 SOP SO
+0
+4
+4
+Package_SO
+SOP-4_7.5x4.1mm_P2.54mm
+SOP, 4 Pin (https://www.vishay.com/docs/83515/tclt1000.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOP SO Vishay_TCLT100x
 0
 4
 4
@@ -13377,6 +13384,13 @@ SOP SO
 44
 44
 Package_SO
+SOP-44_13.3x28.2mm_P1.27mm
+SOP, 44 Pin (https://www.mouser.com/datasheet/2/380/AM29F400B_EOL_21505e8-9219.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOP SO
+0
+44
+44
+Package_SO
 SSO-4_6.7x5.1mm_P2.54mm_Clearance8mm
 4-Lead Plastic Stretched Small Outline (SSO/Stretched SO), see https://www.vishay.com/docs/84299/vor1142b4.pdf
 SSO Stretched SO SOIC 2.54
@@ -13406,7 +13420,7 @@ SSO SO
 7
 Package_SO
 SSO-8-7_6.4x9.7mm_P2.54mm
-SSO, 7 Pin (https://gitlab.com/Sirdel/public/-/blob/3a5b5234461aee14649dc0eb10cbdef84d37b29e/Datasheets/BC2213A-EN.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SSO, 7 Pin (https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2312161855_BC-BC2213A_C596512.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
 SSO SO
 0
 7
@@ -13966,8 +13980,8 @@ TSSOP SO
 16
 Package_SO
 TSSOP-16_4.4x5mm_P0.65mm
-TSSOP, 16 Pin (JEDEC MO-153 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
-TSSOP SO
+TSSOP, 16 Pin (https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO JEDEC-MO-153-AB TI-PW0016A Microchip-ST Toshiba-TSSOP16-P-0044-0.65A NXP-SOT403-1 Infineon-P-TSSOP-16-800
 0
 16
 16
@@ -14042,11 +14056,53 @@ SSOP 0.65
 36
 29
 Package_SO
+TSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.74x4.75mm
+TSSOP, 28 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/lt3762.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+35
+29
+Package_SO
+TSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.74x4.75mm_ThermalVias
+TSSOP, 28 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/lt3762.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+48
+29
+Package_SO
 TSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x6.7mm
 TSSOP, 28 Pin (JEDEC MO-153 Var AET Pkg.Code U28E-4 https://pdfserv.maximintegrated.com/package_dwgs/21-0108.PDF), generated with kicad-footprint-generator ipc_gullwing_generator.py
 TSSOP SO
 0
 35
+29
+Package_SO
+TSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP3.4x9.7mm_Mask3.1x4.05mm
+TSSOP, 28 Pin (Texas Instruments TAS5805M https://www.ti.com/lit/gpn/tas5805m), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+34
+29
+Package_SO
+TSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP3.4x9.7mm_Mask3.1x4.05mm_ThermalVias
+TSSOP, 28 Pin (Texas Instruments TAS5805M https://www.ti.com/lit/gpn/tas5805m), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+59
+29
+Package_SO
+TSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP3.05x7.56mm
+TSSOP, 28 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/38921fc.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+37
+29
+Package_SO
+TSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP3.05x7.56mm_ThermalVias
+TSSOP, 28 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/38921fc.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+53
 29
 Package_SO
 TSSOP-28_4.4x7.8mm_P0.5mm
@@ -14448,6 +14504,20 @@ PWP HTSSOP 0.65mm
 25
 21
 Package_SO
+Texas_PWP0028V_TSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP3.4x9.7mm_Mask2.94x5.62mm
+Texas PWP0028V TSSOP, 28 Pin (https://www.ti.com/lit/ds/symlink/lm5176.pdf?ts=1728516913971&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FLM5176), generated with kicad-footprint-generator ipc_gullwing_generator.py
+Texas TSSOP SO
+0
+40
+29
+Package_SO
+Texas_PWP0028V_TSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP3.4x9.7mm_Mask2.94x5.62mm_ThermalVias
+Texas PWP0028V TSSOP, 28 Pin (https://www.ti.com/lit/ds/symlink/lm5176.pdf?ts=1728516913971&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FLM5176), generated with kicad-footprint-generator ipc_gullwing_generator.py
+Texas TSSOP SO
+0
+65
+29
+Package_SO
 Texas_R-PDSO-G8_EP2.95x4.9mm_Mask2.4x3.1mm
 HSOIC, 8 Pin (http://www.ti.com/lit/ds/symlink/lmr14030.pdf#page=28, http://www.ti.com/lit/ml/msoi002j/msoi002j.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
 HSOIC SO
@@ -14702,7 +14772,7 @@ TO-50-4 Power Macro Package Style M234
 Package_TO_SOT_SMD
 ROHM_SOT-457_ClockwisePinNumbering
 ROHM SOT-457 SC-74, 6 Pin (https://fscdn.rohm.com/en/products/databook/datasheet/discrete/transistor/digital/imh3at110-e.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
-ROHM SC-74 SO
+ROHM SC-74 TO_SOT_SMD
 0
 6
 6
@@ -14744,14 +14814,14 @@ SC70-8 Handsoldering
 Package_TO_SOT_SMD
 SC-74-6_1.55x2.9mm_P0.95mm
 SC-74, 6 Pin (https://www.jeita.or.jp/japanese/standard/book/ED-7500B/#target/page_no=39), generated with kicad-footprint-generator ipc_gullwing_generator.py
-SC-74 SO
+SC-74 TO_SOT_SMD
 0
 6
 6
 Package_TO_SOT_SMD
 SC-74A-5_1.55x2.9mm_P0.95mm
 SC-74A, 5 Pin (https://www.jeita.or.jp/japanese/standard/book/ED-7500B/#target/page_no=41), generated with kicad-footprint-generator ipc_gullwing_generator.py
-SC-74A SO
+SC-74A TO_SOT_SMD
 0
 5
 5
@@ -14799,7 +14869,7 @@ SOT TO_SOT_SMD
 3
 Package_TO_SOT_SMD
 SOT-23-5
-SOT, 5 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AA), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT, 5 Pin (~), generated with kicad-footprint-generator ipc_gullwing_generator.py
 SOT TO_SOT_SMD
 0
 5
@@ -14813,7 +14883,7 @@ SOT-23-5 hand-soldering
 5
 Package_TO_SOT_SMD
 SOT-23-6
-SOT, 6 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT, 6 Pin (~), generated with kicad-footprint-generator ipc_gullwing_generator.py
 SOT TO_SOT_SMD
 0
 6
@@ -15002,15 +15072,15 @@ SOT-353 SC-70-5 Handsoldering
 5
 Package_TO_SOT_SMD
 SOT-363_SC-70-6
-SOT-363, SC-70-6
-SOT-363 SC-70-6
+SOT-363, SC-70-6, SC-88
+SOT-363 SC-70-6 SC-88
 0
 6
 6
 Package_TO_SOT_SMD
 SOT-363_SC-70-6_Handsoldering
-SOT-363, SC-70-6, Handsoldering
-SOT-363 SC-70-6 Handsoldering
+SOT-363, SC-70-6, SC-88, Handsoldering
+SOT-363 SC-70-6 SC-88 Handsoldering
 0
 6
 6
