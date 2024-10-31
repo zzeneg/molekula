@@ -4462,6 +4462,28 @@
 	)
 	(global_label "col2-conn2"
 		(shape input)
+		(at 287.02 92.71 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "17d31a68-4582-42ce-be56-0f2506b4e99d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 272.605 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "col2-conn2"
+		(shape input)
 		(at 332.74 80.01 180)
 		(fields_autoplaced yes)
 		(effects
@@ -4724,6 +4746,28 @@
 			)
 		)
 	)
+	(global_label "row1-conn2"
+		(shape input)
+		(at 287.02 77.47 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "2ff9f711-fef9-4381-89bf-903db23d313f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 272.2421 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "row0-conn2"
 		(shape input)
 		(at 332.74 97.79 180)
@@ -4759,28 +4803,6 @@
 		(uuid "3231de7c-8c08-4641-bedb-48a8650bf99b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 138.5292 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "row0-conn2"
-		(shape input)
-		(at 287.02 97.79 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "3267193f-3efa-478c-b647-f9c1896a4302")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 272.2421 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4935,6 +4957,50 @@
 		(uuid "3a497dc6-87a6-4efb-b764-d6e037ace007")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 319.1111 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "col1-conn2"
+		(shape input)
+		(at 287.02 90.17 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "3b537981-0d25-41cf-83e6-724b6fad8080")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 272.605 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "row0-conn2"
+		(shape input)
+		(at 287.02 74.93 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "3cdcf4bd-5cb6-4781-978f-25a1cedef0b2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 272.2421 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5164,28 +5230,6 @@
 			)
 		)
 	)
-	(global_label "row3-conn2"
-		(shape input)
-		(at 287.02 90.17 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "54d11970-1155-479b-95bb-40a91965c50c")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 272.2421 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "row3-conn1"
 		(shape input)
 		(at 287.02 50.8 180)
@@ -5362,28 +5406,6 @@
 			)
 		)
 	)
-	(global_label "col1-conn2"
-		(shape input)
-		(at 287.02 82.55 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "62625e7f-3e3b-4ca7-a6ac-dcd00c1291ab")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 272.605 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "SCK"
 		(shape input)
 		(at 209.55 54.61 180)
@@ -5450,9 +5472,9 @@
 			)
 		)
 	)
-	(global_label "free-conn2"
+	(global_label "row3-conn2"
 		(shape input)
-		(at 287.02 100.33 180)
+		(at 287.02 82.55 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5460,9 +5482,9 @@
 			)
 			(justify right)
 		)
-		(uuid "6bcdc001-6a59-4d4b-86a3-333e0636cde9")
+		(uuid "6c35e493-0003-45f9-bf61-db9d72bdfb50")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 273.0282 100.33 0)
+			(at 272.2421 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5626,6 +5648,28 @@
 			)
 		)
 	)
+	(global_label "col4-conn2"
+		(shape input)
+		(at 287.02 97.79 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8487b5f3-2e1f-4867-b3d9-a2e88160afa7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 272.605 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "row0-mcu"
 		(shape input)
 		(at 73.66 53.34 0)
@@ -5648,28 +5692,6 @@
 			)
 		)
 	)
-	(global_label "col4-conn2"
-		(shape input)
-		(at 287.02 74.93 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "883a3b0e-c66a-4b4b-8b82-1c285635cbd4")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 272.605 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "col3"
 		(shape input)
 		(at 46.99 243.84 180)
@@ -5683,6 +5705,28 @@
 		(uuid "897a6f1d-6af7-48a6-8fe4-609b8e62a2bd")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 39.8925 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BAT-conn2"
+		(shape input)
+		(at 287.02 100.33 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "89ebc074-6506-4028-a1cb-69f79edeebb0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 273.3911 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5859,28 +5903,6 @@
 		(uuid "95839398-0869-4166-87d1-6fd3f4b3f162")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 39.8925 241.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "col2-conn2"
-		(shape input)
-		(at 287.02 80.01 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "9610fadb-6a44-4439-b8d4-62ca757089ad")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 272.605 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6154,28 +6176,6 @@
 			)
 		)
 	)
-	(global_label "col3-conn2"
-		(shape input)
-		(at 287.02 77.47 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "b2f34e98-5f28-4d9d-878d-621e55b25fac")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 272.605 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "encA"
 		(shape input)
 		(at 203.2 33.02 180)
@@ -6304,50 +6304,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "BAT-conn2"
-		(shape input)
-		(at 287.02 72.39 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "bb1b2325-7b32-45b5-bab8-01c335929c3b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 273.3911 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "col0-conn2"
-		(shape input)
-		(at 287.02 85.09 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "bc3ba905-4922-458c-bafe-fa96ce3a71cd")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 272.605 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 				(hide yes)
 			)
 		)
@@ -6528,6 +6484,28 @@
 			)
 		)
 	)
+	(global_label "row2-conn2"
+		(shape input)
+		(at 287.02 80.01 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ceda7276-c0bc-482e-8e0f-efb3b02327d9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 272.2421 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "row4-mcu"
 		(shape input)
 		(at 151.13 44.45 180)
@@ -6563,28 +6541,6 @@
 		(uuid "d0e7f8c2-0ed0-4230-b144-0ed3507b2eb6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 59.69 81.9671 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "row1-conn2"
-		(shape input)
-		(at 287.02 95.25 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "d1182364-b642-4b9f-bd31-1c8700f1d1a8")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 272.2421 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6660,6 +6616,28 @@
 			)
 		)
 	)
+	(global_label "free-conn2"
+		(shape input)
+		(at 287.02 72.39 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "dd56215d-1991-4fa1-89bf-dca22c789f38")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 273.0282 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "encB"
 		(shape input)
 		(at 45.72 50.8 180)
@@ -6726,9 +6704,9 @@
 			)
 		)
 	)
-	(global_label "row2-conn2"
+	(global_label "col3-conn2"
 		(shape input)
-		(at 287.02 92.71 180)
+		(at 287.02 95.25 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6736,9 +6714,9 @@
 			)
 			(justify right)
 		)
-		(uuid "e243993a-e02f-4dc1-a037-ded854a0676e")
+		(uuid "e16ecb74-cf43-4b50-838b-e8533e2a85b1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 272.2421 92.71 0)
+			(at 272.605 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7034,6 +7012,28 @@
 			)
 		)
 	)
+	(global_label "col0-conn2"
+		(shape input)
+		(at 287.02 87.63 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "faaa51e8-77fc-49dc-ab19-691204a6e208")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 272.605 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "row5"
 		(shape input)
 		(at 105.41 246.38 180)
@@ -7097,7 +7097,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "C81598"
 			(at 38.1 135.89 0)
 			(do_not_autoplace yes)
 			(effects
@@ -7207,7 +7207,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "C81598"
 			(at 223.52 115.57 0)
 			(do_not_autoplace yes)
 			(effects
@@ -7383,7 +7383,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "C81598"
 			(at 73.66 135.89 0)
 			(do_not_autoplace yes)
 			(effects
@@ -7494,7 +7494,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "C81598"
 			(at 91.44 176.53 0)
 			(do_not_autoplace yes)
 			(effects
@@ -7614,7 +7614,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "zzkeeb:Switch_MXKS-miny-hotswap-south-ks3d"
+		(property "Footprint" "zzkeeb:Switch_MXKSChoc-miny-hotswap-chocv2-3d"
 			(at 64.77 133.35 0)
 			(effects
 				(font
@@ -7760,7 +7760,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "C81598"
 			(at 55.88 156.21 0)
 			(do_not_autoplace yes)
 			(effects
@@ -7936,7 +7936,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "C81598"
 			(at 73.66 156.21 0)
 			(do_not_autoplace yes)
 			(effects
@@ -8056,7 +8056,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "zzkeeb:Switch_MXKS-miny-hotswap-south-ks3d"
+		(property "Footprint" "zzkeeb:Switch_MXKSChoc-miny-hotswap-chocv2-3d"
 			(at 46.99 153.67 0)
 			(effects
 				(font
@@ -8212,7 +8212,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "zzkeeb:Switch_MXKS-miny-hotswap-south-ks3d"
+		(property "Footprint" "zzkeeb:Switch_KSChoc-miny-hotswap-chocv2-3d"
 			(at 118.11 173.99 0)
 			(effects
 				(font
@@ -8358,7 +8358,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x12_Socket"
+		(property "Value" "C479750"
 			(at 118.11 49.5299 0)
 			(effects
 				(font
@@ -8458,7 +8458,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "C81598"
 			(at 38.1 115.57 0)
 			(do_not_autoplace yes)
 			(effects
@@ -8578,7 +8578,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "zzkeeb:Switch_MXKS-miny-hotswap-south-ks3d"
+		(property "Footprint" "zzkeeb:Switch_MXKSChoc-miny-hotswap-chocv2-3d"
 			(at 64.77 113.03 0)
 			(effects
 				(font
@@ -8669,7 +8669,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "zzkeeb:Switch_MXKS-miny-hotswap-south-ks3d"
+		(property "Footprint" "zzkeeb:Switch_MXKSChoc-miny-hotswap-chocv2-3d"
 			(at 161.29 153.67 0)
 			(effects
 				(font
@@ -8825,7 +8825,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "zzkeeb:Switch_MXKS-miny-hotswap-south-ks3d"
+		(property "Footprint" "zzkeeb:Switch_MXKSChoc-miny-hotswap-chocv2-3d"
 			(at 118.11 153.67 0)
 			(effects
 				(font
@@ -8907,7 +8907,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "C81598"
 			(at 91.44 156.21 0)
 			(do_not_autoplace yes)
 			(effects
@@ -9018,7 +9018,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "C81598"
 			(at 187.96 115.57 0)
 			(do_not_autoplace yes)
 			(effects
@@ -9128,7 +9128,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "C81598"
 			(at 223.52 135.89 0)
 			(do_not_autoplace yes)
 			(effects
@@ -9339,7 +9339,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "C81598"
 			(at 73.66 115.57 0)
 			(do_not_autoplace yes)
 			(effects
@@ -9459,7 +9459,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "zzkeeb:Switch_MXKS-miny-hotswap-south-ks3d"
+		(property "Footprint" "zzkeeb:Switch_MXKSChoc-miny-hotswap-chocv2-3d"
 			(at 82.55 113.03 0)
 			(effects
 				(font
@@ -9606,7 +9606,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "C81598"
 			(at 170.18 176.53 0)
 			(do_not_autoplace yes)
 			(effects
@@ -9855,7 +9855,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "zzkeeb:Switch_MXKS-miny-hotswap-south-ks3d"
+		(property "Footprint" "zzkeeb:Switch_MXKSChoc-miny-hotswap-chocv2-3d"
 			(at 46.99 133.35 0)
 			(effects
 				(font
@@ -9918,71 +9918,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 287.02 87.63 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "535bf7e4-c885-41cb-9835-213b2c4fc302")
-		(property "Reference" "#PWR021"
-			(at 280.67 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 281.94 87.63 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 287.02 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 287.02 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 287.02 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "6b81d1c9-6524-4ca1-a1d5-c06d2d73720d")
-		)
-		(instances
-			(project "pcb"
-				(path "/2f68eba7-4e8a-4af0-a221-669d7c557d47"
-					(reference "#PWR021")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "zzkeeb:Switch")
 		(at 214.63 133.35 0)
 		(unit 1)
@@ -10011,7 +9946,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "zzkeeb:Switch_MXKS-miny-hotswap-south-ks3d"
+		(property "Footprint" "zzkeeb:Switch_MXKSChoc-miny-hotswap-chocv2-3d"
 			(at 214.63 133.35 0)
 			(effects
 				(font
@@ -10157,7 +10092,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x12_Socket"
+		(property "Value" "C262499"
 			(at 293.37 48.2599 0)
 			(effects
 				(font
@@ -10323,7 +10258,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "C81598"
 			(at 187.96 176.53 0)
 			(do_not_autoplace yes)
 			(effects
@@ -10443,7 +10378,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "zzkeeb:Switch_MXKS-miny-hotswap-south-ks3d"
+		(property "Footprint" "zzkeeb:Switch_KSChoc-miny-hotswap-chocv2-3d"
 			(at 196.85 173.99 0)
 			(effects
 				(font
@@ -10625,7 +10560,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "C81598"
 			(at 205.74 156.21 0)
 			(do_not_autoplace yes)
 			(effects
@@ -10745,7 +10680,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "zzkeeb:Switch_MXKS-miny-hotswap-south-ks3d"
+		(property "Footprint" "zzkeeb:Switch_KSChoc-miny-hotswap-chocv2-3d"
 			(at 100.33 173.99 0)
 			(effects
 				(font
@@ -10827,7 +10762,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "C81598"
 			(at 223.52 156.21 0)
 			(do_not_autoplace yes)
 			(effects
@@ -10947,7 +10882,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "zzkeeb:Switch_MXKS-miny-hotswap-south-ks3d"
+		(property "Footprint" "zzkeeb:Switch_MXKSChoc-miny-hotswap-chocv2-3d"
 			(at 196.85 113.03 0)
 			(effects
 				(font
@@ -11038,7 +10973,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "zzkeeb:Switch_MXKS-miny-hotswap-south-ks3d"
+		(property "Footprint" "zzkeeb:Switch_MXKSChoc-miny-hotswap-chocv2-3d"
 			(at 214.63 153.67 0)
 			(effects
 				(font
@@ -11129,7 +11064,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "zzkeeb:Switch_MXKS-miny-hotswap-south-ks3d"
+		(property "Footprint" "zzkeeb:Switch_KSChoc-miny-hotswap-chocv2-3d"
 			(at 161.29 173.99 0)
 			(effects
 				(font
@@ -11210,7 +11145,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "C81598"
 			(at 109.22 135.89 0)
 			(do_not_autoplace yes)
 			(effects
@@ -11320,7 +11255,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x12_Socket"
+		(property "Value" "C479750"
 			(at 111.76 253.9999 0)
 			(effects
 				(font
@@ -11498,7 +11433,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "zzkeeb:Switch_MXKS-miny-hotswap-south-ks3d"
+		(property "Footprint" "zzkeeb:Switch_MXKSChoc-miny-hotswap-chocv2-3d"
 			(at 179.07 133.35 0)
 			(effects
 				(font
@@ -11709,7 +11644,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "C81598"
 			(at 109.22 176.53 0)
 			(do_not_autoplace yes)
 			(effects
@@ -11829,7 +11764,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "zzkeeb:Switch_MXKS-miny-hotswap-south-ks3d"
+		(property "Footprint" "zzkeeb:Switch_MXKSChoc-miny-hotswap-chocv2-3d"
 			(at 214.63 113.03 0)
 			(effects
 				(font
@@ -12040,7 +11975,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "C81598"
 			(at 152.4 135.89 0)
 			(do_not_autoplace yes)
 			(effects
@@ -12160,7 +12095,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "zzkeeb:Switch_MXKS-miny-hotswap-south-ks3d"
+		(property "Footprint" "zzkeeb:Switch_MXKSChoc-miny-hotswap-chocv2-3d"
 			(at 232.41 113.03 0)
 			(effects
 				(font
@@ -12251,7 +12186,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "zzkeeb:Switch_MXKS-miny-hotswap-south-ks3d"
+		(property "Footprint" "zzkeeb:Switch_KSChoc-miny-hotswap-chocv2-3d"
 			(at 82.55 173.99 0)
 			(effects
 				(font
@@ -12342,7 +12277,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "zzkeeb:Switch_MXKS-miny-hotswap-south-ks3d"
+		(property "Footprint" "zzkeeb:Switch_MXKSChoc-miny-hotswap-chocv2-3d"
 			(at 118.11 133.35 0)
 			(effects
 				(font
@@ -12424,7 +12359,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "C81598"
 			(at 109.22 156.21 0)
 			(do_not_autoplace yes)
 			(effects
@@ -12534,7 +12469,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "C81598"
 			(at 152.4 115.57 0)
 			(do_not_autoplace yes)
 			(effects
@@ -12645,7 +12580,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "C81598"
 			(at 187.96 156.21 0)
 			(do_not_autoplace yes)
 			(effects
@@ -12835,7 +12770,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "zzkeeb:Switch_MXKS-miny-hotswap-south-ks3d"
+		(property "Footprint" "zzkeeb:Switch_MXKSChoc-miny-hotswap-chocv2-3d"
 			(at 179.07 153.67 0)
 			(effects
 				(font
@@ -12917,7 +12852,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "C81598"
 			(at 73.66 176.53 0)
 			(do_not_autoplace yes)
 			(effects
@@ -13102,7 +13037,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "zzkeeb:Switch_MXKS-miny-hotswap-south-ks3d"
+		(property "Footprint" "zzkeeb:Switch_KSChoc-miny-hotswap-chocv2-3d"
 			(at 179.07 173.99 0)
 			(effects
 				(font
@@ -13193,7 +13128,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "zzkeeb:Switch_MXKS-miny-hotswap-south-ks3d"
+		(property "Footprint" "zzkeeb:Switch_MXKSChoc-miny-hotswap-chocv2-3d"
 			(at 161.29 113.03 0)
 			(effects
 				(font
@@ -13354,7 +13289,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "C81598"
 			(at 55.88 135.89 0)
 			(do_not_autoplace yes)
 			(effects
@@ -13474,7 +13409,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "zzkeeb:Switch_MXKS-miny-hotswap-south-ks3d"
+		(property "Footprint" "zzkeeb:Switch_MXKSChoc-miny-hotswap-chocv2-3d"
 			(at 232.41 153.67 0)
 			(effects
 				(font
@@ -13565,7 +13500,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "zzkeeb:Switch_MXKS-miny-hotswap-south-ks3d"
+		(property "Footprint" "zzkeeb:Switch_MXKSChoc-miny-hotswap-chocv2-3d"
 			(at 82.55 133.35 0)
 			(effects
 				(font
@@ -13723,7 +13658,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "C81598"
 			(at 55.88 115.57 0)
 			(do_not_autoplace yes)
 			(effects
@@ -13843,7 +13778,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "zzkeeb:Switch_MXKS-miny-hotswap-south-ks3d"
+		(property "Footprint" "zzkeeb:Switch_MXKSChoc-miny-hotswap-chocv2-3d"
 			(at 232.41 133.35 0)
 			(effects
 				(font
@@ -13934,7 +13869,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "zzkeeb:Switch_MXKS-miny-hotswap-south-ks3d"
+		(property "Footprint" "zzkeeb:Switch_MXKSChoc-miny-hotswap-chocv2-3d"
 			(at 179.07 113.03 0)
 			(effects
 				(font
@@ -14025,7 +13960,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "zzkeeb:Switch_MXKS-miny-hotswap-south-ks3d"
+		(property "Footprint" "zzkeeb:Switch_MXKSChoc-miny-hotswap-chocv2-3d"
 			(at 196.85 153.67 0)
 			(effects
 				(font
@@ -14186,7 +14121,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "zzkeeb:Switch_MXKS-miny-hotswap-south-ks3d"
+		(property "Footprint" "zzkeeb:Switch_MXKSChoc-miny-hotswap-chocv2-3d"
 			(at 100.33 133.35 0)
 			(effects
 				(font
@@ -14268,7 +14203,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "C81598"
 			(at 205.74 115.57 0)
 			(do_not_autoplace yes)
 			(effects
@@ -14388,7 +14323,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "zzkeeb:Switch_MXKS-miny-hotswap-south-ks3d"
+		(property "Footprint" "zzkeeb:Switch_MXKSChoc-miny-hotswap-chocv2-3d"
 			(at 46.99 113.03 0)
 			(effects
 				(font
@@ -14445,6 +14380,71 @@
 			(project "pcb"
 				(path "/2f68eba7-4e8a-4af0-a221-669d7c557d47"
 					(reference "SW1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 287.02 85.09 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c14eba31-f312-42b8-8144-dc5ebdfec39a")
+		(property "Reference" "#PWR011"
+			(at 280.67 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 281.94 85.09 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 287.02 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 287.02 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 287.02 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fdb37250-f325-4d9f-99e7-9d0c28efe044")
+		)
+		(instances
+			(project "pcb"
+				(path "/2f68eba7-4e8a-4af0-a221-669d7c557d47"
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -14544,7 +14544,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "zzkeeb:Switch_MXKS-miny-hotswap-south-ks3d"
+		(property "Footprint" "zzkeeb:Switch_MXKSChoc-miny-hotswap-chocv2-3d"
 			(at 82.55 153.67 0)
 			(effects
 				(font
@@ -14778,7 +14778,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "zzkeeb:Switch_MXKS-miny-hotswap-south-ks3d"
+		(property "Footprint" "zzkeeb:Switch_MXKSChoc-miny-hotswap-chocv2-3d"
 			(at 64.77 153.67 0)
 			(effects
 				(font
@@ -14924,7 +14924,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "C81598"
 			(at 152.4 156.21 0)
 			(do_not_autoplace yes)
 			(effects
@@ -15035,7 +15035,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "C81598"
 			(at 170.18 135.89 0)
 			(do_not_autoplace yes)
 			(effects
@@ -15145,7 +15145,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "C81598"
 			(at 170.18 115.57 0)
 			(do_not_autoplace yes)
 			(effects
@@ -15255,7 +15255,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x12_Socket"
+		(property "Value" "C479750"
 			(at 53.34 253.9999 0)
 			(effects
 				(font
@@ -15355,7 +15355,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x12_Socket"
+		(property "Value" "C262499"
 			(at 293.37 87.6299 0)
 			(effects
 				(font
@@ -15529,7 +15529,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "zzkeeb:Switch_MXKS-miny-hotswap-south-ks3d"
+		(property "Footprint" "zzkeeb:Switch_MXKSChoc-miny-hotswap-chocv2-3d"
 			(at 100.33 113.03 0)
 			(effects
 				(font
@@ -15610,7 +15610,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x12_Socket"
+		(property "Value" "C479750"
 			(at 157.48 49.5299 0)
 			(effects
 				(font
@@ -15720,7 +15720,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "zzkeeb:Switch_MXKS-miny-hotswap-south-ks3d"
+		(property "Footprint" "zzkeeb:Switch_MXKSChoc-miny-hotswap-chocv2-3d"
 			(at 196.85 133.35 0)
 			(effects
 				(font
@@ -15811,7 +15811,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "C81598"
 			(at 187.96 135.89 0)
 			(do_not_autoplace yes)
 			(effects
@@ -15931,7 +15931,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "zzkeeb:Switch_MXKS-miny-hotswap-south-ks3d"
+		(property "Footprint" "zzkeeb:Switch_MXKSChoc-miny-hotswap-chocv2-3d"
 			(at 161.29 133.35 0)
 			(effects
 				(font
@@ -16013,7 +16013,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "C81598"
 			(at 205.74 135.89 0)
 			(do_not_autoplace yes)
 			(effects
@@ -16124,7 +16124,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "C81598"
 			(at 91.44 135.89 0)
 			(do_not_autoplace yes)
 			(effects
@@ -16235,7 +16235,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "C81598"
 			(at 91.44 115.57 0)
 			(do_not_autoplace yes)
 			(effects
@@ -16355,7 +16355,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "zzkeeb:Switch_MXKS-miny-hotswap-south-ks3d"
+		(property "Footprint" "zzkeeb:Switch_MXKSChoc-miny-hotswap-chocv2-3d"
 			(at 100.33 153.67 0)
 			(effects
 				(font
@@ -16502,7 +16502,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "C81598"
 			(at 170.18 156.21 0)
 			(do_not_autoplace yes)
 			(effects
@@ -16742,7 +16742,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "C81598"
 			(at 38.1 156.21 0)
 			(do_not_autoplace yes)
 			(effects
@@ -16853,7 +16853,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "C81598"
 			(at 152.4 176.53 0)
 			(do_not_autoplace yes)
 			(effects
@@ -17037,7 +17037,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "zzkeeb:Switch_MXKS-miny-hotswap-south-ks3d"
+		(property "Footprint" "zzkeeb:Switch_MXKSChoc-miny-hotswap-chocv2-3d"
 			(at 118.11 113.03 0)
 			(effects
 				(font
@@ -17118,7 +17118,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "C81598"
 			(at 109.22 115.57 0)
 			(do_not_autoplace yes)
 			(effects

@@ -1,7 +1,7 @@
 pcb/**/*-backups
 pcb/gerber
-pcb/production/*
-!pcb/production/*.zip
+pcb/production/backups
+pcb/production/*.ipc
 
 */**/jlcpcb/gerber
 */**/jlcpcb/**/*.csv

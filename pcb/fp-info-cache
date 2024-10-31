@@ -1,4 +1,4 @@
-4525423896829760
+4534128006566087
 Button_Switch_SMD
 Nidec_Copal_CAS-120A
 Slide Switch, SMD, Nidec CAS series, https://www.nidec-components.com/e/catalog/switch/cas.pdf
@@ -18172,6 +18172,20 @@ Switch_KS-miny-reversible-hotswap-south-flip3d
 4
 2
 zzkeeb
+Switch_KSChoc-miny-hotswap-choc3d
+
+
+0
+4
+2
+zzkeeb
+Switch_KSChoc-miny-hotswap-ks3d
+
+
+0
+4
+2
+zzkeeb
 Switch_MX-cutout-bottom-hotswap
 
 
@@ -18324,6 +18338,27 @@ Switch_MXKS-miny-reversible-hotswap-ks3d
 
 0
 8
+2
+zzkeeb
+Switch_MXKSChoc-miny-hotswap-choc3d
+
+
+0
+6
+2
+zzkeeb
+Switch_MXKSChoc-miny-hotswap-ks3d
+
+
+0
+6
+2
+zzkeeb
+Switch_MXKSChoc-miny-hotswap-mx3d
+
+
+0
+6
 2
 zzkeeb
 Switch_SPDT-PCM12
