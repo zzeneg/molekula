@@ -2171,6 +2171,7 @@
 			(uuid "320851e0-8dd5-4144-b38a-78523afd188a")
 		)
 		(model "${ZZKEEB}/models/EC11-THT-15F-black.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2194,7 +2195,6 @@
 			)
 		)
 		(model "${ZZKEEB}/models/EC12 Encoder 10mm 3pin.stp"
-			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)

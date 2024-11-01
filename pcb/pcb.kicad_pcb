@@ -20160,7 +20160,7 @@
 		)
 		(fp_arc
 			(start -7.275 2.375)
-			(mid -6.982108 1.667892)
+			(mid -6.982108 1.667891)
 			(end -6.275 1.375)
 			(stroke
 				(width 0.15)
@@ -22826,7 +22826,7 @@
 			(uuid "965ef079-916d-46a6-a2fc-82889bafefd3")
 		)
 		(pad "1" smd rect
-			(at 5.875 5.750002 10)
+			(at 5.875 5.750003 10)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 85 "Net-(D35-A)")
@@ -32834,6 +32834,7 @@
 			(uuid "320851e0-8dd5-4144-b38a-78523afd188a")
 		)
 		(model "${ZZKEEB}/models/EC11-THT-15F-black.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -32857,7 +32858,6 @@
 			)
 		)
 		(model "${ZZKEEB}/models/EC12 Encoder 10mm 3pin.stp"
-			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
