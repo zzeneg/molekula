@@ -5692,6 +5692,28 @@
 			)
 		)
 	)
+	(global_label "RST"
+		(shape input)
+		(at 214.63 78.74 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "86c397d0-1591-4f50-9556-99470ef95c29")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 221.0623 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "col3"
 		(shape input)
 		(at 46.99 243.84 180)
@@ -6326,28 +6348,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "RST"
-		(shape input)
-		(at 204.47 78.74 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "c1820fd7-e2f5-4877-ac4d-c699812e0823")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 198.0377 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 				(hide yes)
 			)
 		)
@@ -10003,71 +10003,6 @@
 			(project "pcb"
 				(path "/2f68eba7-4e8a-4af0-a221-669d7c557d47"
 					(reference "SW27")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 214.63 78.74 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "56b5dbc7-557e-4229-ae42-c025d75911b0")
-		(property "Reference" "#PWR06"
-			(at 214.63 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 214.63 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 214.63 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 214.63 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 214.63 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "741c9b00-5437-48f0-b4bd-efe17499fda5")
-		)
-		(instances
-			(project "pcb"
-				(path "/2f68eba7-4e8a-4af0-a221-669d7c557d47"
-					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -15331,6 +15266,71 @@
 			(project "pcb"
 				(path "/2f68eba7-4e8a-4af0-a221-669d7c557d47"
 					(reference "J4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 204.47 78.74 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "cf3b181c-7f72-4ae2-93dc-477632fe93d2")
+		(property "Reference" "#PWR06"
+			(at 204.47 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 204.47 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 204.47 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 204.47 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 204.47 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a871f900-9f9f-4867-9488-14db6254a251")
+		)
+		(instances
+			(project "pcb"
+				(path "/2f68eba7-4e8a-4af0-a221-669d7c557d47"
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
