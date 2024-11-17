@@ -1,6 +1,6 @@
 pcb/**/*-backups
+pcb/**/production/backups
 pcb/gerber
-pcb/production/backups
 pcb/production/*.ipc
 
 */**/jlcpcb/gerber
