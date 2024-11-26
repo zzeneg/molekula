@@ -1,0 +1,1 @@
+powershell "gci -filter *.stl | %% {move $_.Name $_.Name.Replace('export_', '').Replace('export-params_', '').Replace('type_1', 'ks').Replace('type_2', 'chocV1').Replace('type_3', 'chocV2').Replace('type_4', 'mx') -Force }"
