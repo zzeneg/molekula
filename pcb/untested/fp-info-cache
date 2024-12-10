@@ -1,4 +1,4 @@
-4535911462594279
+5238148850031254
 Button_Switch_SMD
 Nidec_Copal_CAS-120A
 Slide Switch, SMD, Nidec CAS series, https://www.nidec-components.com/e/catalog/switch/cas.pdf
@@ -2310,6 +2310,20 @@ capacitor handsolder
 2
 2
 Capacitor_SMD
+C_1808_4520Metric
+Capacitor SMD 1808 (4520 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: datasheet page 3, https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_soft_en.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+Capacitor_SMD
+C_1808_4520Metric_Pad1.72x2.30mm_HandSolder
+Capacitor SMD 1808 (4520 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: datasheet page 3, https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_soft_en.pdf), generated with kicad-footprint-generator
+capacitor handsolder
+0
+2
+2
+Capacitor_SMD
 C_1812_4532Metric
 Capacitor SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
 capacitor
@@ -2757,6 +2771,1441 @@ tag connect programming header pogo pins
 0
 14
 14
+Connector_FFC-FPC
+Hirose_FH12-6S-0.5SH_1x06-1MP_P0.50mm_Horizontal
+Hirose FH12, FFC/FPC connector, FH12-6S-0.5SH, 6 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
+0
+8
+7
+Connector_FFC-FPC
+Hirose_FH12-8S-0.5SH_1x08-1MP_P0.50mm_Horizontal
+Hirose FH12, FFC/FPC connector, FH12-8S-0.5SH, 8 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
+0
+10
+9
+Connector_FFC-FPC
+Hirose_FH12-10S-0.5SH_1x10-1MP_P0.50mm_Horizontal
+Hirose FH12, FFC/FPC connector, FH12-10S-0.5SH, 10 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
+0
+12
+11
+Connector_FFC-FPC
+Hirose_FH12-11S-0.5SH_1x11-1MP_P0.50mm_Horizontal
+Hirose FH12, FFC/FPC connector, FH12-11S-0.5SH, 11 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
+0
+13
+12
+Connector_FFC-FPC
+Hirose_FH12-12S-0.5SH_1x12-1MP_P0.50mm_Horizontal
+Hirose FH12, FFC/FPC connector, FH12-12S-0.5SH, 12 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
+0
+14
+13
+Connector_FFC-FPC
+Hirose_FH12-13S-0.5SH_1x13-1MP_P0.50mm_Horizontal
+Hirose FH12, FFC/FPC connector, FH12-13S-0.5SH, 13 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
+0
+15
+14
+Connector_FFC-FPC
+Hirose_FH12-14S-0.5SH_1x14-1MP_P0.50mm_Horizontal
+Hirose FH12, FFC/FPC connector, FH12-14S-0.5SH, 14 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
+0
+16
+15
+Connector_FFC-FPC
+Hirose_FH12-15S-0.5SH_1x15-1MP_P0.50mm_Horizontal
+Hirose FH12, FFC/FPC connector, FH12-15S-0.5SH, 15 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
+0
+17
+16
+Connector_FFC-FPC
+Hirose_FH12-16S-0.5SH_1x16-1MP_P0.50mm_Horizontal
+Hirose FH12, FFC/FPC connector, FH12-16S-0.5SH, 16 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
+0
+18
+17
+Connector_FFC-FPC
+Hirose_FH12-17S-0.5SH_1x17-1MP_P0.50mm_Horizontal
+Hirose FH12, FFC/FPC connector, FH12-17S-0.5SH, 17 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
+0
+19
+18
+Connector_FFC-FPC
+Hirose_FH12-18S-0.5SH_1x18-1MP_P0.50mm_Horizontal
+Hirose FH12, FFC/FPC connector, FH12-18S-0.5SH, 18 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
+0
+20
+19
+Connector_FFC-FPC
+Hirose_FH12-19S-0.5SH_1x19-1MP_P0.50mm_Horizontal
+Hirose FH12, FFC/FPC connector, FH12-19S-0.5SH, 19 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
+0
+21
+20
+Connector_FFC-FPC
+Hirose_FH12-20S-0.5SH_1x20-1MP_P0.50mm_Horizontal
+Hirose FH12, FFC/FPC connector, FH12-20S-0.5SH, 20 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
+0
+22
+21
+Connector_FFC-FPC
+Hirose_FH12-22S-0.5SH_1x22-1MP_P0.50mm_Horizontal
+Hirose FH12, FFC/FPC connector, FH12-22S-0.5SH, 22 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
+0
+24
+23
+Connector_FFC-FPC
+Hirose_FH12-24S-0.5SH_1x24-1MP_P0.50mm_Horizontal
+Hirose FH12, FFC/FPC connector, FH12-24S-0.5SH, 24 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
+0
+26
+25
+Connector_FFC-FPC
+Hirose_FH12-25S-0.5SH_1x25-1MP_P0.50mm_Horizontal
+Hirose FH12, FFC/FPC connector, FH12-25S-0.5SH, 25 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
+0
+27
+26
+Connector_FFC-FPC
+Hirose_FH12-26S-0.5SH_1x26-1MP_P0.50mm_Horizontal
+Hirose FH12, FFC/FPC connector, FH12-26S-0.5SH, 26 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
+0
+28
+27
+Connector_FFC-FPC
+Hirose_FH12-28S-0.5SH_1x28-1MP_P0.50mm_Horizontal
+Hirose FH12, FFC/FPC connector, FH12-28S-0.5SH, 28 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
+0
+30
+29
+Connector_FFC-FPC
+Hirose_FH12-30S-0.5SH_1x30-1MP_P0.50mm_Horizontal
+Hirose FH12, FFC/FPC connector, FH12-30S-0.5SH, 30 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
+0
+32
+31
+Connector_FFC-FPC
+Hirose_FH12-32S-0.5SH_1x32-1MP_P0.50mm_Horizontal
+Hirose FH12, FFC/FPC connector, FH12-32S-0.5SH, 32 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
+0
+34
+33
+Connector_FFC-FPC
+Hirose_FH12-33S-0.5SH_1x33-1MP_P0.50mm_Horizontal
+Hirose FH12, FFC/FPC connector, FH12-33S-0.5SH, 33 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
+0
+35
+34
+Connector_FFC-FPC
+Hirose_FH12-34S-0.5SH_1x34-1MP_P0.50mm_Horizontal
+Hirose FH12, FFC/FPC connector, FH12-34S-0.5SH, 34 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
+0
+36
+35
+Connector_FFC-FPC
+Hirose_FH12-35S-0.5SH_1x35-1MP_P0.50mm_Horizontal
+Hirose FH12, FFC/FPC connector, FH12-35S-0.5SH, 35 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
+0
+37
+36
+Connector_FFC-FPC
+Hirose_FH12-36S-0.5SH_1x36-1MP_P0.50mm_Horizontal
+Hirose FH12, FFC/FPC connector, FH12-36S-0.5SH, 36 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
+0
+38
+37
+Connector_FFC-FPC
+Hirose_FH12-40S-0.5SH_1x40-1MP_P0.50mm_Horizontal
+Hirose FH12, FFC/FPC connector, FH12-40S-0.5SH, 40 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
+0
+42
+41
+Connector_FFC-FPC
+Hirose_FH12-45S-0.5SH_1x45-1MP_P0.50mm_Horizontal
+Hirose FH12, FFC/FPC connector, FH12-45S-0.5SH, 45 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
+0
+47
+46
+Connector_FFC-FPC
+Hirose_FH12-50S-0.5SH_1x50-1MP_P0.50mm_Horizontal
+Hirose FH12, FFC/FPC connector, FH12-50S-0.5SH, 50 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
+0
+52
+51
+Connector_FFC-FPC
+Hirose_FH12-53S-0.5SH_1x53-1MP_P0.50mm_Horizontal
+Hirose FH12, FFC/FPC connector, FH12-53S-0.5SH, 53 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
+0
+55
+54
+Connector_FFC-FPC
+Hirose_FH26-13S-0.3SHW_2Rows-13Pins-1MP_P0.60mm_Horizontal
+Hirose 0.30mm Pitch FFC/FPC, FH26-13S-0.3SHW, 13 Circuits (https://www.hirose.com/en/product/document?clcode=&productname=&series=FH26&documenttype=Catalog&lang=en&documentid=D49355_en), generated with kicad-footprint-generator
+connector Hirose  horizontal
+0
+15
+14
+Connector_FFC-FPC
+Hirose_FH26-15S-0.3SHW_2Rows-15Pins-1MP_P0.60mm_Horizontal
+Hirose 0.30mm Pitch FFC/FPC, FH26-15S-0.3SHW, 15 Circuits (https://www.hirose.com/en/product/document?clcode=&productname=&series=FH26&documenttype=Catalog&lang=en&documentid=D49355_en), generated with kicad-footprint-generator
+connector Hirose  horizontal
+0
+17
+16
+Connector_FFC-FPC
+Hirose_FH26-17S-0.3SHW_2Rows-17Pins-1MP_P0.60mm_Horizontal
+Hirose 0.30mm Pitch FFC/FPC, FH26-17S-0.3SHW, 17 Circuits (https://www.hirose.com/en/product/document?clcode=&productname=&series=FH26&documenttype=Catalog&lang=en&documentid=D49355_en), generated with kicad-footprint-generator
+connector Hirose  horizontal
+0
+19
+18
+Connector_FFC-FPC
+Hirose_FH26-19S-0.3SHW_2Rows-19Pins-1MP_P0.60mm_Horizontal
+Hirose 0.30mm Pitch FFC/FPC, FH26-19S-0.3SHW, 19 Circuits (https://www.hirose.com/en/product/document?clcode=&productname=&series=FH26&documenttype=Catalog&lang=en&documentid=D49355_en), generated with kicad-footprint-generator
+connector Hirose  horizontal
+0
+21
+20
+Connector_FFC-FPC
+Hirose_FH26-21S-0.3SHW_2Rows-21Pins-1MP_P0.60mm_Horizontal
+Hirose 0.30mm Pitch FFC/FPC, FH26-21S-0.3SHW, 21 Circuits (https://www.hirose.com/en/product/document?clcode=&productname=&series=FH26&documenttype=Catalog&lang=en&documentid=D49355_en), generated with kicad-footprint-generator
+connector Hirose  horizontal
+0
+23
+22
+Connector_FFC-FPC
+Hirose_FH26-23S-0.3SHW_2Rows-23Pins-1MP_P0.60mm_Horizontal
+Hirose 0.30mm Pitch FFC/FPC, FH26-23S-0.3SHW, 23 Circuits (https://www.hirose.com/en/product/document?clcode=&productname=&series=FH26&documenttype=Catalog&lang=en&documentid=D49355_en), generated with kicad-footprint-generator
+connector Hirose  horizontal
+0
+25
+24
+Connector_FFC-FPC
+Hirose_FH26-25S-0.3SHW_2Rows-25Pins-1MP_P0.60mm_Horizontal
+Hirose 0.30mm Pitch FFC/FPC, FH26-25S-0.3SHW, 25 Circuits (https://www.hirose.com/en/product/document?clcode=&productname=&series=FH26&documenttype=Catalog&lang=en&documentid=D49355_en), generated with kicad-footprint-generator
+connector Hirose  horizontal
+0
+27
+26
+Connector_FFC-FPC
+Hirose_FH26-27S-0.3SHW_2Rows-27Pins-1MP_P0.60mm_Horizontal
+Hirose 0.30mm Pitch FFC/FPC, FH26-27S-0.3SHW, 27 Circuits (https://www.hirose.com/en/product/document?clcode=&productname=&series=FH26&documenttype=Catalog&lang=en&documentid=D49355_en), generated with kicad-footprint-generator
+connector Hirose  horizontal
+0
+29
+28
+Connector_FFC-FPC
+Hirose_FH26-29S-0.3SHW_2Rows-29Pins-1MP_P0.60mm_Horizontal
+Hirose 0.30mm Pitch FFC/FPC, FH26-29S-0.3SHW, 29 Circuits (https://www.hirose.com/en/product/document?clcode=&productname=&series=FH26&documenttype=Catalog&lang=en&documentid=D49355_en), generated with kicad-footprint-generator
+connector Hirose  horizontal
+0
+31
+30
+Connector_FFC-FPC
+Hirose_FH26-31S-0.3SHW_2Rows-31Pins-1MP_P0.60mm_Horizontal
+Hirose 0.30mm Pitch FFC/FPC, FH26-31S-0.3SHW, 31 Circuits (https://www.hirose.com/en/product/document?clcode=&productname=&series=FH26&documenttype=Catalog&lang=en&documentid=D49355_en), generated with kicad-footprint-generator
+connector Hirose  horizontal
+0
+33
+32
+Connector_FFC-FPC
+Hirose_FH26-33S-0.3SHW_2Rows-33Pins-1MP_P0.60mm_Horizontal
+Hirose 0.30mm Pitch FFC/FPC, FH26-33S-0.3SHW, 33 Circuits (https://www.hirose.com/en/product/document?clcode=&productname=&series=FH26&documenttype=Catalog&lang=en&documentid=D49355_en), generated with kicad-footprint-generator
+connector Hirose  horizontal
+0
+35
+34
+Connector_FFC-FPC
+Hirose_FH26-35S-0.3SHW_2Rows-35Pins-1MP_P0.60mm_Horizontal
+Hirose 0.30mm Pitch FFC/FPC, FH26-35S-0.3SHW, 35 Circuits (https://www.hirose.com/en/product/document?clcode=&productname=&series=FH26&documenttype=Catalog&lang=en&documentid=D49355_en), generated with kicad-footprint-generator
+connector Hirose  horizontal
+0
+37
+36
+Connector_FFC-FPC
+Hirose_FH26-37S-0.3SHW_2Rows-37Pins-1MP_P0.60mm_Horizontal
+Hirose 0.30mm Pitch FFC/FPC, FH26-37S-0.3SHW, 37 Circuits (https://www.hirose.com/en/product/document?clcode=&productname=&series=FH26&documenttype=Catalog&lang=en&documentid=D49355_en), generated with kicad-footprint-generator
+connector Hirose  horizontal
+0
+39
+38
+Connector_FFC-FPC
+Hirose_FH26-39S-0.3SHW_2Rows-39Pins-1MP_P0.60mm_Horizontal
+Hirose 0.30mm Pitch FFC/FPC, FH26-39S-0.3SHW, 39 Circuits (https://www.hirose.com/en/product/document?clcode=&productname=&series=FH26&documenttype=Catalog&lang=en&documentid=D49355_en), generated with kicad-footprint-generator
+connector Hirose  horizontal
+0
+41
+40
+Connector_FFC-FPC
+Hirose_FH26-41S-0.3SHW_2Rows-41Pins-1MP_P0.60mm_Horizontal
+Hirose 0.30mm Pitch FFC/FPC, FH26-41S-0.3SHW, 41 Circuits (https://www.hirose.com/en/product/document?clcode=&productname=&series=FH26&documenttype=Catalog&lang=en&documentid=D49355_en), generated with kicad-footprint-generator
+connector Hirose  horizontal
+0
+43
+42
+Connector_FFC-FPC
+Hirose_FH26-45S-0.3SHW_2Rows-45Pins-1MP_P0.60mm_Horizontal
+Hirose 0.30mm Pitch FFC/FPC, FH26-45S-0.3SHW, 45 Circuits (https://www.hirose.com/en/product/document?clcode=&productname=&series=FH26&documenttype=Catalog&lang=en&documentid=D49355_en), generated with kicad-footprint-generator
+connector Hirose  horizontal
+0
+47
+46
+Connector_FFC-FPC
+Hirose_FH26-51S-0.3SHW_2Rows-51Pins-1MP_P0.60mm_Horizontal
+Hirose 0.30mm Pitch FFC/FPC, FH26-51S-0.3SHW, 51 Circuits (https://www.hirose.com/en/product/document?clcode=&productname=&series=FH26&documenttype=Catalog&lang=en&documentid=D49355_en), generated with kicad-footprint-generator
+connector Hirose  horizontal
+0
+53
+52
+Connector_FFC-FPC
+Hirose_FH26-55S-0.3SHW_2Rows-55Pins-1MP_P0.60mm_Horizontal
+Hirose 0.30mm Pitch FFC/FPC, FH26-55S-0.3SHW, 55 Circuits (https://www.hirose.com/en/product/document?clcode=&productname=&series=FH26&documenttype=Catalog&lang=en&documentid=D49355_en), generated with kicad-footprint-generator
+connector Hirose  horizontal
+0
+57
+56
+Connector_FFC-FPC
+Hirose_FH26-57S-0.3SHW_2Rows-57Pins-1MP_P0.60mm_Horizontal
+Hirose 0.30mm Pitch FFC/FPC, FH26-57S-0.3SHW, 57 Circuits (https://www.hirose.com/en/product/document?clcode=&productname=&series=FH26&documenttype=Catalog&lang=en&documentid=D49355_en), generated with kicad-footprint-generator
+connector Hirose  horizontal
+0
+59
+58
+Connector_FFC-FPC
+Hirose_FH26-61S-0.3SHW_2Rows-61Pins-1MP_P0.60mm_Horizontal
+Hirose 0.30mm Pitch FFC/FPC, FH26-61S-0.3SHW, 61 Circuits (https://www.hirose.com/en/product/document?clcode=&productname=&series=FH26&documenttype=Catalog&lang=en&documentid=D49355_en), generated with kicad-footprint-generator
+connector Hirose  horizontal
+0
+63
+62
+Connector_FFC-FPC
+Hirose_FH26-71S-0.3SHW_2Rows-71Pins-1MP_P0.60mm_Horizontal
+Hirose 0.30mm Pitch FFC/FPC, FH26-71S-0.3SHW, 71 Circuits (https://www.hirose.com/en/product/document?clcode=&productname=&series=FH26&documenttype=Catalog&lang=en&documentid=D49355_en), generated with kicad-footprint-generator
+connector Hirose  horizontal
+0
+73
+72
+Connector_FFC-FPC
+Hirose_FH41-30S-0.5SH_1x30_1MP_1SH_P0.5mm_Horizontal
+Hirose FH41, FFC/FPC connector, FH41-30S-0.5SH, 30 Pins per row (https://www.hirose.com/fr/product/document?clcode=CL0580-2218-5-05&productname=FH41-30S-0.5SH(05)&series=FH41&documenttype=2DDrawing&lang=fr&documentid=0001001704)
+connector Hirose FH41 horizontal
+0
+38
+32
+Connector_FFC-FPC
+JAE_FF0825SA1_2Rows-25Pins_P0.40mm_Horizontal
+Molex JAE 0.2mm pitch, 1mm overall height FFC/FPC connector, FF0825SA1, 25 Circuits (http://www.jae.com/z-en/pdf_download_exec.cfm?param=SJ108178.pdf), generated with kicad-footprint-generator
+connector JAE  top entry
+0
+25
+25
+Connector_FFC-FPC
+JAE_FF0829SA1_2Rows-29Pins_P0.40mm_Horizontal
+Molex JAE 0.2mm pitch, 1mm overall height FFC/FPC connector, FF0829SA1, 29 Circuits (http://www.jae.com/z-en/pdf_download_exec.cfm?param=SJ108178.pdf), generated with kicad-footprint-generator
+connector JAE  top entry
+0
+29
+29
+Connector_FFC-FPC
+JAE_FF0841SA1_2Rows-41Pins_P0.40mm_Horizontal
+Molex JAE 0.2mm pitch, 1mm overall height FFC/FPC connector, FF0841SA1, 41 Circuits (http://www.jae.com/z-en/pdf_download_exec.cfm?param=SJ108178.pdf), generated with kicad-footprint-generator
+connector JAE  top entry
+0
+41
+41
+Connector_FFC-FPC
+JAE_FF0851SA1_2Rows-51Pins_P0.40mm_Horizontal
+Molex JAE 0.2mm pitch, 1mm overall height FFC/FPC connector, FF0851SA1, 51 Circuits (http://www.jae.com/z-en/pdf_download_exec.cfm?param=SJ108178.pdf), generated with kicad-footprint-generator
+connector JAE  top entry
+0
+51
+51
+Connector_FFC-FPC
+JAE_FF0871SA1_2Rows-71Pins_P0.40mm_Horizontal
+Molex JAE 0.2mm pitch, 1mm overall height FFC/FPC connector, FF0871SA1, 71 Circuits (http://www.jae.com/z-en/pdf_download_exec.cfm?param=SJ108178.pdf), generated with kicad-footprint-generator
+connector JAE  top entry
+0
+71
+71
+Connector_FFC-FPC
+JAE_FF0881SA1_2Rows-81Pins_P0.40mm_Horizontal
+Molex JAE 0.2mm pitch, 1mm overall height FFC/FPC connector, FF0881SA1, 81 Circuits (http://www.jae.com/z-en/pdf_download_exec.cfm?param=SJ108178.pdf), generated with kicad-footprint-generator
+connector JAE  top entry
+0
+81
+81
+Connector_FFC-FPC
+Jushuo_AFC07-S06FCA-00_1x6-1MP_P0.50_Horizontal
+Jushuo AFC07, FFC/FPC connector, AFC07-S06FCA-00, 6 Pins per row (https://datasheet.lcsc.com/lcsc/1811040204_JUSHUO-AFC07-S32FCC-00_C11061.pdf)
+connector jushuo horizontal
+0
+8
+7
+Connector_FFC-FPC
+Jushuo_AFC07-S24FCA-00_1x24-1MP_P0.50_Horizontal
+Jushuo AFC07, FFC/FPC connector, AFC07-S24FCA-00, 24 Pins per row (https://datasheet.lcsc.com/lcsc/1811040204_JUSHUO-AFC07-S32FCC-00_C11061.pdf)
+connector jushuo horizontal
+0
+26
+25
+Connector_FFC-FPC
+Molex_52559-3652_2x18-1MP_P0.5mm_Vertical
+Molex 0.50mm Pitch Easy-On Type FFC/FPC, 52559-3652, 36 Circuits (https://www.molex.com/pdm_docs/sd/525593652_sd.pdf)
+connector Molex top entry
+0
+40
+37
+Connector_FFC-FPC
+Molex_54132-5033_1x50-1MP_P0.5mm_Horizontal
+Molex FFC/FPC connector, 50 bottom-side contacts, 0.5mm pitch, 2.0mm height, https://www.molex.com/pdm_docs/sd/541325033_sd.pdf
+FFC FPC
+0
+54
+51
+Connector_FFC-FPC
+Molex_54548-1071_1x10-1MP_P0.5mm_Horizontal
+Molex FFC/FPC connector, 10 bottom-side contacts, 0.5mm pitch, 1.2mm height, https://www.molex.com/pdm_docs/sd/545481071_sd.pdf
+FFC FPC connector
+0
+12
+11
+Connector_FFC-FPC
+Molex_200528-0040_1x04-1MP_P1.00mm_Horizontal
+Molex Molex 1.00mm Pitch Easy-On BackFlip, Right-Angle, Bottom Contact FFC/FPC, 200528-0040, 4 Circuits (https://www.molex.com/pdm_docs/sd/2005280040_sd.pdf), generated with kicad-footprint-generator
+connector Molex  top entry
+0
+6
+5
+Connector_FFC-FPC
+Molex_200528-0050_1x05-1MP_P1.00mm_Horizontal
+Molex Molex 1.00mm Pitch Easy-On BackFlip, Right-Angle, Bottom Contact FFC/FPC, 200528-0050, 5 Circuits (https://www.molex.com/pdm_docs/sd/2005280050_sd.pdf), generated with kicad-footprint-generator
+connector Molex  top entry
+0
+7
+6
+Connector_FFC-FPC
+Molex_200528-0060_1x06-1MP_P1.00mm_Horizontal
+Molex Molex 1.00mm Pitch Easy-On BackFlip, Right-Angle, Bottom Contact FFC/FPC, 200528-0060, 6 Circuits (https://www.molex.com/pdm_docs/sd/2005280060_sd.pdf), generated with kicad-footprint-generator
+connector Molex  top entry
+0
+8
+7
+Connector_FFC-FPC
+Molex_200528-0070_1x07-1MP_P1.00mm_Horizontal
+Molex Molex 1.00mm Pitch Easy-On BackFlip, Right-Angle, Bottom Contact FFC/FPC, 200528-0070, 7 Circuits (https://www.molex.com/pdm_docs/sd/2005280070_sd.pdf), generated with kicad-footprint-generator
+connector Molex  top entry
+0
+9
+8
+Connector_FFC-FPC
+Molex_200528-0080_1x08-1MP_P1.00mm_Horizontal
+Molex Molex 1.00mm Pitch Easy-On BackFlip, Right-Angle, Bottom Contact FFC/FPC, 200528-0080, 8 Circuits (https://www.molex.com/pdm_docs/sd/2005280080_sd.pdf), generated with kicad-footprint-generator
+connector Molex  top entry
+0
+10
+9
+Connector_FFC-FPC
+Molex_200528-0090_1x09-1MP_P1.00mm_Horizontal
+Molex Molex 1.00mm Pitch Easy-On BackFlip, Right-Angle, Bottom Contact FFC/FPC, 200528-0090, 9 Circuits (https://www.molex.com/pdm_docs/sd/2005280090_sd.pdf), generated with kicad-footprint-generator
+connector Molex  top entry
+0
+11
+10
+Connector_FFC-FPC
+Molex_200528-0100_1x10-1MP_P1.00mm_Horizontal
+Molex Molex 1.00mm Pitch Easy-On BackFlip, Right-Angle, Bottom Contact FFC/FPC, 200528-0100, 10 Circuits (https://www.molex.com/pdm_docs/sd/2005280100_sd.pdf), generated with kicad-footprint-generator
+connector Molex  top entry
+0
+12
+11
+Connector_FFC-FPC
+Molex_200528-0110_1x11-1MP_P1.00mm_Horizontal
+Molex Molex 1.00mm Pitch Easy-On BackFlip, Right-Angle, Bottom Contact FFC/FPC, 200528-0110, 11 Circuits (https://www.molex.com/pdm_docs/sd/2005280110_sd.pdf), generated with kicad-footprint-generator
+connector Molex  top entry
+0
+13
+12
+Connector_FFC-FPC
+Molex_200528-0120_1x12-1MP_P1.00mm_Horizontal
+Molex Molex 1.00mm Pitch Easy-On BackFlip, Right-Angle, Bottom Contact FFC/FPC, 200528-0120, 12 Circuits (https://www.molex.com/pdm_docs/sd/2005280120_sd.pdf), generated with kicad-footprint-generator
+connector Molex  top entry
+0
+14
+13
+Connector_FFC-FPC
+Molex_200528-0130_1x13-1MP_P1.00mm_Horizontal
+Molex Molex 1.00mm Pitch Easy-On BackFlip, Right-Angle, Bottom Contact FFC/FPC, 200528-0130, 13 Circuits (https://www.molex.com/pdm_docs/sd/2005280130_sd.pdf), generated with kicad-footprint-generator
+connector Molex  top entry
+0
+15
+14
+Connector_FFC-FPC
+Molex_200528-0140_1x14-1MP_P1.00mm_Horizontal
+Molex Molex 1.00mm Pitch Easy-On BackFlip, Right-Angle, Bottom Contact FFC/FPC, 200528-0140, 14 Circuits (https://www.molex.com/pdm_docs/sd/2005280140_sd.pdf), generated with kicad-footprint-generator
+connector Molex  top entry
+0
+16
+15
+Connector_FFC-FPC
+Molex_200528-0150_1x15-1MP_P1.00mm_Horizontal
+Molex Molex 1.00mm Pitch Easy-On BackFlip, Right-Angle, Bottom Contact FFC/FPC, 200528-0150, 15 Circuits (https://www.molex.com/pdm_docs/sd/2005280150_sd.pdf), generated with kicad-footprint-generator
+connector Molex  top entry
+0
+17
+16
+Connector_FFC-FPC
+Molex_200528-0160_1x16-1MP_P1.00mm_Horizontal
+Molex Molex 1.00mm Pitch Easy-On BackFlip, Right-Angle, Bottom Contact FFC/FPC, 200528-0160, 16 Circuits (https://www.molex.com/pdm_docs/sd/2005280160_sd.pdf), generated with kicad-footprint-generator
+connector Molex  top entry
+0
+18
+17
+Connector_FFC-FPC
+Molex_200528-0170_1x17-1MP_P1.00mm_Horizontal
+Molex Molex 1.00mm Pitch Easy-On BackFlip, Right-Angle, Bottom Contact FFC/FPC, 200528-0170, 17 Circuits (https://www.molex.com/pdm_docs/sd/2005280170_sd.pdf), generated with kicad-footprint-generator
+connector Molex  top entry
+0
+19
+18
+Connector_FFC-FPC
+Molex_200528-0180_1x18-1MP_P1.00mm_Horizontal
+Molex Molex 1.00mm Pitch Easy-On BackFlip, Right-Angle, Bottom Contact FFC/FPC, 200528-0180, 18 Circuits (https://www.molex.com/pdm_docs/sd/2005280180_sd.pdf), generated with kicad-footprint-generator
+connector Molex  top entry
+0
+20
+19
+Connector_FFC-FPC
+Molex_200528-0190_1x19-1MP_P1.00mm_Horizontal
+Molex Molex 1.00mm Pitch Easy-On BackFlip, Right-Angle, Bottom Contact FFC/FPC, 200528-0190, 19 Circuits (https://www.molex.com/pdm_docs/sd/2005280190_sd.pdf), generated with kicad-footprint-generator
+connector Molex  top entry
+0
+21
+20
+Connector_FFC-FPC
+Molex_200528-0200_1x20-1MP_P1.00mm_Horizontal
+Molex Molex 1.00mm Pitch Easy-On BackFlip, Right-Angle, Bottom Contact FFC/FPC, 200528-0200, 20 Circuits (https://www.molex.com/pdm_docs/sd/2005280200_sd.pdf), generated with kicad-footprint-generator
+connector Molex  top entry
+0
+22
+21
+Connector_FFC-FPC
+Molex_200528-0210_1x21-1MP_P1.00mm_Horizontal
+Molex Molex 1.00mm Pitch Easy-On BackFlip, Right-Angle, Bottom Contact FFC/FPC, 200528-0210, 21 Circuits (https://www.molex.com/pdm_docs/sd/2005280210_sd.pdf), generated with kicad-footprint-generator
+connector Molex  top entry
+0
+23
+22
+Connector_FFC-FPC
+Molex_200528-0220_1x22-1MP_P1.00mm_Horizontal
+Molex Molex 1.00mm Pitch Easy-On BackFlip, Right-Angle, Bottom Contact FFC/FPC, 200528-0220, 22 Circuits (https://www.molex.com/pdm_docs/sd/2005280220_sd.pdf), generated with kicad-footprint-generator
+connector Molex  top entry
+0
+24
+23
+Connector_FFC-FPC
+Molex_200528-0230_1x23-1MP_P1.00mm_Horizontal
+Molex Molex 1.00mm Pitch Easy-On BackFlip, Right-Angle, Bottom Contact FFC/FPC, 200528-0230, 23 Circuits (https://www.molex.com/pdm_docs/sd/2005280230_sd.pdf), generated with kicad-footprint-generator
+connector Molex  top entry
+0
+25
+24
+Connector_FFC-FPC
+Molex_200528-0240_1x24-1MP_P1.00mm_Horizontal
+Molex Molex 1.00mm Pitch Easy-On BackFlip, Right-Angle, Bottom Contact FFC/FPC, 200528-0240, 24 Circuits (https://www.molex.com/pdm_docs/sd/2005280240_sd.pdf), generated with kicad-footprint-generator
+connector Molex  top entry
+0
+26
+25
+Connector_FFC-FPC
+Molex_200528-0250_1x25-1MP_P1.00mm_Horizontal
+Molex Molex 1.00mm Pitch Easy-On BackFlip, Right-Angle, Bottom Contact FFC/FPC, 200528-0250, 25 Circuits (https://www.molex.com/pdm_docs/sd/2005280250_sd.pdf), generated with kicad-footprint-generator
+connector Molex  top entry
+0
+27
+26
+Connector_FFC-FPC
+Molex_200528-0260_1x26-1MP_P1.00mm_Horizontal
+Molex Molex 1.00mm Pitch Easy-On BackFlip, Right-Angle, Bottom Contact FFC/FPC, 200528-0260, 26 Circuits (https://www.molex.com/pdm_docs/sd/2005280260_sd.pdf), generated with kicad-footprint-generator
+connector Molex  top entry
+0
+28
+27
+Connector_FFC-FPC
+Molex_200528-0270_1x27-1MP_P1.00mm_Horizontal
+Molex Molex 1.00mm Pitch Easy-On BackFlip, Right-Angle, Bottom Contact FFC/FPC, 200528-0270, 27 Circuits (https://www.molex.com/pdm_docs/sd/2005280270_sd.pdf), generated with kicad-footprint-generator
+connector Molex  top entry
+0
+29
+28
+Connector_FFC-FPC
+Molex_200528-0280_1x28-1MP_P1.00mm_Horizontal
+Molex Molex 1.00mm Pitch Easy-On BackFlip, Right-Angle, Bottom Contact FFC/FPC, 200528-0280, 28 Circuits (https://www.molex.com/pdm_docs/sd/2005280280_sd.pdf), generated with kicad-footprint-generator
+connector Molex  top entry
+0
+30
+29
+Connector_FFC-FPC
+Molex_200528-0290_1x29-1MP_P1.00mm_Horizontal
+Molex Molex 1.00mm Pitch Easy-On BackFlip, Right-Angle, Bottom Contact FFC/FPC, 200528-0290, 29 Circuits (https://www.molex.com/pdm_docs/sd/2005280290_sd.pdf), generated with kicad-footprint-generator
+connector Molex  top entry
+0
+31
+30
+Connector_FFC-FPC
+Molex_200528-0300_1x30-1MP_P1.00mm_Horizontal
+Molex Molex 1.00mm Pitch Easy-On BackFlip, Right-Angle, Bottom Contact FFC/FPC, 200528-0300, 30 Circuits (https://www.molex.com/pdm_docs/sd/2005280300_sd.pdf), generated with kicad-footprint-generator
+connector Molex  top entry
+0
+32
+31
+Connector_FFC-FPC
+Molex_502231-1500_1x15-1SH_P0.5mm_Vertical
+Molex 0.50mm Pitch Easy-On Type FFC/FPC Connector, For LVDS, 6.05mm Height, Vertical, Surface Mount, ZIF, 15 Circuits (https://www.molex.com/pdm_docs/sd/5022311500_sd.pdf)
+molex FFC/FPC connector Pitch 0.5mm vertical
+0
+17
+16
+Connector_FFC-FPC
+Molex_502231-2400_1x24-1SH_P0.5mm_Vertical
+Molex 0.50mm Pitch Easy-On Type FFC/FPC Connector, For LVDS, 6.05mm Height, Vertical, Surface Mount, ZIF, 24 Circuits (https://www.molex.com/pdm_docs/sd/5022312400_sd.pdf)
+molex FFC/FPC connector Pitch 0.5mm vertical
+0
+26
+25
+Connector_FFC-FPC
+Molex_502231-3300_1x33-1SH_P0.5mm_Vertical
+Molex 0.50mm Pitch Easy-On Type FFC/FPC Connector, For LVDS, 6.05mm Height, Vertical, Surface Mount, ZIF, 33 Circuits (https://www.molex.com/pdm_docs/sd/5022313300_sd.pdf)
+molex FFC/FPC connector Pitch 0.5mm vertical
+0
+36
+34
+Connector_FFC-FPC
+Molex_502244-1530_1x15-1MP_P0.5mm_Horizontal
+Molex 0.50mm Pitch Easy-On Type FFC/FPC Connector, For LVDS, 2.33mm Height, Right Angle, Surface Mount, ZIF, Bottom Contact Style, 15 Circuits (http://www.molex.com/pdm_docs/sd/5022441530_sd.pdf)
+molex FFC/FPC connector Pitch 0.5mm right angle
+0
+19
+16
+Connector_FFC-FPC
+Molex_502244-2430_1x24-1MP_P0.5mm_Horizontal
+Molex 0.50mm Pitch Easy-On Type FFC/FPC Connector, For LVDS, 2.33mm Height, Right Angle, Surface Mount, ZIF, Bottom Contact Style, 24 Circuits (http://www.molex.com/pdm_docs/sd/5022441530_sd.pdf)
+molex FFC/FPC connector Pitch 0.5mm right angle
+0
+28
+25
+Connector_FFC-FPC
+Molex_502244-3330_1x33-1MP_P0.5mm_Horizontal
+Molex 0.50mm Pitch Easy-On Type FFC/FPC Connector, For LVDS, 2.33mm Height, Right Angle, Surface Mount, ZIF, Bottom Contact Style, 33 Circuits (http://www.molex.com/pdm_docs/sd/5022441530_sd.pdf)
+molex FFC/FPC connector Pitch 0.5mm right angle
+0
+39
+34
+Connector_FFC-FPC
+Molex_502250-1791_2Rows-17Pins-1MP_P0.60mm_Horizontal
+Molex Molex 0.30mm Pitch Easy-On BackFlip Type FFC/FPC, 502250-1791, 17 Circuits (http://www.molex.com/pdm_docs/sd/5022501791_sd.pdf), generated with kicad-footprint-generator
+connector Molex  top entry
+0
+19
+18
+Connector_FFC-FPC
+Molex_502250-2191_2Rows-21Pins-1MP_P0.60mm_Horizontal
+Molex Molex 0.30mm Pitch Easy-On BackFlip Type FFC/FPC, 502250-2191, 21 Circuits (http://www.molex.com/pdm_docs/sd/5022502191_sd.pdf), generated with kicad-footprint-generator
+connector Molex  top entry
+0
+23
+22
+Connector_FFC-FPC
+Molex_502250-2391_2Rows-23Pins-1MP_P0.60mm_Horizontal
+Molex Molex 0.30mm Pitch Easy-On BackFlip Type FFC/FPC, 502250-2391, 23 Circuits (http://www.molex.com/pdm_docs/sd/5022502391_sd.pdf), generated with kicad-footprint-generator
+connector Molex  top entry
+0
+25
+24
+Connector_FFC-FPC
+Molex_502250-2791_2Rows-27Pins-1MP_P0.60mm_Horizontal
+Molex Molex 0.30mm Pitch Easy-On BackFlip Type FFC/FPC, 502250-2791, 27 Circuits (http://www.molex.com/pdm_docs/sd/5022502791_sd.pdf), generated with kicad-footprint-generator
+connector Molex  top entry
+0
+29
+28
+Connector_FFC-FPC
+Molex_502250-3391_2Rows-33Pins-1MP_P0.60mm_Horizontal
+Molex Molex 0.30mm Pitch Easy-On BackFlip Type FFC/FPC, 502250-3391, 33 Circuits (http://www.molex.com/pdm_docs/sd/5022503391_sd.pdf), generated with kicad-footprint-generator
+connector Molex  top entry
+0
+35
+34
+Connector_FFC-FPC
+Molex_502250-3591_2Rows-35Pins-1MP_P0.60mm_Horizontal
+Molex Molex 0.30mm Pitch Easy-On BackFlip Type FFC/FPC, 502250-3591, 35 Circuits (http://www.molex.com/pdm_docs/sd/5022503591_sd.pdf), generated with kicad-footprint-generator
+connector Molex  top entry
+0
+37
+36
+Connector_FFC-FPC
+Molex_502250-3991_2Rows-39Pins-1MP_P0.60mm_Horizontal
+Molex Molex 0.30mm Pitch Easy-On BackFlip Type FFC/FPC, 502250-3991, 39 Circuits (http://www.molex.com/pdm_docs/sd/5022503991_sd.pdf), generated with kicad-footprint-generator
+connector Molex  top entry
+0
+41
+40
+Connector_FFC-FPC
+Molex_502250-4191_2Rows-41Pins-1MP_P0.60mm_Horizontal
+Molex Molex 0.30mm Pitch Easy-On BackFlip Type FFC/FPC, 502250-4191, 41 Circuits (http://www.molex.com/pdm_docs/sd/5022504191_sd.pdf), generated with kicad-footprint-generator
+connector Molex  top entry
+0
+43
+42
+Connector_FFC-FPC
+Molex_502250-5191_2Rows-51Pins-1MP_P0.60mm_Horizontal
+Molex Molex 0.30mm Pitch Easy-On BackFlip Type FFC/FPC, 502250-5191, 51 Circuits (http://www.molex.com/pdm_docs/sd/5022505191_sd.pdf), generated with kicad-footprint-generator
+connector Molex  top entry
+0
+53
+52
+Connector_FFC-FPC
+Omron_XF2M-4015-1A_1x40-1MP_P0.5mm_Horizontal
+Omron FPC connector, 40 top-side contacts, 0.5mm pitch, SMT, https://omronfs.omron.com/en_US/ecb/products/pdf/en-xf2m.pdf
+omron fpc xf2m
+0
+42
+41
+Connector_FFC-FPC
+TE_0-1734839-5_1x05-1MP_P0.5mm_Horizontal
+TE FPC connector, 05 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+7
+6
+Connector_FFC-FPC
+TE_0-1734839-6_1x06-1MP_P0.5mm_Horizontal
+TE FPC connector, 06 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+8
+7
+Connector_FFC-FPC
+TE_0-1734839-7_1x07-1MP_P0.5mm_Horizontal
+TE FPC connector, 07 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+9
+8
+Connector_FFC-FPC
+TE_0-1734839-8_1x08-1MP_P0.5mm_Horizontal
+TE FPC connector, 08 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+10
+9
+Connector_FFC-FPC
+TE_0-1734839-9_1x09-1MP_P0.5mm_Horizontal
+TE FPC connector, 09 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+11
+10
+Connector_FFC-FPC
+TE_1-84952-0_1x10-1MP_P1.0mm_Horizontal
+TE FPC connector, 10 bottom-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84952&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84952-4
+te fpc 84952
+0
+12
+11
+Connector_FFC-FPC
+TE_1-84952-1_1x11-1MP_P1.0mm_Horizontal
+TE FPC connector, 11 bottom-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84952&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84952-4
+te fpc 84952
+0
+13
+12
+Connector_FFC-FPC
+TE_1-84952-2_1x12-1MP_P1.0mm_Horizontal
+TE FPC connector, 12 bottom-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84952&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84952-4
+te fpc 84952
+0
+14
+13
+Connector_FFC-FPC
+TE_1-84952-3_1x13-1MP_P1.0mm_Horizontal
+TE FPC connector, 13 bottom-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84952&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84952-4
+te fpc 84952
+0
+15
+14
+Connector_FFC-FPC
+TE_1-84952-4_1x14-1MP_P1.0mm_Horizontal
+TE FPC connector, 14 bottom-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84952&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84952-4
+te fpc 84952
+0
+16
+15
+Connector_FFC-FPC
+TE_1-84952-5_1x15-1MP_P1.0mm_Horizontal
+TE FPC connector, 15 bottom-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84952&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84952-4
+te fpc 84952
+0
+17
+16
+Connector_FFC-FPC
+TE_1-84952-6_1x16-1MP_P1.0mm_Horizontal
+TE FPC connector, 16 bottom-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84952&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84952-4
+te fpc 84952
+0
+18
+17
+Connector_FFC-FPC
+TE_1-84952-7_1x17-1MP_P1.0mm_Horizontal
+TE FPC connector, 17 bottom-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84952&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84952-4
+te fpc 84952
+0
+19
+18
+Connector_FFC-FPC
+TE_1-84952-8_1x18-1MP_P1.0mm_Horizontal
+TE FPC connector, 18 bottom-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84952&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84952-4
+te fpc 84952
+0
+20
+19
+Connector_FFC-FPC
+TE_1-84952-9_1x19-1MP_P1.0mm_Horizontal
+TE FPC connector, 19 bottom-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84952&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84952-4
+te fpc 84952
+0
+21
+20
+Connector_FFC-FPC
+TE_1-84953-0_1x10-1MP_P1.0mm_Horizontal
+TE FPC connector, 10 top-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84953&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84953-4
+te fpc 84953
+0
+12
+11
+Connector_FFC-FPC
+TE_1-84953-1_1x11-1MP_P1.0mm_Horizontal
+TE FPC connector, 11 top-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84953&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84953-4
+te fpc 84953
+0
+13
+12
+Connector_FFC-FPC
+TE_1-84953-2_1x12-1MP_P1.0mm_Horizontal
+TE FPC connector, 12 top-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84953&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84953-4
+te fpc 84953
+0
+14
+13
+Connector_FFC-FPC
+TE_1-84953-3_1x13-1MP_P1.0mm_Horizontal
+TE FPC connector, 13 top-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84953&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84953-4
+te fpc 84953
+0
+15
+14
+Connector_FFC-FPC
+TE_1-84953-4_1x14-1MP_P1.0mm_Horizontal
+TE FPC connector, 14 top-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84953&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84953-4
+te fpc 84953
+0
+16
+15
+Connector_FFC-FPC
+TE_1-84953-5_1x15-1MP_P1.0mm_Horizontal
+TE FPC connector, 15 top-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84953&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84953-4
+te fpc 84953
+0
+17
+16
+Connector_FFC-FPC
+TE_1-84953-6_1x16-1MP_P1.0mm_Horizontal
+TE FPC connector, 16 top-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84953&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84953-4
+te fpc 84953
+0
+18
+17
+Connector_FFC-FPC
+TE_1-84953-7_1x17-1MP_P1.0mm_Horizontal
+TE FPC connector, 17 top-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84953&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84953-4
+te fpc 84953
+0
+19
+18
+Connector_FFC-FPC
+TE_1-84953-8_1x18-1MP_P1.0mm_Horizontal
+TE FPC connector, 18 top-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84953&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84953-4
+te fpc 84953
+0
+20
+19
+Connector_FFC-FPC
+TE_1-84953-9_1x19-1MP_P1.0mm_Horizontal
+TE FPC connector, 19 top-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84953&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84953-4
+te fpc 84953
+0
+21
+20
+Connector_FFC-FPC
+TE_1-1734839-0_1x10-1MP_P0.5mm_Horizontal
+TE FPC connector, 10 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+12
+11
+Connector_FFC-FPC
+TE_1-1734839-1_1x11-1MP_P0.5mm_Horizontal
+TE FPC connector, 11 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+13
+12
+Connector_FFC-FPC
+TE_1-1734839-2_1x12-1MP_P0.5mm_Horizontal
+TE FPC connector, 12 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+14
+13
+Connector_FFC-FPC
+TE_1-1734839-3_1x13-1MP_P0.5mm_Horizontal
+TE FPC connector, 13 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+15
+14
+Connector_FFC-FPC
+TE_1-1734839-4_1x14-1MP_P0.5mm_Horizontal
+TE FPC connector, 14 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+16
+15
+Connector_FFC-FPC
+TE_1-1734839-5_1x15-1MP_P0.5mm_Horizontal
+TE FPC connector, 15 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+17
+16
+Connector_FFC-FPC
+TE_1-1734839-6_1x16-1MP_P0.5mm_Horizontal
+TE FPC connector, 16 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+18
+17
+Connector_FFC-FPC
+TE_1-1734839-7_1x17-1MP_P0.5mm_Horizontal
+TE FPC connector, 17 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+19
+18
+Connector_FFC-FPC
+TE_1-1734839-8_1x18-1MP_P0.5mm_Horizontal
+TE FPC connector, 18 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+20
+19
+Connector_FFC-FPC
+TE_1-1734839-9_1x19-1MP_P0.5mm_Horizontal
+TE FPC connector, 19 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+21
+20
+Connector_FFC-FPC
+TE_2-84952-0_1x20-1MP_P1.0mm_Horizontal
+TE FPC connector, 20 bottom-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84952&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84952-4
+te fpc 84952
+0
+22
+21
+Connector_FFC-FPC
+TE_2-84952-1_1x21-1MP_P1.0mm_Horizontal
+TE FPC connector, 21 bottom-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84952&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84952-4
+te fpc 84952
+0
+23
+22
+Connector_FFC-FPC
+TE_2-84952-2_1x22-1MP_P1.0mm_Horizontal
+TE FPC connector, 22 bottom-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84952&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84952-4
+te fpc 84952
+0
+24
+23
+Connector_FFC-FPC
+TE_2-84952-3_1x23-1MP_P1.0mm_Horizontal
+TE FPC connector, 23 bottom-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84952&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84952-4
+te fpc 84952
+0
+25
+24
+Connector_FFC-FPC
+TE_2-84952-4_1x24-1MP_P1.0mm_Horizontal
+TE FPC connector, 24 bottom-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84952&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84952-4
+te fpc 84952
+0
+26
+25
+Connector_FFC-FPC
+TE_2-84952-5_1x25-1MP_P1.0mm_Horizontal
+TE FPC connector, 25 bottom-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84952&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84952-4
+te fpc 84952
+0
+27
+26
+Connector_FFC-FPC
+TE_2-84952-6_1x26-1MP_P1.0mm_Horizontal
+TE FPC connector, 26 bottom-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84952&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84952-4
+te fpc 84952
+0
+28
+27
+Connector_FFC-FPC
+TE_2-84952-7_1x27-1MP_P1.0mm_Horizontal
+TE FPC connector, 27 bottom-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84952&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84952-4
+te fpc 84952
+0
+29
+28
+Connector_FFC-FPC
+TE_2-84952-8_1x28-1MP_P1.0mm_Horizontal
+TE FPC connector, 28 bottom-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84952&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84952-4
+te fpc 84952
+0
+30
+29
+Connector_FFC-FPC
+TE_2-84952-9_1x29-1MP_P1.0mm_Horizontal
+TE FPC connector, 29 bottom-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84952&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84952-4
+te fpc 84952
+0
+31
+30
+Connector_FFC-FPC
+TE_2-84953-0_1x20-1MP_P1.0mm_Horizontal
+TE FPC connector, 20 top-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84953&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84953-4
+te fpc 84953
+0
+22
+21
+Connector_FFC-FPC
+TE_2-84953-1_1x21-1MP_P1.0mm_Horizontal
+TE FPC connector, 21 top-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84953&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84953-4
+te fpc 84953
+0
+23
+22
+Connector_FFC-FPC
+TE_2-84953-2_1x22-1MP_P1.0mm_Horizontal
+TE FPC connector, 22 top-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84953&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84953-4
+te fpc 84953
+0
+24
+23
+Connector_FFC-FPC
+TE_2-84953-3_1x23-1MP_P1.0mm_Horizontal
+TE FPC connector, 23 top-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84953&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84953-4
+te fpc 84953
+0
+25
+24
+Connector_FFC-FPC
+TE_2-84953-4_1x24-1MP_P1.0mm_Horizontal
+TE FPC connector, 24 top-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84953&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84953-4
+te fpc 84953
+0
+26
+25
+Connector_FFC-FPC
+TE_2-84953-5_1x25-1MP_P1.0mm_Horizontal
+TE FPC connector, 25 top-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84953&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84953-4
+te fpc 84953
+0
+27
+26
+Connector_FFC-FPC
+TE_2-84953-6_1x26-1MP_P1.0mm_Horizontal
+TE FPC connector, 26 top-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84953&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84953-4
+te fpc 84953
+0
+28
+27
+Connector_FFC-FPC
+TE_2-84953-7_1x27-1MP_P1.0mm_Horizontal
+TE FPC connector, 27 top-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84953&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84953-4
+te fpc 84953
+0
+29
+28
+Connector_FFC-FPC
+TE_2-84953-8_1x28-1MP_P1.0mm_Horizontal
+TE FPC connector, 28 top-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84953&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84953-4
+te fpc 84953
+0
+30
+29
+Connector_FFC-FPC
+TE_2-84953-9_1x29-1MP_P1.0mm_Horizontal
+TE FPC connector, 29 top-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84953&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84953-4
+te fpc 84953
+0
+31
+30
+Connector_FFC-FPC
+TE_2-1734839-0_1x20-1MP_P0.5mm_Horizontal
+TE FPC connector, 20 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+22
+21
+Connector_FFC-FPC
+TE_2-1734839-1_1x21-1MP_P0.5mm_Horizontal
+TE FPC connector, 21 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+23
+22
+Connector_FFC-FPC
+TE_2-1734839-2_1x22-1MP_P0.5mm_Horizontal
+TE FPC connector, 22 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+24
+23
+Connector_FFC-FPC
+TE_2-1734839-3_1x23-1MP_P0.5mm_Horizontal
+TE FPC connector, 23 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+25
+24
+Connector_FFC-FPC
+TE_2-1734839-4_1x24-1MP_P0.5mm_Horizontal
+TE FPC connector, 24 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+26
+25
+Connector_FFC-FPC
+TE_2-1734839-5_1x25-1MP_P0.5mm_Horizontal
+TE FPC connector, 25 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+27
+26
+Connector_FFC-FPC
+TE_2-1734839-6_1x26-1MP_P0.5mm_Horizontal
+TE FPC connector, 26 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+28
+27
+Connector_FFC-FPC
+TE_2-1734839-7_1x27-1MP_P0.5mm_Horizontal
+TE FPC connector, 27 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+29
+28
+Connector_FFC-FPC
+TE_2-1734839-8_1x28-1MP_P0.5mm_Horizontal
+TE FPC connector, 28 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+30
+29
+Connector_FFC-FPC
+TE_2-1734839-9_1x29-1MP_P0.5mm_Horizontal
+TE FPC connector, 29 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+31
+30
+Connector_FFC-FPC
+TE_3-84952-0_1x30-1MP_P1.0mm_Horizontal
+TE FPC connector, 30 bottom-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84952&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84952-4
+te fpc 84952
+0
+32
+31
+Connector_FFC-FPC
+TE_3-84953-0_1x30-1MP_P1.0mm_Horizontal
+TE FPC connector, 30 top-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84953&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84953-4
+te fpc 84953
+0
+32
+31
+Connector_FFC-FPC
+TE_3-1734839-0_1x30-1MP_P0.5mm_Horizontal
+TE FPC connector, 30 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+32
+31
+Connector_FFC-FPC
+TE_3-1734839-1_1x31-1MP_P0.5mm_Horizontal
+TE FPC connector, 31 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+33
+32
+Connector_FFC-FPC
+TE_3-1734839-2_1x32-1MP_P0.5mm_Horizontal
+TE FPC connector, 32 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+34
+33
+Connector_FFC-FPC
+TE_3-1734839-3_1x33-1MP_P0.5mm_Horizontal
+TE FPC connector, 33 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+35
+34
+Connector_FFC-FPC
+TE_3-1734839-4_1x34-1MP_P0.5mm_Horizontal
+TE FPC connector, 34 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+36
+35
+Connector_FFC-FPC
+TE_3-1734839-5_1x35-1MP_P0.5mm_Horizontal
+TE FPC connector, 35 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+37
+36
+Connector_FFC-FPC
+TE_3-1734839-6_1x36-1MP_P0.5mm_Horizontal
+TE FPC connector, 36 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+38
+37
+Connector_FFC-FPC
+TE_3-1734839-7_1x37-1MP_P0.5mm_Horizontal
+TE FPC connector, 37 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+39
+38
+Connector_FFC-FPC
+TE_3-1734839-8_1x38-1MP_P0.5mm_Horizontal
+TE FPC connector, 38 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+40
+39
+Connector_FFC-FPC
+TE_3-1734839-9_1x39-1MP_P0.5mm_Horizontal
+TE FPC connector, 39 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+41
+40
+Connector_FFC-FPC
+TE_4-1734839-0_1x40-1MP_P0.5mm_Horizontal
+TE FPC connector, 40 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+42
+41
+Connector_FFC-FPC
+TE_4-1734839-1_1x41-1MP_P0.5mm_Horizontal
+TE FPC connector, 41 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+43
+42
+Connector_FFC-FPC
+TE_4-1734839-2_1x42-1MP_P0.5mm_Horizontal
+TE FPC connector, 42 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+44
+43
+Connector_FFC-FPC
+TE_4-1734839-3_1x43-1MP_P0.5mm_Horizontal
+TE FPC connector, 43 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+45
+44
+Connector_FFC-FPC
+TE_4-1734839-4_1x44-1MP_P0.5mm_Horizontal
+TE FPC connector, 44 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+46
+45
+Connector_FFC-FPC
+TE_4-1734839-5_1x45-1MP_P0.5mm_Horizontal
+TE FPC connector, 45 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+47
+46
+Connector_FFC-FPC
+TE_4-1734839-6_1x46-1MP_P0.5mm_Horizontal
+TE FPC connector, 46 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+48
+47
+Connector_FFC-FPC
+TE_4-1734839-7_1x47-1MP_P0.5mm_Horizontal
+TE FPC connector, 47 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+49
+48
+Connector_FFC-FPC
+TE_4-1734839-8_1x48-1MP_P0.5mm_Horizontal
+TE FPC connector, 48 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+50
+49
+Connector_FFC-FPC
+TE_4-1734839-9_1x49-1MP_P0.5mm_Horizontal
+TE FPC connector, 49 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+51
+50
+Connector_FFC-FPC
+TE_5-1734839-0_1x50-1MP_P0.5mm_Horizontal
+TE FPC connector, 50 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+52
+51
+Connector_FFC-FPC
+TE_84952-4_1x04-1MP_P1.0mm_Horizontal
+TE FPC connector, 04 bottom-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84952&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84952-4
+te fpc 84952
+0
+6
+5
+Connector_FFC-FPC
+TE_84952-5_1x05-1MP_P1.0mm_Horizontal
+TE FPC connector, 05 bottom-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84952&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84952-4
+te fpc 84952
+0
+7
+6
+Connector_FFC-FPC
+TE_84952-6_1x06-1MP_P1.0mm_Horizontal
+TE FPC connector, 06 bottom-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84952&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84952-4
+te fpc 84952
+0
+8
+7
+Connector_FFC-FPC
+TE_84952-7_1x07-1MP_P1.0mm_Horizontal
+TE FPC connector, 07 bottom-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84952&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84952-4
+te fpc 84952
+0
+9
+8
+Connector_FFC-FPC
+TE_84952-8_1x08-1MP_P1.0mm_Horizontal
+TE FPC connector, 08 bottom-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84952&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84952-4
+te fpc 84952
+0
+10
+9
+Connector_FFC-FPC
+TE_84952-9_1x09-1MP_P1.0mm_Horizontal
+TE FPC connector, 09 bottom-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84952&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84952-4
+te fpc 84952
+0
+11
+10
+Connector_FFC-FPC
+TE_84953-4_1x04-1MP_P1.0mm_Horizontal
+TE FPC connector, 04 top-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84953&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84953-4
+te fpc 84953
+0
+6
+5
+Connector_FFC-FPC
+TE_84953-5_1x05-1MP_P1.0mm_Horizontal
+TE FPC connector, 05 top-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84953&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84953-4
+te fpc 84953
+0
+7
+6
+Connector_FFC-FPC
+TE_84953-6_1x06-1MP_P1.0mm_Horizontal
+TE FPC connector, 06 top-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84953&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84953-4
+te fpc 84953
+0
+8
+7
+Connector_FFC-FPC
+TE_84953-7_1x07-1MP_P1.0mm_Horizontal
+TE FPC connector, 07 top-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84953&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84953-4
+te fpc 84953
+0
+9
+8
+Connector_FFC-FPC
+TE_84953-8_1x08-1MP_P1.0mm_Horizontal
+TE FPC connector, 08 top-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84953&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84953-4
+te fpc 84953
+0
+10
+9
+Connector_FFC-FPC
+TE_84953-9_1x09-1MP_P1.0mm_Horizontal
+TE FPC connector, 09 top-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84953&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84953-4
+te fpc 84953
+0
+11
+10
+Connector_FFC-FPC
+Wuerth_68611214422_1x12-1MP_P1.0mm_Horizontal
+http://katalog.we-online.de/em/datasheet/68611214422.pdf
+Wuerth FPC 68611214422 connector 12 bottom-side contacts 1.0mm pitch 1.0mm height SMT
+0
+14
+13
 Connector_JST
 JST_ACH_BM01B-ACHSS-A-GAN-ETF_1x01-1MP_P1.20mm_Vertical
 JST ACH series connector, BM01B-ACHSS-A-GAN-ETF (http://www.jst-mfg.com/product/pdf/eng/eACH.pdf), generated with kicad-footprint-generator
@@ -5621,6 +7070,13 @@ connector JST XH horizontal
 3
 3
 Connector_JST
+JST_XH_S3B-XH-SM4-TB_1x03-1MP_P2.50mm_Horizontal
+JST XH series connector, S3B-XH-SM4-TB (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH horizontal
+0
+5
+4
+Connector_JST
 JST_XH_S4B-XH-A-1_1x04_P2.50mm_Horizontal
 JST XH series connector, S4B-XH-A-1 (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
 connector JST XH horizontal
@@ -5634,6 +7090,13 @@ connector JST XH horizontal
 0
 4
 4
+Connector_JST
+JST_XH_S4B-XH-SM4-TB_1x04-1MP_P2.50mm_Horizontal
+JST XH series connector, S4B-XH-SM4-TB (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH horizontal
+0
+6
+5
 Connector_JST
 JST_XH_S5B-XH-A-1_1x05_P2.50mm_Horizontal
 JST XH series connector, S5B-XH-A-1 (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
@@ -5662,6 +7125,13 @@ connector JST XH horizontal
 0
 6
 6
+Connector_JST
+JST_XH_S6B-XH-SM4-TB_1x06-1MP_P2.50mm_Horizontal
+JST XH series connector, S6B-XH-SM4-TB (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH horizontal
+0
+8
+7
 Connector_JST
 JST_XH_S7B-XH-A-1_1x07_P2.50mm_Horizontal
 JST XH series connector, S7B-XH-A-1 (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
@@ -10156,6 +11626,1210 @@ solder jumper open
 0
 5
 3
+LED_SMD
+LED-APA102-2020
+http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
+LED RGB SPI
+0
+8
+6
+LED_SMD
+LED-L1T2_LUMILEDS
+http://www.lumileds.com/uploads/438/DS133-pdf
+LUMILEDS LUXEON TX L1T2 LED
+0
+3
+3
+LED_SMD
+LED_1W_3W_R8
+https://www.gme.cz/data/attachments/dsh.518-234.1.pdf
+LED 1W 3W 5W
+0
+3
+3
+LED_SMD
+LED_0201_0603Metric
+LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
+LED
+0
+4
+2
+LED_SMD
+LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder
+LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
+LED handsolder
+0
+4
+2
+LED_SMD
+LED_0402_1005Metric
+LED SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED
+0
+2
+2
+LED_SMD
+LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder
+LED SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED handsolder
+0
+2
+2
+LED_SMD
+LED_0603_1608Metric
+LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED
+0
+2
+2
+LED_SMD
+LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder
+LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED handsolder
+0
+2
+2
+LED_SMD
+LED_0805_2012Metric
+LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+LED
+0
+2
+2
+LED_SMD
+LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder
+LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+LED handsolder
+0
+2
+2
+LED_SMD
+LED_1206_3216Metric
+LED SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED
+0
+2
+2
+LED_SMD
+LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder
+LED SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED handsolder
+0
+2
+2
+LED_SMD
+LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm
+LED SMD 1206 (3216 Metric), reverse mount, square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode reverse
+0
+2
+2
+LED_SMD
+LED_1210_3225Metric
+LED SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED
+0
+2
+2
+LED_SMD
+LED_1210_3225Metric_Pad1.42x2.65mm_HandSolder
+LED SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED handsolder
+0
+2
+2
+LED_SMD
+LED_1812_4532Metric
+LED SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator
+LED
+0
+2
+2
+LED_SMD
+LED_1812_4532Metric_Pad1.30x3.40mm_HandSolder
+LED SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator
+LED handsolder
+0
+2
+2
+LED_SMD
+LED_2010_5025Metric
+LED SMD 2010 (5025 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED
+0
+2
+2
+LED_SMD
+LED_2010_5025Metric_Pad1.52x2.65mm_HandSolder
+LED SMD 2010 (5025 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED handsolder
+0
+2
+2
+LED_SMD
+LED_2512_6332Metric
+LED SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED
+0
+2
+2
+LED_SMD
+LED_2512_6332Metric_Pad1.52x3.35mm_HandSolder
+LED SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED handsolder
+0
+2
+2
+LED_SMD
+LED_ASMB-KTF0-0A306
+2220 Tricolor PLCC-4 LED, https://docs.broadcom.com/docs/ASMB-KTF0-0A306-DS100
+Tricolor LED
+0
+4
+4
+LED_SMD
+LED_Avago_PLCC4_3.2x2.8mm_CW
+3.2mm x 2.8mm PLCC4 RGB LED, https://docs.broadcom.com/docs/AV02-4186EN
+LED Avago PLCC-4 3528 ASMB-MTB0-0A3A2
+0
+4
+4
+LED_SMD
+LED_Avago_PLCC6_3x2.8mm
+https://docs.broadcom.com/docs/AV02-3793EN
+LED Avago PLCC-6 ASMT-YTB7-0AA02
+0
+6
+6
+LED_SMD
+LED_CSP_Samsung_LH181B_2.36x2.36mm
+High Power CSP LED, 2.36mm x 2.36mm, 1.4A max, https://cdn.samsung.com/led/file/resource/2021/01/Data_Sheet_LH181B_Rev.4.0.pdf
+LED Samsung LH181B
+0
+2
+2
+LED_SMD
+LED_Cree-PLCC4_2x2mm_CW
+2.0mm x 2.0mm PLCC4 LED, https://assets.cree-led.com/a/ds/h/HB-CLMVC-FKA.pdf
+LED Cree PLCC-4 2020 CLMVB-FKA CLMVC-FKA
+0
+4
+4
+LED_SMD
+LED_Cree-PLCC4_3.2x2.8mm_CCW
+3.2mm x 2.8mm PLCC4 RGB LED, https://assets.cree-led.com/a/ds/h/HB-CLV1A-FKB.pdf
+LED Cree PLCC-4 3528 CLV1A-FKB
+0
+4
+4
+LED_SMD
+LED_Cree-PLCC4_5x5mm_CW
+5.0mm x 5.0mm PLCC4 LED
+LED Cree PLCC-4 5050
+0
+4
+4
+LED_SMD
+LED_Cree-PLCC6_4.7x1.5mm
+4.7mm x 1.5mm PLCC6 LED, http://www.cree.com/led-components/media/documents/1381-QLS6AFKW.pdf
+LED Cree PLCC-6
+0
+6
+6
+LED_SMD
+LED_Cree-XB
+http://www.cree.com/~/media/Files/Cree/LED-Components-and-Modules/XLamp/Data-and-Binning/XLampXBD.pdf
+LED Cree XB
+0
+5
+3
+LED_SMD
+LED_Cree-XH
+http://www.cree.com/~/media/Files/Cree/LED-Components-and-Modules/XLamp/Data-and-Binning/ds-XHB.pdf
+LED Cree XH
+0
+8
+2
+LED_SMD
+LED_Cree-XHP35
+http://www.cree.com/~/media/Files/Cree/LED-Components-and-Modules/XLamp/Data-and-Binning/ds--XHP35.pdf
+LED Cree XHP35
+0
+6
+3
+LED_SMD
+LED_Cree-XHP50_6V
+Cree XHP50, 6V footprint, http://www.cree.com/~/media/Files/Cree/LED%20Components%20and%20Modules/XLamp/Data%20and%20Binning/ds%20XHP50.pdf
+LED Cree XHP50
+0
+15
+3
+LED_SMD
+LED_Cree-XHP50_12V
+Cree XHP50, 12V footprint, http://www.cree.com/~/media/Files/Cree/LED%20Components%20and%20Modules/XLamp/Data%20and%20Binning/ds%20XHP50.pdf
+LED XHP50 Cree
+0
+15
+3
+LED_SMD
+LED_Cree-XHP70_6V
+Cree XHP70 LED, 6V version, http://www.cree.com/~/media/Files/Cree/LED%20Components%20and%20Modules/XLamp/Data%20and%20Binning/ds%20XHP70.pdf
+LED Cree XHP70
+0
+15
+3
+LED_SMD
+LED_Cree-XHP70_12V
+Cree XHP70 LED, 12V version, http://www.cree.com/~/media/Files/Cree/LED%20Components%20and%20Modules/XLamp/Data%20and%20Binning/ds%20XHP70.pdf
+LED Cree XHP70
+0
+15
+3
+LED_SMD
+LED_Cree-XP
+LED Cree-XP http://www.cree.com/~/media/Files/Cree/LED-Components-and-Modules/XLamp/Data-and-Binning/XLampXPE2.pdf
+LED Cree XP
+0
+6
+3
+LED_SMD
+LED_Cree-XP-G
+LED Cree-XP-G http://www.cree.com/~/media/Files/Cree/LED%20Components%20and%20Modules/XLamp/Data%20and%20Binning/XLampXPG.pdf
+LED Cree XP-G
+0
+6
+3
+LED_SMD
+LED_Cree-XQ
+LED Cree-XQ http://www.cree.com/~/media/Files/Cree/LED-Components-and-Modules/XLamp/Data-and-Binning/ds-XQB.pdf
+LED Cree XQ
+0
+2
+2
+LED_SMD
+LED_Cree-XQ_HandSoldering
+LED Cree-XQ handsoldering pads http://www.cree.com/~/media/Files/Cree/LED-Components-and-Modules/XLamp/Data-and-Binning/ds-XQB.pdf
+LED Cree XQ
+0
+2
+2
+LED_SMD
+LED_Dialight_591
+LED SMD 3mm Right Angle series (http://www.dialightsignalsandcomponents.com/Assets/Drawings/2D_Drawings_DrawingDetailedSpec/C17354.pdf)
+LED Dialight 591
+0
+2
+2
+LED_SMD
+LED_Inolux_IN-P55TATRGB_PLCC6_5.0x5.5mm_P1.8mm
+5.0x5.0mm PLCC-6 RGB LED, Inolux, https://www.inolux-corp.com/datasheet/SMDLED/RGB%20Top%20View/IN-P55TATRGB.pdf
+LED RGB
+0
+6
+6
+LED_SMD
+LED_Inolux_IN-PI554FCH_PLCC4_5.0x5.0mm_P3.2mm
+5.0mm x 5.0mm PLCC4 Addressable RGB LED, http://www.inolux-corp.com/datasheet/SMDLED/Addressable%20LED/IN-PI554FCH.pdf
+LED RGB NeoPixel addressable PLCC-4 5050
+0
+4
+4
+LED_SMD
+LED_Kingbright_AAA3528ESGCT
+Kingbright, dual LED, 3.5 x 2.8 mm Surface Mount LED Lamp (http://www.kingbrightusa.com/images/catalog/SPEC/AAA3528ESGCT.pdf)
+dual led smd
+0
+4
+4
+LED_SMD
+LED_Kingbright_APA1606_1.6x0.6mm_Horizontal
+Right angled LED, 1.6x1.2 mm, H0.6 mm
+LED chip right angled vertical
+0
+2
+2
+LED_SMD
+LED_Kingbright_APDA3020VBCD
+LED, SMD, APDA3020VBC/D, https://www.kingbrightusa.com/images/catalog/SPEC/APDA3020VBC-D.pdf
+LED APDA3020VBC/D Kingbright 
+0
+2
+2
+LED_SMD
+LED_Kingbright_APFA3010_3x1.5mm_Horizontal
+LED RGB, APFA3010, http://www.kingbrightusa.com/images/catalog/SPEC/APFA3010LSEEZGKQBKC.pdf
+LED RGB APFA3010 KINGBRIGHT 3x1.5mm
+0
+4
+4
+LED_SMD
+LED_Kingbright_APHBM2012_2x1.25mm
+Dual LED SMD https://www.kingbrightusa.com/KCpack.asp?txtPack=APHBM2012
+LED Kingbright APHM2012
+0
+4
+4
+LED_SMD
+LED_Kingbright_KPA-3010_3x2x1mm
+Kingbright surface mount LED, right angle, 3.0 x 2.0 x 1.0 mm, https://www.kingbright.com/attachments/file/psearch/000/00/00/KPA-3010SURCK(Ver.26A).pdf
+Kingbright LED right-angle
+0
+3
+3
+LED_SMD
+LED_Kingbright_KPBD-3224
+Kingbright, dual LED, red-green, dome lens, 3.2 x 2.4 mm Surface Mount LED Lamp (https://docs.rs-online.com/b881/0900766b81396b45.pdf)
+Kingbright dual LED KPBD-3224
+0
+4
+4
+LED_SMD
+LED_LiteOn_LTST-C19HE1WT
+LiteOn RGB LED; https://optoelectronics.liteon.com/upload/download/DS22-2008-0044/LTST-C19HE1WT.pdf
+LED RGB Chip SMD
+0
+4
+4
+LED_SMD
+LED_LiteOn_LTST-C235KGKRKT
+downfacing reverse mount led, https://optoelectronics.liteon.com/upload/download/DS22-2009-0219/LTST-C235KGKRKT.pdf
+LED reverse down facing
+0
+4
+4
+LED_SMD
+LED_LiteOn_LTST-C295K_1.6x0.8mm
+Topview dual http://optoelectronics.liteon.com/upload/download/DS22-2009-0072/LTST-C295KGKRKT.PDF
+SMD Top view Dual colour
+0
+4
+4
+LED_SMD
+LED_LiteOn_LTST-E563C_PLCC4_5.0x5.0mm_P3.2mm
+RGB addressable LED, 5x5mm body, 1.57mm height, https://optoelectronics.liteon.com/upload/download/DS35-2018-0092/LTST-E563CHEGBW-AW.PDF
+LED RGB 5050 PLCC-4
+0
+4
+4
+LED_SMD
+LED_LiteOn_LTST-E563C_PLCC4_5.0x5.0mm_P3.2mm_HandSoldering
+RGB addressable LED, 5x5mm body, 1.57mm height, https://optoelectronics.liteon.com/upload/download/DS35-2018-0092/LTST-E563CHEGBW-AW.PDF
+LED RGB 5050 PLCC-4
+0
+4
+4
+LED_SMD
+LED_LiteOn_LTST-S326
+http://optoelectronics.liteon.com/upload/download/DS22-2000-287/LTST-S326KGJRKT.PDF
+LED SMD right angle  CCA
+0
+3
+3
+LED_SMD
+LED_Lumex_SML-LX0303SIUPGUSB
+Lumex RGB LED, clear, SMD, https://www.lumex.com/spec/SML-LX0303SIUPGUSB.pdf
+LED RGB
+0
+4
+4
+LED_SMD
+LED_Lumex_SML-LX0404SIUPGUSB
+Lumex RGB LED, clear, SMD, https://www.lumex.com/spec/SML-LX0404SIUPGUSB.pdf
+LED RGB
+0
+4
+4
+LED_SMD
+LED_Luminus_MP-3030-1100_3.0x3.0mm
+Mid Power LED, Luminus MP-3030-1100, 3.0x3.0mm, 816mW, https://download.luminus.com/datasheets/Luminus_MP3030_1100_Datasheet.pdf
+LED Luminus MP-3030-1100
+0
+5
+2
+LED_SMD
+LED_OPSCO_SK6812_PLCC4_5.0x5.0mm_P3.1mm
+5.0mm x 5.0mm Addressable RGB LED,  https://www.lcsc.com/datasheet/lcsc_datasheet_2303300930_OPSCO-Optoelectronics-SK6812-B_C5380881.pdf#page=5
+LED RGB NeoPixel Serial PLCC-4 5050
+0
+4
+4
+LED_SMD
+LED_Osram_Lx_P47F_D2mm_ReverseMount
+OSRAM, reverse-mount LED, SMD, 2mm diameter, http://www.farnell.com/datasheets/2711587.pdf
+LED ReverseMount Reverse
+0
+4
+2
+LED_SMD
+LED_PLCC-2_3.4x3.0mm_AK
+LED PLCC-2 SMD package, orientation marker at anode, https://dammedia.osram.info/media/resource/hires/osram-dam-5824137/SFH%204257_EN.pdf
+LED PLCC-2 SMD TOPLED
+0
+2
+2
+LED_SMD
+LED_PLCC-2_3.4x3.0mm_KA
+LED PLCC-2 SMD package, orientation marker at cathode, https://dammedia.osram.info/media/resource/hires/osram-dam-6035009/SFH%204253_EN.pdf
+LED PLCC-2 SMD TOPLED
+0
+2
+2
+LED_SMD
+LED_PLCC-2_3x2mm_AK
+LED, SMD, PLCC-2, 3.0 x 2.0mm, orientation marker at anode, https://media.digikey.com/pdf/Data%20Sheets/CREE%20Power/CLM3A-BKW,GKW.pdf
+LED PLCC-2 SMD
+0
+2
+2
+LED_SMD
+LED_PLCC-2_3x2mm_KA
+LED, SMD, PLCC-2, 3.0 x 2.0mm, orientation marker at cathode, https://optoelectronics.liteon.com/upload/download/DS22-2009-0099/LTW-M670ZVS-M5_0906.pdf
+LED PLCC-2 SMD
+0
+2
+2
+LED_SMD
+LED_PLCC_2835
+https://www.luckylight.cn/media/component/data-sheet/R2835BC-B2M-M10.pdf
+LED
+0
+2
+2
+LED_SMD
+LED_PLCC_2835_Handsoldering
+https://www.luckylight.cn/media/component/data-sheet/R2835BC-B2M-M10.pdf
+LED
+0
+2
+2
+LED_SMD
+LED_RGB_1210
+RGB LED 3.2x2.7mm http://www.avagotech.com/docs/AV02-0610EN
+LED 3227
+0
+4
+4
+LED_SMD
+LED_RGB_5050-6
+http://cdn.sparkfun.com/datasheets/Components/LED/5060BRG4.pdf
+RGB LED 5050-6
+0
+6
+6
+LED_SMD
+LED_RGB_Cree-PLCC-6_6x5mm_P2.1mm
+http://www.farnell.com/datasheets/2003905.pdf
+LED RGB PLCC-6 CLP6C-FBK
+0
+6
+6
+LED_SMD
+LED_RGB_Everlight_EASV3015RGBA0_Horizontal
+LED, RGB, right-angle, clear, https://everlightamericas.com/index.php?controller=attachment&id_attachment=3220
+LED RGB right-angle
+0
+4
+4
+LED_SMD
+LED_RGB_Getian_GT-P6PRGB4303
+https://www.gme.sk/img/cache/doc/518/177/vykonova-led-getian-gt-p6prgb4303-datasheet-1.pdf
+LED RGB 
+0
+7
+7
+LED_SMD
+LED_RGB_Lumex_SML-LXT0805SIUGUBW
+RGB LED 0805 2.0mm x 1.3mm, orientation marker at common anode https://www.mouser.de/datasheet/2/244/SML-LXT0805SIUGUBW-1776540.pdf
+RGB LED 0805
+0
+4
+4
+LED_SMD
+LED_RGB_PLCC-6
+RGB LED PLCC-6
+RGB LED PLCC-6
+0
+6
+6
+LED_SMD
+LED_RGB_Wuerth-PLCC4_3.2x2.8mm_150141M173100
+3.2mm x 2.8mm PLCC4 LED, https://www.we-online.de/katalog/datasheet/150141M173100.pdf
+LED RGB Wurth PLCC-4 3528
+0
+4
+4
+LED_SMD
+LED_RGB_Wuerth_150080M153000
+RGB LED 0805 2.0mm x 1.3mm, orientation marker at common anode https://www.we-online.com/components/products/datasheet/150080M153000.pdf
+RGB LED 0805
+0
+4
+4
+LED_SMD
+LED_ROHM_SMLVN6
+https://www.rohm.com/datasheet/SMLVN6RGB1U
+LED ROHM SMLVN6
+0
+6
+6
+LED_SMD
+LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm
+https://cdn-shop.adafruit.com/product-files/3484/3484_Datasheet.pdf
+LED RGB NeoPixel Nano PLCC-4
+0
+4
+4
+LED_SMD
+LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm
+3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf
+LED RGB NeoPixel Mini PLCC-4 3535
+0
+4
+4
+LED_SMD
+LED_SK6812_EC15_1.5x1.5mm
+RGB addressable LED, 0.1W, 1.5mm x 1.5mm, 0.65m height, orientation mark at GND, http://ledstrip-china.com/productshow.asp?id=322
+LED RGB NeoPixel
+0
+4
+4
+LED_SMD
+LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm
+5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf
+LED RGB NeoPixel PLCC-4 5050
+0
+4
+4
+LED_SMD
+LED_WS2812B-2020_PLCC4_2.0x2.0mm
+2.0mm x 2.0mm Addressable RGB LED NeoPixel Nano, 12 mA, https://cdn-shop.adafruit.com/product-files/4684/4684_WS2812B-2020_V1.3_EN.pdf
+LED RGB NeoPixel Nano PLCC-4 2020
+0
+4
+4
+LED_SMD
+LED_WS2812B-Mini_PLCC4_3.5x3.5mm
+Addressable RGB LED NeoPixel Mini, 12 mA, https://web.archive.org/web/20200131233647/http://www.world-semi.com/DownLoadFile/112
+LED RGB NeoPixel Mini
+0
+4
+4
+LED_SMD
+LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm
+5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
+LED RGB NeoPixel PLCC-4 5050
+0
+4
+4
+LED_SMD
+LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm
+https://cdn-shop.adafruit.com/datasheets/WS2812.pdf
+LED RGB NeoPixel
+0
+6
+6
+LED_SMD
+LED_Wurth_150044M155260
+Wurth Common anode RGB LED, SMD, 0404, 1x1x1.65mm, https://www.we-online.com/catalog/datasheet/150044M155260.pdf
+LED RGB ARGB 
+0
+4
+4
+LED_SMD
+LED_Yuji_5730
+LED,Yuji,5730,https://cdn.shopify.com/s/files/1/0344/6401/files/YJWJ014-1.1_YJ-BC-5730L-G02.pdf
+LED Yuji 5730
+0
+3
+2
+LED_SMD
+LED_miniPLCC_2315
+https://docs.broadcom.com/cs/Satellite?blobcol=urldata&blobheader=application%2Fpdf&blobheadername1=Content-Disposition&blobheadername2=Content-Type&blobheadername3=MDT-Type&blobheadervalue1=attachment%3Bfilename%3DAV02-2205EN_DS_ASMT-TxBM_2014-05-09.pdf&blobheadervalue2=application%2Fx-download&blobheadervalue3=abinary%253B%2Bcharset%253DUTF-8&blobkey=id&blobnocache=true&blobtable=MungoBlobs&blobwhere=1430858274704&ssbinary=true
+LED
+0
+2
+2
+LED_SMD
+LED_miniPLCC_2315_Handsoldering
+https://docs.broadcom.com/cs/Satellite?blobcol=urldata&blobheader=application%2Fpdf&blobheadername1=Content-Disposition&blobheadername2=Content-Type&blobheadername3=MDT-Type&blobheadervalue1=attachment%3Bfilename%3DAV02-2205EN_DS_ASMT-TxBM_2014-05-09.pdf&blobheadervalue2=application%2Fx-download&blobheadervalue3=abinary%253B%2Bcharset%253DUTF-8&blobkey=id&blobnocache=true&blobtable=MungoBlobs&blobwhere=1430858274704&ssbinary=true
+LED
+0
+2
+2
+LED_THT
+LED_BL-FL7680RGB
+'Piranha' RGB LED, through hole, common anode, 7.62x7.62mm, BGRA pin order, https://cdn-shop.adafruit.com/datasheets/BL-FL7680RGB.pdf
+RGB LED Piranha Super-Flux BetLux
+0
+4
+4
+LED_THT
+LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z1.6mm
+LED, diameter 1.8mm, size 1.8x2.4mm, horizontal offset 1.27mm, z-position of LED center 1.6mm, 2 pins, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z4.9mm
+LED, diameter 1.8mm, size 1.8x2.4mm, horizontal offset 1.27mm, z-position of LED center 4.9mm, 2 pins, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z8.2mm
+LED, diameter 1.8mm, size 1.8x2.4mm, horizontal offset 1.27mm, z-position of LED center 8.2mm, 2 pins, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O3.81mm_Z1.6mm
+LED, diameter 1.8mm, size 1.8x2.4mm, horizontal offset 3.81mm, z-position of LED center 1.6mm, 2 pins, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O3.81mm_Z4.9mm
+LED, diameter 1.8mm, size 1.8x2.4mm, horizontal offset 3.81mm, z-position of LED center 4.9mm, 2 pins, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O3.81mm_Z8.2mm
+LED, diameter 1.8mm, size 1.8x2.4mm, horizontal offset 3.81mm, z-position of LED center 8.2mm, 2 pins, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O6.35mm_Z1.6mm
+LED, diameter 1.8mm, size 1.8x2.4mm, horizontal offset 6.35mm, z-position of LED center 1.6mm, 2 pins, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O6.35mm_Z4.9mm
+LED, diameter 1.8mm, size 1.8x2.4mm, horizontal offset 6.35mm, z-position of LED center 4.9mm, 2 pins, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O6.35mm_Z8.2mm
+LED, diameter 1.8mm, size 1.8x2.4mm, horizontal offset 6.35mm, z-position of LED center 8.2mm, 2 pins, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_D1.8mm_W3.3mm_H2.4mm
+LED, Round, Rectangular, size 3.3x2.4mm, diameter 1.8mm, 2 pins, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_D2.0mm_W4.0mm_H2.8mm_FlatTop
+LED, Round, Flat Top, Rectangular, size 4.0x2.8mm, diameter 2.0mm, 2 pins, https://www.kingbright.com/attachments/file/psearch/000/00/00/L-1034IDT(Ver.14A).pdf, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_D2.0mm_W4.8mm_H2.5mm_FlatTop
+LED, Round, Flat Top, Rectangular, size 4.8x2.5mm, diameter 2.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/20160808bak/L-13GD(Ver.9B).pdf, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_D3.0mm
+LED, diameter 3.0mm, 2 pins, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_D3.0mm-3
+LED, diameter 3.0mm, 3 pins, https://www.kingbright.com/attachments/file/psearch/000/00/00/L-3VSURKCGKC(Ver.12A).pdf, generated by kicad-footprint-generator
+LED
+0
+3
+3
+LED_THT
+LED_D3.0mm_Clear
+LED, diameter 3.0mm, 2 pins, clear, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_D3.0mm_FlatTop
+LED, Round, Flat Top, diameter 3.0mm, 2 pins, https://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.14A).pdf, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm
+LED, diameter 3.0mm, horizontal offset 1.27mm, z-position of LED center 2.0mm, 2 pins, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_Clear
+LED, diameter 3.0mm, horizontal offset 1.27mm, z-position of LED center 2.0mm, 2 pins, clear, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_IRBlack
+LED, diameter 3.0mm, horizontal offset 1.27mm, z-position of LED center 2.0mm, 2 pins, infrared, black, generated by kicad-footprint-generator
+LED IR
+0
+2
+2
+LED_THT
+LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_IRGrey
+LED, diameter 3.0mm, horizontal offset 1.27mm, z-position of LED center 2.0mm, 2 pins, infrared, grey, generated by kicad-footprint-generator
+LED IR
+0
+2
+2
+LED_THT
+LED_D3.0mm_Horizontal_O1.27mm_Z6.0mm
+LED, diameter 3.0mm, horizontal offset 1.27mm, z-position of LED center 6.0mm, 2 pins, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_D3.0mm_Horizontal_O1.27mm_Z10.0mm
+LED, diameter 3.0mm, horizontal offset 1.27mm, z-position of LED center 10.0mm, 2 pins, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_D3.0mm_Horizontal_O3.81mm_Z2.0mm
+LED, diameter 3.0mm, horizontal offset 3.81mm, z-position of LED center 2.0mm, 2 pins, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_D3.0mm_Horizontal_O3.81mm_Z6.0mm
+LED, diameter 3.0mm, horizontal offset 3.81mm, z-position of LED center 6.0mm, 2 pins, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_D3.0mm_Horizontal_O3.81mm_Z10.0mm
+LED, diameter 3.0mm, horizontal offset 3.81mm, z-position of LED center 10.0mm, 2 pins, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_D3.0mm_Horizontal_O6.35mm_Z2.0mm
+LED, diameter 3.0mm, horizontal offset 6.35mm, z-position of LED center 2.0mm, 2 pins, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_D3.0mm_Horizontal_O6.35mm_Z6.0mm
+LED, diameter 3.0mm, horizontal offset 6.35mm, z-position of LED center 6.0mm, 2 pins, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_D3.0mm_Horizontal_O6.35mm_Z10.0mm
+LED, diameter 3.0mm, horizontal offset 6.35mm, z-position of LED center 10.0mm, 2 pins, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_D3.0mm_IRBlack
+LED, diameter 3.0mm, 2 pins, infrared, black, generated by kicad-footprint-generator
+LED IR
+0
+2
+2
+LED_THT
+LED_D3.0mm_IRGrey
+LED, diameter 3.0mm, 2 pins, infrared, grey, generated by kicad-footprint-generator
+LED IR
+0
+2
+2
+LED_THT
+LED_D4.0mm
+LED, diameter 4.0mm, 2 pins, https://www.kingbright.com/attachments/file/psearch/000/00/00/L-43GD(Ver.17B).pdf, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_D5.0mm
+LED, diameter 5.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_D5.0mm-3
+LED, diameter 5.0mm, 3 pins, https://www.kingbright.com/attachments/file/psearch/000/00/00/L-59EGC(Ver.20A).pdf, generated by kicad-footprint-generator
+LED
+0
+3
+3
+LED_THT
+LED_D5.0mm-3_Horizontal_O3.81mm_Z3.0mm
+LED, diameter 5.0mm, horizontal offset 3.81mm, z-position of LED center 3.0mm, 3 pins, generated by kicad-footprint-generator
+LED
+0
+3
+3
+LED_THT
+LED_D5.0mm-4_RGB
+LED, RGB, diameter 5.0mm, 4 pins, https://www.kingbright.com/attachments/file/psearch/000/00/00/L-154A4SUREQBFZGEW(Ver.13A).pdf, generated by kicad-footprint-generator
+LED
+0
+4
+4
+LED_THT
+LED_D5.0mm-4_RGB_Staggered_Pins
+LED, diameter 5.0mm, 4 pins, WP154A4, https://www.kingbright.com/attachments/file/psearch/000/00/00/L-154A4SUREQBFZGEW(Ver.11A).pdf
+rgb led
+0
+4
+4
+LED_THT
+LED_D5.0mm-4_RGB_Wide_Pins
+LED, diameter 5.0mm, 4 pins, WP154A4, https://www.kingbright.com/attachments/file/psearch/000/00/00/L-154A4SUREQBFZGEW(Ver.11A).pdf
+LED diameter 5.0mm 2 pins diameter 5.0mm 3 pins diameter 5.0mm 4 pins RGB RGBLED
+0
+4
+4
+LED_THT
+LED_D5.0mm_Clear
+LED, diameter 5.0mm, 2 pins, clear, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_D5.0mm_FlatTop
+LED, Round, Flat Top, diameter 5.0mm, 2 pins, https://www.kingbright.com/attachments/file/psearch/000/00/watermark00/L-483GDT(Ver.12B).pdf, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm
+LED, diameter 5.0mm, horizontal offset 1.27mm, z-position of LED center 3.0mm, 2 pins, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_Clear
+LED, diameter 5.0mm, horizontal offset 1.27mm, z-position of LED center 3.0mm, 2 pins, clear, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_IRBlack
+LED, diameter 5.0mm, horizontal offset 1.27mm, z-position of LED center 3.0mm, 2 pins, infrared, black, generated by kicad-footprint-generator
+LED IR
+0
+2
+2
+LED_THT
+LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_IRGrey
+LED, diameter 5.0mm, horizontal offset 1.27mm, z-position of LED center 3.0mm, 2 pins, infrared, grey, generated by kicad-footprint-generator
+LED IR
+0
+2
+2
+LED_THT
+LED_D5.0mm_Horizontal_O1.27mm_Z9.0mm
+LED, diameter 5.0mm, horizontal offset 1.27mm, z-position of LED center 9.0mm, 2 pins, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_D5.0mm_Horizontal_O1.27mm_Z15.0mm
+LED, diameter 5.0mm, horizontal offset 1.27mm, z-position of LED center 15.0mm, 2 pins, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_D5.0mm_Horizontal_O3.81mm_Z3.0mm
+LED, diameter 5.0mm, horizontal offset 3.81mm, z-position of LED center 3.0mm, 2 pins, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_D5.0mm_Horizontal_O3.81mm_Z9.0mm
+LED, diameter 5.0mm, horizontal offset 3.81mm, z-position of LED center 9.0mm, 2 pins, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_D5.0mm_Horizontal_O3.81mm_Z15.0mm
+LED, diameter 5.0mm, horizontal offset 3.81mm, z-position of LED center 15.0mm, 2 pins, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_D5.0mm_Horizontal_O6.35mm_Z3.0mm
+LED, diameter 5.0mm, horizontal offset 6.35mm, z-position of LED center 3.0mm, 2 pins, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_D5.0mm_Horizontal_O6.35mm_Z9.0mm
+LED, diameter 5.0mm, horizontal offset 6.35mm, z-position of LED center 9.0mm, 2 pins, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_D5.0mm_Horizontal_O6.35mm_Z15.0mm
+LED, diameter 5.0mm, horizontal offset 6.35mm, z-position of LED center 15.0mm, 2 pins, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_D5.0mm_IRBlack
+LED, diameter 5.0mm, 2 pins, infrared, black, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf, generated by kicad-footprint-generator
+LED IR
+0
+2
+2
+LED_THT
+LED_D5.0mm_IRGrey
+LED, diameter 5.0mm, 2 pins, infrared, grey, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf, generated by kicad-footprint-generator
+LED IR
+0
+2
+2
+LED_THT
+LED_D8.0mm
+LED, diameter 8.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LED8MMGE_LED8MMGN_LED8MMRT%23KIN.pdf, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_D8.0mm-3
+LED, diameter 8.0mm, 3 pins, generated by kicad-footprint-generator
+LED
+0
+3
+3
+LED_THT
+LED_D10.0mm
+LED, diameter 10.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LED10-4500RT%23KIN.pdf, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_D10.0mm-3
+LED, diameter 10.0mm, 3 pins, http://www.kingbright.com/attachments/file/psearch/000/00/20131112/L-819EGW(Ver.13A).pdf, generated by kicad-footprint-generator
+LED
+0
+3
+3
+LED_THT
+LED_D20.0mm
+LED, diameter 20.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/DLC2-6GD%28V6%29.pdf, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_Oval_W5.2mm_H3.8mm
+LED, Oval, size 5.2x3.8mm, 2 pins, https://www.kingbright.com/attachments/file/psearch/000/00/00/L-5603QBC-D(Ver.17B).pdf, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_Rectangular_W3.0mm_H2.0mm
+LED, Rectangular, size 3.0x2.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/20160808bak/L-169XCGDK(Ver.8B).pdf, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_Rectangular_W3.9mm_H1.8mm
+LED, Rectangular, size 3.9x1.8mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/20160808bak/L-2774GD(Ver.7B).pdf, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_Rectangular_W3.9mm_H1.8mm_FlatTop
+LED_Rectangular, Rectangular,  Rectangular size 3.9x1.8mm^2, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-2774GD(Ver.7B).pdf
+LED_Rectangular Rectangular  Rectangular size 3.9x1.8mm^2 2 pins
+0
+2
+2
+LED_THT
+LED_Rectangular_W3.9mm_H1.9mm
+LED, Rectangular, size 3.9x1.9mm, 2 pins, https://www.kingbright.com/attachments/file/psearch/000/00/watermark00/L-144GDT(Ver.11B).pdf, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_Rectangular_W5.0mm_H2.0mm
+LED, Rectangular, size 5.0x2.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-169XCGDK(Ver.9B).pdf, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_Rectangular_W5.0mm_H2.0mm-3Pins
+LED, Rectangular, size 5.0x2.0mm, 3 pins, http://www.kingbright.com/attachments/file/psearch/000/00/20160808bak/L-169XCGDK(Ver.8B).pdf, generated by kicad-footprint-generator
+LED
+0
+3
+3
+LED_THT
+LED_Rectangular_W5.0mm_H2.0mm_Horizontal_O1.27mm_Z1.0mm
+LED, Rectangular, size 5.0x2.0mm, horizontal offset 1.27mm, z-position of LED center 1.0mm, 2 pins, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_Rectangular_W5.0mm_H2.0mm_Horizontal_O1.27mm_Z3.0mm
+LED, Rectangular, size 5.0x2.0mm, horizontal offset 1.27mm, z-position of LED center 3.0mm, 2 pins, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_Rectangular_W5.0mm_H2.0mm_Horizontal_O1.27mm_Z5.0mm
+LED, Rectangular, size 5.0x2.0mm, horizontal offset 1.27mm, z-position of LED center 5.0mm, 2 pins, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_Rectangular_W5.0mm_H2.0mm_Horizontal_O3.81mm_Z1.0mm
+LED, Rectangular, size 5.0x2.0mm, horizontal offset 3.81mm, z-position of LED center 1.0mm, 2 pins, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_Rectangular_W5.0mm_H2.0mm_Horizontal_O3.81mm_Z3.0mm
+LED, Rectangular, size 5.0x2.0mm, horizontal offset 3.81mm, z-position of LED center 3.0mm, 2 pins, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_Rectangular_W5.0mm_H2.0mm_Horizontal_O3.81mm_Z5.0mm
+LED, Rectangular, size 5.0x2.0mm, horizontal offset 3.81mm, z-position of LED center 5.0mm, 2 pins, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_Rectangular_W5.0mm_H2.0mm_Horizontal_O6.35mm_Z1.0mm
+LED, Rectangular, size 5.0x2.0mm, horizontal offset 6.35mm, z-position of LED center 1.0mm, 2 pins, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_Rectangular_W5.0mm_H2.0mm_Horizontal_O6.35mm_Z3.0mm
+LED, Rectangular, size 5.0x2.0mm, horizontal offset 6.35mm, z-position of LED center 3.0mm, 2 pins, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_Rectangular_W5.0mm_H2.0mm_Horizontal_O6.35mm_Z5.0mm
+LED, Rectangular, size 5.0x2.0mm, horizontal offset 6.35mm, z-position of LED center 5.0mm, 2 pins, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_Rectangular_W5.0mm_H5.0mm
+LED, Rectangular, size 5.0x5.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/20160808bak/L-169XCGDK(Ver.8B).pdf, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_Rectangular_W7.62mm_H4.55mm_P5.08mm_R3
+Datasheet can be found at https://www.gme.cz/data/attachments/dsh.511-795.1.pdf
+LED automotive super flux 7.62mm
+0
+4
+2
+LED_THT
+LED_SideEmitter_Rectangular_W4.5mm_H1.6mm
+LED, Side Emitter, Rectangular, size 4.5x1.6mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LED15MMGE_LED15MMGN%23KIN.pdf, generated by kicad-footprint-generator
+LED
+0
+2
+2
+LED_THT
+LED_VCCLite_5381H1_6.35x6.35mm
+Red 5381 Series LED VCCLite https://vcclite.com/wp-content/uploads/wpallimport/files/files/5381Series.pdf http://static.vcclite.com/pdf/Mounting%20Hole%20Pattern%202.pdf
+Red 5381 Series LED
+0
+2
+2
+LED_THT
+LED_VCCLite_5381H3_6.35x6.35mm
+Amber 5381 Series LED VCCLite https://vcclite.com/wp-content/uploads/wpallimport/files/files/5381Series.pdf http://static.vcclite.com/pdf/Mounting%20Hole%20Pattern%202.pdf
+Amber 5381 Series LED
+0
+2
+2
+LED_THT
+LED_VCCLite_5381H5_6.35x6.35mm
+Green 5381 Series LED VCCLite https://vcclite.com/wp-content/uploads/wpallimport/files/files/5381Series.pdf http://static.vcclite.com/pdf/Mounting%20Hole%20Pattern%202.pdf
+Green 5381 Series LED
+0
+2
+2
+LED_THT
+LED_VCCLite_5381H7_6.35x6.35mm
+Yellow 5381 Series LED VCCLite https://vcclite.com/wp-content/uploads/wpallimport/files/files/5381Series.pdf http://static.vcclite.com/pdf/Mounting%20Hole%20Pattern%202.pdf
+Yellow 5381 Series LED
+0
+2
+2
 MountingHole
 MountingHole_2.1mm
 Mounting Hole 2.1mm, no annular
@@ -11634,6 +14308,13 @@ MQFP QFP
 44
 44
 Package_QFP
+Microchip_PQFP-44_10x10mm_P0.8mm
+Microchip  PQFP, 44 Pin (https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/20005418B.pdf#page=10), generated with kicad-footprint-generator ipc_gullwing_generator.py
+Microchip PQFP QFP
+0
+44
+44
+Package_QFP
 PQFP-32_5x5mm_P0.5mm
 PQFP, 32 Pin (https://www.ti.com/lit/ds/symlink/ads127l01.pdf#page=87), generated with kicad-footprint-generator ipc_gullwing_generator.py
 PQFP QFP
@@ -11801,6 +14482,20 @@ TQFP QFP
 0
 79
 53
+Package_QFP
+TQFP-64-1EP_10x10mm_P0.5mm_EP5.305x5.305mm
+TQFP, 64 Pin (https://www.esstech.com/wp-content/uploads/2022/09/ES9028PRO-Datasheet-v3.7.pdf#page=54), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TQFP QFP ESS-eTQFP-64
+0
+81
+65
+Package_QFP
+TQFP-64-1EP_10x10mm_P0.5mm_EP5.305x5.305mm_ThermalVias
+TQFP, 64 Pin (https://www.esstech.com/wp-content/uploads/2022/09/ES9028PRO-Datasheet-v3.7.pdf#page=54), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TQFP QFP ESS-eTQFP-64
+0
+107
+65
 Package_QFP
 TQFP-64-1EP_10x10mm_P0.5mm_EP8x8mm
 64-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1 mm Body, 2.00 mm Footprint [TQFP] thermal pad
@@ -12852,6 +15547,13 @@ QSOP SO
 28
 28
 Package_SO
+Renesas_SOP-32_11.4x20.75mm_P1.27mm
+Renesas  SOP, 32 Pin (https://www.renesas.com/en/document/psc/package-drawing-sop-32pin-prsp0032df), generated with kicad-footprint-generator ipc_gullwing_generator.py
+Renesas SOP SO
+0
+32
+32
+Package_SO
 SO-4_4.4x2.3mm_P1.27mm
 4-Lead Plastic Small Outline (SO), see http://datasheet.octopart.com/OPIA403BTRE-Optek-datasheet-5328560.pdf
 SO SOIC 1.27
@@ -13244,12 +15946,68 @@ SOIC SO
 28
 28
 Package_SO
+SOIC-32_7.518x20.777mm_P1.27mm
+SOIC, 32 Pin (JEDEC MO-119-B, 300 mils width, variation AC, https://www.jedec.org/system/files/docs/Mo-119b.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+32
+32
+Package_SO
+SOJ-24_7.62x15.875mm_P1.27mm
+SOJ, 24 Pin (JEDEC MS-023-A, 300 mils width, variation AA, https://www.jedec.org/system/files/docs/Ms-023a.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOJ SO
+0
+24
+24
+Package_SO
+SOJ-28_7.62x18.415mm_P1.27mm
+SOJ, 28 Pin (JEDEC MS-023-A, 300 mils width, variation AD, https://www.jedec.org/system/files/docs/Ms-023a.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOJ SO
+0
+28
+28
+Package_SO
+SOJ-28_10.16x18.415mm_P1.27mm
+SOJ, 28 Pin (JEDEC MS-027-A, 400 mils width, variation AA, https://www.jedec.org/system/files/docs/Ms-027a.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOJ SO
+0
+28
+28
+Package_SO
+SOJ-32_7.62x20.955mm_P1.27mm
+SOJ, 32 Pin (JEDEC MS-023-A, 300 mils width, variation AE, https://www.jedec.org/system/files/docs/Ms-023a.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOJ SO
+0
+32
+32
+Package_SO
+SOJ-32_10.16x20.955mm_P1.27mm
+SOJ, 32 Pin (JEDEC MS-027-A, 400 mils width, variation AC, https://www.jedec.org/system/files/docs/Ms-027a.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOJ SO
+0
+32
+32
+Package_SO
 SOJ-36_10.16x23.49mm_P1.27mm
 SOJ, 36 Pin (http://www.issi.com/WW/pdf/61-64C5128AL.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
 SOJ SO
 0
 36
 36
+Package_SO
+SOJ-36_10.16x23.495mm_P1.27mm
+SOJ, 36 Pin (JEDEC MS-027-A, 400 mils width, variation AE, https://www.jedec.org/system/files/docs/Ms-027a.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOJ SO
+0
+36
+36
+Package_SO
+SOJ-44_10.16x28.575mm_P1.27mm
+SOJ, 44 Pin (JEDEC MS-027-A, 400 mils width, variation AH, https://www.jedec.org/system/files/docs/Ms-027a.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOJ SO
+0
+44
+44
 Package_SO
 SOP-4_3.8x4.1mm_P2.54mm
 SOP, 4 Pin (http://www.ixysic.com/home/pdfs.nsf/www/CPC1017N.pdf/$file/CPC1017N.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
@@ -13376,6 +16134,13 @@ SOP SO
 0
 28
 28
+Package_SO
+SOP-32_11.305x20.495mm_P1.27mm
+SOP, 32 Pin (http://www.issi.com/WW/pdf/61-64C5128AL.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOP SO
+0
+32
+32
 Package_SO
 SOP-44_12.6x28.5mm_P1.27mm
 SOP, 44 Pin (https://www.mxic.com.tw/Lists/Datasheet/Attachments/8177/MX23C6410,%205V,%2064Mb,%20v3.1.pdf#page=5), generated with kicad-footprint-generator ipc_gullwing_generator.py
@@ -14855,21 +17620,21 @@ SC-82AB
 4
 Package_TO_SOT_SMD
 SOT-23
-SOT, 3 Pin (https://www.jedec.org/system/files/docs/to-236h.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT, 3 Pin (JEDEC TO-236 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=TO-236), generated with kicad-footprint-generator ipc_gullwing_generator.py
 SOT TO_SOT_SMD
 0
 3
 3
 Package_TO_SOT_SMD
 SOT-23-3
-SOT, 3 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178D.PDF inferred 3-pin variant), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT, 3 Pin (JEDEC MO-178 inferred 3-pin variant https://www.jedec.org/document_search?search_api_views_fulltext=MO-178), generated with kicad-footprint-generator ipc_gullwing_generator.py
 SOT TO_SOT_SMD
 0
 3
 3
 Package_TO_SOT_SMD
 SOT-23-5
-SOT, 5 Pin (~), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT, 5 Pin (JEDEC MO-178 Var AA https://www.jedec.org/document_search?search_api_views_fulltext=MO-178), generated with kicad-footprint-generator ipc_gullwing_generator.py
 SOT TO_SOT_SMD
 0
 5
@@ -14883,7 +17648,7 @@ SOT-23-5 hand-soldering
 5
 Package_TO_SOT_SMD
 SOT-23-6
-SOT, 6 Pin (~), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT, 6 Pin (JEDEC MO-178 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=MO-178), generated with kicad-footprint-generator ipc_gullwing_generator.py
 SOT TO_SOT_SMD
 0
 6
@@ -14897,7 +17662,7 @@ SOT-23-6 Handsoldering
 6
 Package_TO_SOT_SMD
 SOT-23-8
-SOT, 8 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant BA), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT, 8 Pin (JEDEC MO-178 Var BA https://www.jedec.org/document_search?search_api_views_fulltext=MO-178), generated with kicad-footprint-generator ipc_gullwing_generator.py
 SOT TO_SOT_SMD
 0
 8
@@ -17542,27 +20307,6 @@ Connector_FFC-12pin-1mm-vertical
 14
 12
 zzkeeb
-Connector_HRO-TYPE-C-31-M-12
-
-
-0
-20
-17
-zzkeeb
-Connector_HRO-TYPE-C-31-M-12-cutout
-
-
-0
-0
-0
-zzkeeb
-Connector_HRO-TYPE-C-31-M-12-data
-
-
-0
-12
-9
-zzkeeb
 Connector_JST-1x02-2.00mm
 JST PH series connector, S2B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
 connector JST PH top entry
@@ -17653,6 +20397,27 @@ Connector_TRRS-reversible-flip3d
 0
 8
 4
+zzkeeb
+Connector_USB-C-31-M-12
+
+
+0
+20
+17
+zzkeeb
+Connector_USB-C-31-M-12-cutout
+
+
+0
+0
+0
+zzkeeb
+Connector_USB-C-31-M-12-data
+
+
+0
+12
+9
 zzkeeb
 Connector_USB-C-mid-mount-ali
 
@@ -17829,6 +20594,13 @@ mounting hole 2.2mm no annular m2
 0
 0
 zzkeeb
+LED_RGB_5050-6-flip
+http://cdn.sparkfun.com/datasheets/Components/LED/5060BRG4.pdf
+RGB LED 5050-6
+0
+6
+6
+zzkeeb
 LED_SK6812-MINI-E
 
 
@@ -17948,6 +20720,20 @@ USB C pro micro compatible microcontroller
 32
 32
 zzkeeb
+MCU_rp2040-tiny-smd
+
+
+0
+23
+23
+zzkeeb
+MCU_rp2040-tiny-tht
+
+
+0
+23
+23
+zzkeeb
 MCU_rp2040-zero-cutout
 
 
@@ -18009,7 +20795,7 @@ PER561-P115-N0015
 Integrated Circuit
 0
 7
-3
+4
 zzkeeb
 RotaryEncoder_EC11
 Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
