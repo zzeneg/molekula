@@ -1,4 +1,4 @@
-# molekula: keyboard framework
+# molekula: keyboard & framework
 
 ## modular framework
 
@@ -49,6 +49,6 @@ If you like my work and want to support my future designs, please consider [spon
 
 Molekula2 keyboard was sponsored by PCBWay. I can highly recommend their PCBA and 3D printing services - "Imaging Black" resin looks fantastic.
 
-<a href="https://pcbway.com" target="_blank">PCBWay</a>
+<a href="https://pcbway.com" target="_blank">![image](https://github.com/user-attachments/assets/afe00c07-a6ee-4589-b40c-1ee1c76488e4)</a>
 
 <a href="https://shop.beekeeb.com" target="_blank"><img src="https://beekeeb.com/beekeeb-logo.png" width="200" ></a>
