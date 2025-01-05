@@ -10,7 +10,11 @@ Such modular approach allows for quick, cheap and easy experimenting with differ
 
 - central with pro-micro/nice!nano footprint, nice!view and rotary encoder
 
+<img src="./pcbs/central-promicro-encoder/render.png" height="400" />
+
 - side with 18 keys and minY spacing (19x16mm)
+
+<img src="./pcbs/side36-minY/render.png" height="400" />
 
 ## Molekula2 keyboard
 
@@ -25,16 +29,26 @@ Features:
 - nice!view support
 - rotary encoder
 
-[Build guide](./keyboards/Molekula2/README.md)
+[More info and build guide](./keyboards/Molekula2/README.md)
 
 ### Photos
 
-### Sponsors
+<img src="./keyboards/Molekula2/images/top-1.jpg" height="400" />
 
-Molekula keyboard was sponsored by PCBWay. I can highly recommend their PCBA and 3D printing services - their "Imaging Black" resin looks fantastic.
+<img src="./keyboards/Molekula2/images/top-2.jpg" height="400" />
 
-<a href="https://shop.beekeeb.com" target="_blank"><img src="https://beekeeb.com/beekeeb-logo.png" align="left" width="200" ></a>
+<img src="./keyboards/Molekula2/images/side.jpg" height="400" />
+
+<img src="./keyboards/Molekula2/images/bottom.jpg" height="400" />
 
 ### Support
 
 If you like my work and want to support my future designs, please consider [sponsorship](https://github.com/sponsors/zzeneg).
+
+### Sponsors
+
+Molekula2 keyboard was sponsored by PCBWay. I can highly recommend their PCBA and 3D printing services - "Imaging Black" resin looks fantastic.
+
+<a href="https://pcbway.com" target="_blank">PCBWay</a>
+
+<a href="https://shop.beekeeb.com" target="_blank"><img src="https://beekeeb.com/beekeeb-logo.png" width="200" ></a>

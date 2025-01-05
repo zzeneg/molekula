@@ -18,20 +18,21 @@ Features:
 
 ## Bill of materials
 
-- MCU - nice!nano _(recommended, please support original creator)_ or its chinese clone
-- 36 MX/GLP/Choc hotswap sockets
-- 36 MX/GLP/Choc switches
+- MCU - nice!nano _(recommended to support original creator)_ or its chinese clone
+- 36 MX/KS-33/Choc switches
+- 36 MX/KS-33/Choc hotswap sockets
 - 36 [SMD SOD-123 1N4148](https://www.aliexpress.com/item/1005002882901030.html) diodes
 - Battery up to 602040 size - this is what I'm using, should be enough but you may try to go bigger (check that there's enough space inside using 3D project)
 - _[Optional]_ Vertical 2pin 2.54mm JST [connector](https://www.aliexpress.com/item/1005004938361514.html) for battery
 - [Magnetic connector 12pin](https://www.aliexpress.com/item/1005004609718442.html)
 - 1 rotary encoder, [low profile EC12](https://www.aliexpress.com/item/1005003636548797.html) is recommended (no click though). Versions with click often has issues with power consumption, be careful
-- 6mm, 8mm and 10mm [M2 screws with flat head](https://www.aliexpress.com/item/4001248931159.html) (choose black or silver based on case color/preference)
+- 1 [30mm knob](https://www.aliexpress.com/item/1005001783212821.html)
+- 4/5mm, 6/8mm and 10mm [M2 screws with flat head](https://www.aliexpress.com/item/4001248931159.html) (choose black or silver based on case color/preference)
 - [M2 nuts](https://www.aliexpress.com/item/1005001412230125.html)
 - M2 3/4mm [heatset inserts](https://www.aliexpress.com/item/1005004624377733.html) - diameter 3.2mm for resin case or 3.5mm for thermoplastic
 - Vertical 12pin 0.5mm [FFC/FPC connector](https://www.aliexpress.com/item/10000000737049.html)
 - Horizontal 12pin 0.5mm [FFC/FPC connector](https://www.aliexpress.com/item/10000348360254.html)
-- 12pin 0.5mm 5cm [FFC cable](https://www.aliexpress.com/item/1005007561337665.html) - grab both reverse and same side variants, in case you solder the connector upside down
+- 12pin 0.5mm 5cm [FFC cable](https://www.aliexpress.com/item/1005007561337665.html) - both reverse and same side variants
 - SMD 4x4x1.5mm [push button](https://www.aliexpress.com/item/32802382507.html)
 - [7x1.5mm legs](https://www.aliexpress.com/item/1005002995402961.html)
 - [10x3mm magnets](https://www.aliexpress.com/item/1005006802780901.html) - for connecting sides
@@ -42,6 +43,10 @@ Features:
 ## PCBA
 
 PCBA is recommended, all PCBs are combined into one, BOM and Position files are tested. If you can manually solder FFC connectors with 0.5mm pitch (it's totally doable), ignore PCBA and order PCBs separately.
+
+## Case
+
+See STLs in [./case]() folder. There are separate top/bottom parts for ChocV1/ChocV2/KS-33/MX switches. Also there is left side with and without logo. Separate logo can be printed in another color and inserted.
 
 ## Build guide
 
@@ -94,20 +99,40 @@ Take them apart and solder without flipping anything. It's a bit tricky because 
 
 Just solder the hotswap sockets. They are not symmetrical, look at silkscreen on how to place them. Make sure that socket is fully inserted into the PCB. You have use a lot of solder as there are a lot of holes but try to avoid big solder blobs - they may collide with bottom case.
 
+<img src="./images/build-5.jpg" height="400" />
+
 If you want a JST socket for the battery - solder it to the left PCB (JST should be on the top side). Double check the polarity on the battery connector, and do not connect it yet.
 
 #### nice!view
 
-Take a 5-pin header and carefully move pins, leaving around 1.5mm on one side - solder it to nice!view like that.
+Take a 5-pin header and carefully move pins, leaving around 1.5mm on one side and solder short side to nice!view.
+
+<img src="./images/build-6.jpg" height="400" />
+
+Attach nice!view to the case with hot glue - add more around the pins.
+
+<img src="./images/build-7.jpg" height="400" />
 
 #### Assembly
 
-Insert socketed MCU and attach all FFC cables. Connect everything outside the case for the first time, and perform basic checks for shorts between BAT/GND/VCC/B+/B-. If everything is ok, solder your battery to the PCB or connect it with JST.
+First insert socketed MCU and attach all FFC cables outside the case and perform basic checks for shorts between BAT/GND/VCC/B+/B-. If everything is ok, solder your battery to the PCB or connect it with JST.
 
 Put screw inserts into the case. For thermoplastics (MJF, PLA, etc) use 3.5mm-wide and look at [this guide](https://docs.bastardkb.com/bg_charybdis/04screw_inserts.html) for detailed instructions on heat inserts. For resin case take 3.2mm inserts and use instant glue (cyanoacrylate) and/or a drill if the holes are too narrow.
 
 Insert 10mm magnets, they should go all the way in so there is no gap between sides, use more force if needed. If loose, add a bit of instant glue inside.
 
-Insert magnetic connector into the case - again, bigger one with "leg" should go the left (battery) side. Use 8mm and 10mm screws with hexes for them.
+Assemble left side first - insert magnetic connector into the case (bigger one with a "leg") with already attached FFC cable, fix connector PCB in place with 10mm screws. Hot glue your battery to the case, and connect FFC to side PCB. Insert several switches to hold the PCB in place.
 
-Attach nice!view to the case with hot glue - add more around the pins.
+<img src="./images/build-8.jpg" height="400" />
+
+Now right side - start with magnetic connector, for this side use 6-8mm screws. Connect FFC cables, carefully put central PCB in place, looking at n!v pins. After that, bend and press the FFC cable going to magnetic connector - it should be flat to hide under encoder knob (the other cable has a lot of place).
+
+<img src="./images/build-9.jpg" height="400" />
+
+<img src="./images/build-10.jpg" height="400" />
+
+Now attach encoder knob. I recommend to put it around 2-3mm higher than the lowest position.
+
+Last step is to add bottom plate, use 4-5mm screws for this.
+
+Done!
