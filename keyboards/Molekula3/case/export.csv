@@ -1,0 +1,6 @@
+plate-right, plateType, 1, 2, 3, 4, 5
+plate-left, plateType, 1, 2, 3, 4, 5
+top-right, topType, 1, 2
+top-left, topType, 1, 2
+center, topType, 1, 2
+center-nice-view, topType, 1, 2
