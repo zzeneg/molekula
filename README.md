@@ -16,30 +16,49 @@ Such modular approach allows for quick, cheap and easy experimenting with differ
 
 <img src="./pcbs/side36-minY/render.png" height="400" />
 
-## Molekula2 keyboard
+## Molekula keyboards
 
 Reference design using molekula PCBs.
 
 Features:
 
 - minY (19x16mm) spacing
-- unibody that can be disassembled into two parts for traveling
 - 36 keys
 - wireless
 - nice!view support
 - rotary encoder
 
-[More info and build guide](./keyboards/Molekula2/README.md)
+### Molekula2
 
-### Photos
+Unibody that can be disassembled into two parts for traveling
 
 <img src="./keyboards/Molekula2/images/top-1.jpg" height="400" />
 
-<img src="./keyboards/Molekula2/images/top-2.jpg" height="400" />
-
 <img src="./keyboards/Molekula2/images/side.jpg" height="400" />
 
-<img src="./keyboards/Molekula2/images/bottom.jpg" height="400" />
+[More info and build guide](./keyboards/Molekula2/README.md)
+
+### Molekula3
+
+Unibody assembled from multiple parts, to allow easy modifications and experiments.
+
+- optimised for FDM printing
+- configurable angle and distance between sides (default is 18deg and 60mm)
+- different options with dongle or nice!view
+- MX/KS-33/ChocV1/ChocV2 are supported, except thumbs are low-profile only
+
+<img src="./keyboards/Molekula3/images/front-nice-view.jpg" height="400" />
+
+<img src="./keyboards/Molekula3/images/parts.jpg" height="400" />
+
+[More info and build guide](./keyboards/Molekula3/README.md)
+
+### minY keycaps
+
+Keycaps designed for minY spacing (19mmx16mm):
+
+- [MX DES](./keycaps/MX-DES-minY/)
+- [Choc DES](./keycaps/MX-DES-minY/) - optimised for FDM printing
 
 ### Support
 

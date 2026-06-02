@@ -11,6 +11,14 @@ Features:
 - nice!view support
 - rotary encoder
 
+<img src="./images/top-1.jpg" height="400" />
+
+<img src="./images/top-2.jpg" height="400" />
+
+<img src="./images/side.jpg" height="400" />
+
+<img src="./images/bottom.jpg" height="400" />
+
 ## Firmware
 
 - [molekula shield](https://github.com/zzeneg/zmk-molekula) with default keymap and ZMK Studio support
