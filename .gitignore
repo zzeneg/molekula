@@ -1,2 +1,3 @@
 */**/*-backups
 */**/production/backups
+*.lck
